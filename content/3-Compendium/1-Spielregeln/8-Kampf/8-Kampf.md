@@ -1,0 +1,1 @@
+Abenteurer begegnen vielen gefährlichen Monstern und ruchlosen Schurken. Bei solchen Gelegenheiten bricht oft ein Kampf aus.

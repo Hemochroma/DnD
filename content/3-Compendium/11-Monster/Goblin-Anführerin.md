@@ -1,0 +1,1 @@
+Die Anführerin des Goblinhorts leitete die Geburtstagsfeier ihres Stammes. Ihre Feier nahm ein abruptes Ende, als die Gruppe die Situation eskalieren ließ und die Goblins angriff.

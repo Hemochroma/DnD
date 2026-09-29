@@ -1,0 +1,1 @@
+Charaktere können nicht rund um die Uhr Abenteuer erleben. Sie müssen rasten. Jede Kreatur kann jederzeit am Tag eine einstündige kurze Rast einlegen oder den Tag mit einer achtstündigen langen Rast beenden. Zu den wichtigsten Vorzügen einer Rast gehört der Umstand, dass Kreaturen Trefferpunkte zurückerhalten. Die Regeln für kurze und lange Rasten findest du unter „Regelglossar“.

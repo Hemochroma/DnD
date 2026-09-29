@@ -1,0 +1,1 @@
+Im Floiant wird die böse Chaosglocke beschrieben, die Monster von nah und fern anlocken soll. Das Buch behauptet, sie könne sogar Tote auferwecken welche nur zerstört werden könnten, wenn diese in eine heilige Quelle tief in den Wäldnern der Grenzlande getaucht werden.

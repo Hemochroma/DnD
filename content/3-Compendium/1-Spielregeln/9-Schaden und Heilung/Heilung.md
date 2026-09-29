@@ -1,0 +1,3 @@
+Trefferpunkte können durch Magie wie den Zauber Wunden heilen oder einen Heiltrank, aber auch durch eine kurze oder lange Rast (siehe „Regelglossar“) wiederhergestellt werden. Wenn du geheilt wirst, fügst du die wieder‑ hergestellten Trefferpunkte deinen aktuellen Trefferpunkten hinzu. Deine Trefferpunkte können dein Trefferpunktemaximum nicht überschreiten. Trefferpunkte, die du über das Maximum hinaus erhältst, gehen verloren. Beispiel: Wenn du bei 14 aktuellen Trefferpunkten und einem Trefferpunktemaximum von 20 durch Heilung 8 Treffer‑ punkte zurückerhältst, erhältst du 6 Trefferpunkte zurück, nicht 8.
+
+![[Rasten]]

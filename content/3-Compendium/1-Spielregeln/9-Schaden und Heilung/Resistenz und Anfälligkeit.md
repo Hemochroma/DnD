@@ -1,0 +1,6 @@
+Manche Kreaturen und Gegenstände haben Resistenzen gegen oder Anfälligkeiten für bestimmte Schadensarten. Wenn du gegen eine Schadensart resistent bist, ist der Schaden dieser Art gegen dich halbiert (abgerundet). Wenn du anfällig für eine Schadensart bist, ist der Schaden dieser Art gegen dich verdoppelt. Beispiel: Wenn du gegen Kälteschaden resistent bist, ist Kälteschaden gegen dich halbiert, und wenn du anfällig für Feuerschaden bist, ist Feuerschaden gegen dich verdoppelt.
+## Nicht stapelbar
+Mehrere Resistenzen oder Anfälligkeiten werden nur als eine einzelne gezählt, wenn sie dieselbe Schadensart betreffen. Beispiel: Wenn du gegen nekrotischen Schaden und außerdem gegen alle Schadensarten resistent bist, wird nekrotischer Schaden gegen dich halbiert.
+## Anwendungsreihenfolge
+Schadensmodifikatoren werden in folgender Reihenfolge angewendet: zuerst Anpassungen wie Boni, Mali und Multiplikatoren, dann Resistenzen, als Drittes Anfälligkeiten. 
+	Beispiel: Eine Kreatur ist gegen alle Schadensarten resistent, anfällig für Feuerschaden, und sie befindet sich innerhalb einer magischen Aura, die alle Schadensarten um 5 verringert. Wenn diese Kreatur 28 Feuerschaden erleidet, wird der Schaden zuerst um 5 verringert (auf 23), dann aufgrund der Resistenz halbiert (und auf 11 abgerundet) und zum Schluss aufgrund der Anfälligkeit verdoppelt (auf 22).

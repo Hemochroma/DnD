@@ -1,0 +1,11 @@
+Ist das Ergebnis einer Aktion ungewiss, so wird mit einem W20 über Erfolg oder Misserfolg entschieden. Solche Würfe heißen W20‑Prüfungen. Es gibt drei Arten von ihnen: Attributswürfe, Rettungswürfe und Angriffswürfe. Sie werden in drei Schritten ausgeführt:
+
+#### 1. Würfle mit 1W20
+Ziel ist stets ein möglichst hohes Ergebnis. Wenn du beim Wurf im Vorteil oder im Nachteil bist (siehe weiter hinten unter „Die Spielregeln“), würfelst du mit zwei W20, verwendest jedoch nur das Ergebnis von einem der Würfel – das höhere, wenn du im Vorteil bist, und das niedrigere, wenn du im Nachteil bist.
+#### 2. Füge Modifikatoren hinzu
+Füge dem Ergebnis des W20 diese Modifikatoren hinzu:
+- **Den relevanten [[Die sechs Attribute#Attributsmodifikatoren|Attributsmodifikator]]:** Unter „Die Spielregeln“ und „Regelglossar“ wird erläutert, welche Attributsmodifikatoren bei den verschiedenen W20‑Prüfungen zum Einsatz kommen. • Deinen Übungsbonus, sofern relevant: Jede Kreatur hat einen Übungsbonus – eine Zahl, die einer W20‑Prüfung hinzugefügt wird, wenn diese beispielsweise eine Fertigkeit verwendet, in der die Kreatur Übung hat. Siehe „Übung“ weiter hinten unter „Die Spielregeln“. • Situationsabhängige Boni und Mali: Klassenmerkmale, Zauber und andere Regeln können dem Würfelwurf einen Bonus oder einen Malus verleihen.
+- **Deinen Übungsbonus, sofern relevant:** Jede Kreatur hat einen Übungsbonus – eine Zahl, die einer W20‑Prüfung hinzugefügt wird, wenn diese beispielsweise eine Fertigkeit verwendet, in der die Kreatur Übung hat. Siehe „Übung“ weiter hinten unter „Die Spielregeln“.
+- **Situationsabhängige Boni und Mali:** Klassenmerkmale, Zauber und andere Regeln können dem Würfelwurf einen Bonus oder einen Malus verleihen.
+#### 3. Vergleiche das Ergebnis mit einem Zielwert
+Wenn die Summe von W20‑Ergebnis und Modifikatoren dem Zielwert entspricht oder ihn überschreitet, war die W20‑Prüfung erfolgreich. Wenn nicht, ist sie misslungen. Der Spielleiter legt die Zielwerte fest und teilt den Spielern mit, ob ihre Würfe erfolgreich waren. Der Zielwert bei Attributs‑ und Rettungswürfen wird Schwierigkeitsgrad (SG) genannt. Bei Angriffswürfen fungiert die Rüstungsklasse (RK) als Zielwert. Die RK ist auf den Charakterbögen oder in einem Wertekasten vermerkt (siehe „Regelglossar“).

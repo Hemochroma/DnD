@@ -1,0 +1,7 @@
+Wände, Bäume, Kreaturen und andere Hindernisse können Deckung bieten und es damit schwieriger machen, ein Ziel zu treffen. Wie in der Tabelle „Deckung“ beschrieben, gibt es drei Deckungsgrade, von denen jeder dem Ziel einen anderen Vorzug verschafft. Eine Deckung ist nur wirksam, wenn der Angriff oder Effekt von der gegenüberliegenden Seite der Deckung kommt. Befindet sich das Ziel hinter mehreren Deckungen, zählt nur die wirksamste Deckung. Die Deckungen addieren sich nicht. Beispiel: Steht ein Ziel hinter einer Kreatur, die Teildeckung gibt, sowie gleichzeitig hinter einem Baum, der Dreivierteldeckung gibt, so verfügt das Ziel über Dreivierteldeckung.
+
+| Deckung     | Vorzug für das Ziel                                     | Erhalten durch...                                                                |
+| ----------- | ------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 1/2         | Bonus von +2 auf RK und Geschicklichkeitsrettungswürfe  | ... andere Kreatur oder Gegenstand, mindestens die Hälfte des Ziels ist verdeckt |
+| 3/4         | Bonus von +5 auf RK und Geschicklich keitsrettungswürfe | ... Gegenstand, mindestens drei Viertel des Ziels sind verdeckt                  |
+| Vollständig | Kann nicht zum direkten Ziel werden                     | ... Gegenstand, das gesamte Ziel ist verdeckt                                    |

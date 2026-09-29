@@ -1,0 +1,9 @@
+Mit einem Nahkampfangriff kannst du ein Ziel in Reichweite angreifen. Nahkampfangriffe werden üblicherweise mit Handwaffen oder als waffenlose Angriffe ausgeführt. Viele Monster führen Nah‑ kampfangriffe mit Klauen, Zähnen oder anderen Körperteilen aus. Auch einige Zauber enthalten Nahkampfangriffe.
+## Nahkampfreichweite
+Eine Kreatur verfügt über eine Reichweite von 1,5 Metern und kann daher Ziele innerhalb dieser Reichweite im Nahkampf angreifen. Manche Kreaturen haben Nahkampfangriffe mit einer höheren Reichweite. Dies ist in ihrer Beschreibung vermerkt.
+## Gelegenheitsangriffe
+Kampfteilnehmer achten darauf, ob der Gegner seine Abwehr vernachlässigt. Wenn du dich unachtsam an deinen Gegnern vorbeibewegst, bringst du dich in Gefahr und provozierst Gelegenheitsangriffe.
+### Gelegenheitsangriffe vermeiden
+Du kannst gegnerische Gelegenheitsangriffe vermeiden, indem du die Rückzug‑Aktion ausführst. Auch wenn du dich teleportierst oder bewegt wirst, ohne dass du deine Bewegung, Aktion, Bonusaktion oder Reaktion nutzt, bleiben Gelegenheitsangriffe aus. Beispiel: Du provozierst keine Gelegenheitsangriffe, wenn eine Explosion dich aus der Reichweite des Gegners hinausschleudert oder du an einem Feind vorbeifällst.
+### Einen Gelegenheitsangriff ausführen
+Du kannst einen Gelegenheitsangriff ausführen, wenn eine Kreatur, die du sehen kannst, deine Angriffsreich‑ weite verlässt. Führe dazu eine Reaktion aus, um einen Nahkampfangriff mit einer Waffe oder einen waffenlosen Angriff gegen diese Kreatur auszuführen. Der Angriff erfolgt unmittelbar, bevor die Kreatur deine Reichweite verlässt.

@@ -1,0 +1,1 @@
+Der Nothic ist ein einzelgängerischer Forscher und Bewohner des Nothic-Horts. Anders als sein unheimliches Aussehen vermuten lässt, zeigte er sich der Gruppe gegenüber friedlich. Unterstützt wird er von einem magisch belebten fliegenden Schwert, das auf seine Befehle hört. Sein größtes Interesse scheint der Erforschung verborgenen Wissens und magischer Geheimnisse zu gelten.
