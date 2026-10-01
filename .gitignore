@@ -4,8 +4,8 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-DnD/.obsidian
-DnD/.trash
+.obsidian
+.trash
 .quartz-cache
 private/
 .replit
@@ -13,14 +13,14 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
-DnD/content/0-DM Toolkit
-DnD/content/0-Mechanics
-DnD/content/0-Notizen
-DnD/content/0-Obsidian TTRPG Tutorial
-DnD/content/0-Scratch Notes
-DnD/content/z_Assets
-DnD/content/z_Example Notes
-DnD/content/z_Templates
-DnD/content/ZoomMap
-DnD/content/.dnd-ui-toolkit-state.json
-DnD/content/Map_District_Placeholder.markers.json
+0-DM Toolkit
+0-Mechanics
+0-Notizen
+0-Obsidian TTRPG Tutorial
+0-Scratch Notes
+z_Assets
+z_Example Notes
+z_Templates
+ZoomMap
+.dnd-ui-toolkit-state.json
+Map_District_Placeholder.markers.json
