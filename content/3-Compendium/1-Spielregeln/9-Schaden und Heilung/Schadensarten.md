@@ -1,1 +1,0 @@
-Jeder Schaden ist von einer bestimmten Art, beispielsweise Feuer‑ oder Hiebschaden. Die Schadensarten sind unter „Regelglossar“ aufgeführt. Sie weisen keine eigenen Regeln auf, doch es gibt andere Regeln wie die für Resistenzen, die auf ihnen basieren.

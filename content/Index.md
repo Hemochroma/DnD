@@ -1,1 +1,2 @@
-Welcome, [[Home]]
+[[3-Compendium]]
+

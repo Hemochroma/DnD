@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiSettings",
+      "EnScroll",
+      "LoDnd",
+      "EnBook",
+      "LiNotebookPen"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "2-Welt": "EnWorld",
+  "2-Campaign": "GaCampaign",
+  "1-Party": "GaParty",
+  "0-Notizen": "LiNotebookPen",
+  "1-Session Journals": "EnBook",
+  "0-DM Toolkit": "GaDm",
+  "3-Compendium": "RaScrollUnfurled",
+  "3-Compendium/D&D Compendium.pdf": "LoDnd",
+  "3-Compendium/1-Spielregeln": "EnScroll",
+  "3-Compendium/2-Charaktererstellung": "GaCharacter",
+  "3-Compendium/6-Ausrüstung": "EnArmor",
+  "3-Compendium/7-Zauber": "EnSpellbook",
+  "3-Compendium/11-Monster": "GaMonster"
+}

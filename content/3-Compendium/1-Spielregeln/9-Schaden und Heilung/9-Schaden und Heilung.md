@@ -1,1 +1,0 @@
-In D&D sind Verletzungen und Tod häufige Gefahren, wie folgende Regeln näher darlegen

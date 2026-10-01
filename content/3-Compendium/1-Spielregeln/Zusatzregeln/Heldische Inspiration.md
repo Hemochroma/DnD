@@ -1,5 +1,0 @@
-Manchmal gibt der SL oder eine Regel dir Heldische Inspiration. Wenn du Heldische Inspiration hast, kannst du sie verbrauchen, um mit einem Würfel sofort nach dem Wurf erneut zu würfeln. In diesem Fall musst du das neue Ergebnis verwenden. 
-
-**Jeweils nur eine Instanz:** Du kannst nie mehr als eine Instanz von Heldischer Inspiration haben. Wenn du Heldische Inspiration erhältst, jedoch bereits über Heldische Inspiration verfügst, kannst du die neue Instanz an einen Spielercharakter in deiner Gruppe weitergeben, der keine Heldische Inspiration hat. 
-
-**Heldische Inspiration erhalten:** Dein SL kann dir aus verschiedensten Gründen Heldische Inspiration geben. Üblicherweise wird diese Inspiration vom SL vergeben, wenn ein Charakter etwas besonders Heldenhaftes, Charaktertypisches oder Unterhalt sames tut. Sie dient als Belohnung dafür, das Spiel für alle Beteiligten unterhaltsamer gemacht zu haben. Andere Regeln könnten es deinem Charakter gestatten, unabhängig von der Entscheidung des SL Heldische Inspiration zu erhalten. Beispiel: Menschliche Charaktere beginnen jeden Tag mit Heldischer Inspiration.

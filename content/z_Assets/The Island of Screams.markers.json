@@ -1,0 +1,47 @@
+{
+  "size": {
+    "w": 5882,
+    "h": 5888
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "layer_h1udn1",
+      "name": "Pings",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    {
+      "path": "z_Assets/The Island of Screams.jpg"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "z_Assets/The Island of Screams.jpg",
+  "measurement": {
+    "scales": {
+      "z_Assets/The Island of Screams.jpg": 86.73547826086958
+    },
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "mi",
+    "metersPerPixel": 86.73547826086958
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "grids": []
+}

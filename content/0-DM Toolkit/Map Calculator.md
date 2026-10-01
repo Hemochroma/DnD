@@ -98,4 +98,4 @@ Calculation Step 1: `VIEW[{scale_pixels} / {scale_pixels_range}][math:mapCalc1]`
 Scale: `VIEW[1/{mapCalc1}][math]`
 
 Copy the Scale value into your leaflet map syntax. 
-You should now be able to measure in your map. The best way to test this is to measure along the scale in your map and make sure the measurement units match 
+You should now be able to measure in your map. The best way to test this is to measure along the scale in your map and make sure the measurement units match

@@ -1,1 +1,0 @@
-Manche Kreaturen und Gegenstände sind gegen bestimmte Schadensarten und Zustände immun. Immunität gegen eine Schadensart bedeutet, dass du keinen Schaden dieser Art erleidest. Immunität gegen einen Zustand bedeutet, dass du von diesem Zustand nicht betroffen bist.

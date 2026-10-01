@@ -1,1 +1,0 @@
-Abenteurer und Monster verstecken sich gelegent‑ lich, um an Wächtern vorbeizukommen, jemanden auszuspähen oder zu überfallen. Der Spielleiter entscheidet, wann die Umstände zum Verstecken geeignet sind. Wenn du dich zu verstecken versuchst, führst du die Verstecken‑Aktion aus.

@@ -22,10 +22,9 @@ LifestyleCostSP: 2
 IncludeMeals: true
 TravelCalc: 19.999333355554814
 ---
-
 # Travel Speed
 Updating the calculator below will flows the changes out to any notes that automatically calculate the travel distance. You need to refresh this note in order to see calculated changes. 
-
+	
 ![[Traveling Party.jpg|right|300]]
 
 | DnD5e Travel Calculator                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 
@@ -77,4 +76,3 @@ Copy the code below into another note and change the `88` to match the distance 
 > **Travel Calc:** `VIEW[({Travel Calculator#varMins}/(({Travel Calculator#BaseSpeed} / ({Travel Calculator#ExhaustionLevel} > 1 ? 2 : 1) + ({Travel Calculator#Encumbered} ? -10 : 0) + ({Travel Calculator#HorseshoesofSpeed} ? 30 : 0) + {Travel Calculator#AdditionalBonus}) / 10) * {Travel Calculator#SpeedMultiplier})][math:TravelCalc]`
 
 `VIEW[{Motive}]`
-

@@ -1,1 +1,0 @@
-Ein ungewöhnlich vernünftiger Oger, der im Ogerhort lebte. Statt sofort anzugreifen, bot er der Gruppe sogar an, sich ihnen als Söldner anzuschließen. Da er ihnen jedoch keinen freien Zugang zu seiner Höhle gewähren wollte, wurde er schließlich getötet.

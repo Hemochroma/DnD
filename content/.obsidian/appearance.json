@@ -1,0 +1,18 @@
+{
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "supercharged-links-gen",
+    "FantasyFonts",
+    "SailKite - TabsInObsidian",
+    "TabsInObsidian - MaxH",
+    "TabsInObsidian - MaxH480",
+    "BasesTest",
+    "Mermaid_Fix_Text_Clipping",
+    "Modal Forms - TTRPG Tutorials style"
+  ],
+  "baseFontSize": 15
+}

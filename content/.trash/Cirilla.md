@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Cirilla
 tags:
   - Category/Player
 Player:

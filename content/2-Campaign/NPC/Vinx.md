@@ -1,1 +1,0 @@
-Vinx wurde von Goblins gefangen gehalten und gefesselt. Obwohl die Gruppe sie fand, wurde sie nur teilweise befreit und musste den Großteil des Dungeons begleitet von ihren Rettern durchqueren. Nachdem sie ihren vermissten Wandteppich zurückerhalten hatte, bedankte sie sich mit einem Schatz. Trotz ihrer misslichen Lage bewies sie bemerkenswerte Geduld.

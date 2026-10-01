@@ -1,0 +1,26 @@
+:root {
+	--granite-size: 80px;
+}
+
+.granite-container {
+	position: fixed;
+	bottom: 60px;
+	right: 30px;
+}
+
+.granite-container img {
+	width: var(--granite-size);
+	height: var(--granite-size);
+	border-radius: var(--granite-size);
+}
+
+.granite-container[aria-label]::before {
+		--background-modifier-message: var(--background-primary);
+        content: attr(aria-label);
+        color: var(--text-normal) !important;
+        font-size: var(--font-ui-medium);
+        border-radius: 20px;
+        padding: var(--size-4-3) var(--size-4-6);
+        width: 150px;
+        background: var(--background-modifier-message);
+}

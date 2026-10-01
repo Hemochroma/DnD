@@ -1,0 +1,21 @@
+{
+  "collections": {
+    "Default": {
+      "id": "Default",
+      "uid": "4e2aaf38-0c4e-4124-a841-d83a0bf4f80a",
+      "version": 1,
+      "name": "Default",
+      "description": "Default collection",
+      "tags": {},
+      "settings": {
+        "conditions": []
+      },
+      "createdAt": 1790697688155,
+      "modifiedAt": 1790697688155
+    }
+  },
+  "assets": {},
+  "version": 2,
+  "vaultId": "cf3c2f7c-8fb1-4cef-8f03-cbbe4d52d74b",
+  "defaultCollectionId": "Default"
+}
