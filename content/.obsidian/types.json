@@ -40,6 +40,7 @@
     "TP": "number",
     "HG": "number",
     "Initiative": "number",
-    "RK": "number"
+    "RK": "number",
+    "navigation_level": "number"
   }
 }

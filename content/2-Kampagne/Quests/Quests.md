@@ -1,4 +1,7 @@
-`BUTTON[button_quest]`
+---
+navigation_level: 2
+---
+
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Quest Name", questStatus AS "Status", questGiver AS "Quest Giver", questLocationObtained AS "Location", questSessionObtained AS "Session", questLootAvail AS "Available Rewards", questLookEarned AS "Acquired Rewards"

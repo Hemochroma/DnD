@@ -8,48 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de6b15301590e484",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "3-Compendium/3-Compendium.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "3-Compendium"
-            }
-          },
-          {
-            "id": "813d5a0f8b034f98",
+            "id": "5a56171dbf3243b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "2-Kampagne/2-Kampagne.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-Kampagne"
+            }
+          },
+          {
+            "id": "c6e89086d882f119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/4_Markdown/Call Out Boxes/Call Out - Magic Item.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Call Out - Magic Item"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -333,13 +319,13 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
+      "obsidian-kanban:Erstelle ein neues Board": false,
       "obsidian-custom-frames:Open Obsidian Forum": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Erstelle ein neues Board": false,
       "helpmate:HelpMate": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
@@ -348,44 +334,45 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "813d5a0f8b034f98",
+  "active": "5a56171dbf3243b5",
   "lastOpenFiles": [
-    "3-Compendium/3-Compendium.md",
-    "Index.md",
-    "README.md",
-    "3-Compendium/Monster/Monster.md",
-    "3-Compendium/Spielregeln/Spielregeln.md",
-    "3-Compendium/Spielregeln/Spielregeln2.md",
-    "3-Compendium/Monster/Monster von A-Z/Monster von A-Z.md",
-    "3-Compendium/Spielregeln/Die sechs Attribute.md",
-    "3-Compendium/Spielregeln/Aktionen.md",
-    "3-Compendium/Spielregeln/W20-Prüfungen.md",
-    "3-Compendium/Spielregeln/Übung.md",
-    "3-Compendium/Spielregeln/Spielrhythmus.md",
-    "3-Compendium/Spielregeln/Soziale Interaktion.md",
-    "3-Compendium/Spielregeln/Schaden und Heilung/Schaden und Heilung.md",
-    "3-Compendium/Spielregeln/Schaden und Heilung.md",
-    "3-Compendium/Spielregeln/Kampf/Kampf.md",
-    "3-Compendium/Spielregeln/Kampf.md",
-    "3-Compendium/Spielregeln/Erkundung.md",
-    "3-Compendium/Spielregeln/Aktionen/Aktionen.md",
-    "3-Compendium/Spielregeln/Die sechs Attribute/Die sechs Attribute.md",
-    "3-Compendium/Spielregeln/W20-Prüfungen/W20-Prüfungen.md",
-    "3-Compendium/Spielregeln/Übung/Übung.md",
-    "3-Compendium/Spielregeln/Spielrhythmus/Spielrhythmus.md",
-    "3-Compendium/Spielregeln/Soziale Interaktion/Soziale Interaktion.md",
-    "3-Compendium/Spielregeln/Erkundung/Erkundung.md",
-    "3-Compendium/Spielregeln/Erkundung/desktop.ini",
-    "3-Compendium/Spielregeln/Schaden und Heilung",
-    "3-Compendium/Spielregeln/Kampf",
-    "3-Compendium/Spielregeln/Erkundung",
-    "3-Compendium/Spielregeln/Soziale Interaktion",
-    "3-Compendium/Spielregeln/Aktionen",
-    "3-Compendium/Spielregeln/Übung",
-    "3-Compendium/Spielregeln/W20-Prüfungen",
-    "3-Compendium/Spielregeln/Die sechs Attribute",
-    "3-Compendium/Spielregeln/Spielrhythmus",
-    "3-Compendium/DE_SRD_CC_v5.2.1.md",
+    "2-Kampagne/Gegenstände/Armband des schnellen Schrittes.md",
+    "2-Kampagne/Gegenstände/Gegenstände.md",
+    "2-Kampagne/2-Kampagne.md",
+    "2-Kampagne/Quests/Quests.md",
+    "2-Kampagne/NPC/NPC.md",
+    "2-Kampagne/Gilden & Gruppen/Gilden & Gruppen.md",
+    "1-Party/1-Party.md",
+    "1-Sessions/1-Sessions.md",
+    "1-Party/Minders/Cirilla.md",
+    "1-Party/Minders/Ling-Ming.md",
+    "1-Party/Minders/Wuda.md",
+    "1-Party/Minders/Minders.md",
+    "z_Assets/Placeholder Images/Armband.jpg",
+    "z_Assets/Placeholder Images/Nicht bestätigt 907681.crdownload",
+    "z_Templates/TemplateMagicItem.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Magic Item.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out Boxes.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Call Out Box.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Trap.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Right Section.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Read Aloud.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Message.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Left Section.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - GM Direction.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Flavor.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Treasure.md",
+    "2-Kampagne/Gilden & Gruppen/Magicians.md",
+    "z_Templates/3_Dataview Templates/Dataview - Query TTRPG Statblocks.md",
+    "2-Kampagne/Gilden & Gruppen",
+    "2-Kampagne/Ausrüstung/~syncthing~Armband des schnellen Schrittes.md.tmp",
+    "2-Kampagne/Gegenstände",
+    "2-Welt/Faerûn",
+    "2-Welt/Greyhawk/Grenzlande/Höhlen des Chaos",
+    "2-Welt/Greyhawk/Grenzlande/Burg in den Grenzlanden",
+    "2-Welt/Greyhawk/Grenzlande",
+    "2-Welt/Greyhawk",
+    "1-Party/Minders/~syncthing~Cirilla.md.tmp",
     "z_Assets/Monster.png",
     "3-Compendium/3-Compendium.canvas",
     "3-Compendium/Monster/Monster von A-Z/Monster von A-Z.canvas",
@@ -397,7 +384,6 @@
     "z_Assets/banners/cooking-meals-over-open-fires-forging-weapons-f.jpg",
     "z_Assets/banners/beholder-in-a-dungeon-chasing-a-party-of-advent.jpg",
     "z_Assets/banners/as-you-stand-at-the-edge-of-the-fantastical-lan.jpg",
-    "ZoomMap/SVGs/rpg-awesome/rpg-awesome-raw-master/Font/zigzag-leaf.svg",
     "0-Scratch Notes/Untitled.canvas",
     "0-Scratch Notes/MoC - Canvas Home Page.canvas",
     "Untitled.canvas"

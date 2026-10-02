@@ -1,0 +1,10 @@
+---
+Ortskenntnis: Bekannt
+Ortschaft: Burg in den Grenzlanden
+---
+
+## Angrenzend:
+- [[Burg in den Grenzlanden]]
+## NPCs:
+- 
+

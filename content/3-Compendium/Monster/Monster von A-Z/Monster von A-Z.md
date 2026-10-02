@@ -1,3 +1,7 @@
+---
+navigation_level: 3
+---
+
 ```base
 properties:
   file.folder:
