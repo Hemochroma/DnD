@@ -78,7 +78,7 @@ Der gewählte Hintergrund beeinflusst Schritt 3, in dem du die Attributswerte de
 
 Deine Klasse gibt dir ebenfalls Übung. Lies deine Klassenbeschreibung unter „Klassen“ und notiere jede Übung auf deinem Charakterbogen. 
 
-Die Tabelle „Merkmale“ in deiner Klassen‑ beschreibung zeigt deinen Übungsbonus (siehe „Die Spielregeln“). Bei einem Charakter der 1. Stufe beträgt er +2. Notiere diese Zahl auf deinem Charakter‑ bogen. Die anderen Zahlen im Zusammenhang mit Übung trägst du in Schritt 5 ein. 
+Die Tabelle „Merkmale“ in deiner Klassen‑ beschreibung zeigt deinen Übungsbonus (siehe „Die [[Spielregeln]]“). Bei einem Charakter der 1. Stufe beträgt er +2. Notiere diese Zahl auf deinem Charakter‑ bogen. Die anderen Zahlen im Zusammenhang mit Übung trägst du in Schritt 5 ein. 
 
 ### **Anfangsausrüstung auswählen** 
 

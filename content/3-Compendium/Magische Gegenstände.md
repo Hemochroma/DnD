@@ -65,7 +65,7 @@ Wenn ein Charakter zwei Tränke mischt, würfle anhand der Tabelle „Mischbarke
 
 - 1 Beide Tränke verlieren ihre Effekte, und die Mischung erzeugt eine magische Explosion in einer Kugel mit einem Radius von 1,5 Metern um sich. Jede Kreatur in diesem Bereich erleidet 4W10 Energieschaden. 
 
-- 2–8 Beide Tränke verlieren ihre Effekte, und die Mischung wird zu einem Einnahmegift deiner Wahl (siehe „Gift“ in „Werkzeugkasten fürs Spiel“). 
+- 2–8 Beide Tränke verlieren ihre Effekte, und die Mischung wird zu einem Einnahmegift deiner Wahl (siehe „[[Werkzeugkasten fürs Spiel#Gift|Gift]]“ in „[[Werkzeugkasten fürs Spiel]]“). 
 
 - 9–15 Beide Tränke verlieren ihre Effekte. 
 
@@ -262,7 +262,7 @@ Manche magischen Gegenstände verfügen über Intelligenz und eine Persönlichke
 
 Die meisten intelligenten Gegenstände sind Waffen, doch auch bei anderen Arten von Gegen‑ ständen kann sich Intelligenz manifestieren. Verbrauchsgegenstände wie Tränke und Schrift‑ rollen sind niemals intelligent. 
 
-Der SL kontrolliert intelligente magische Gegenstände und ihre aktivierten Eigenschaften. Anwender, die mit dem Gegenstand eine gute Beziehung haben, können auf diese Eigenschaften zugreifen. Wenn die Beziehung belastet ist, kann es zu Konflikten kommen (siehe „Konflikte“ unten). 
+Der SL kontrolliert intelligente magische Gegenstände und ihre aktivierten Eigenschaften. Anwender, die mit dem Gegenstand eine gute Beziehung haben, können auf diese Eigenschaften zugreifen. Wenn die Beziehung belastet ist, kann es zu Konflikten kommen (siehe „[[Magische Gegenstände#**Konflikt**|Konflikt]]“ unten). 
 
 ###### **Kommunikation** 
 
@@ -274,7 +274,7 @@ Ein intelligenter Gegenstand kann seine Umgebung innerhalb einer bestimmten Reic
 
 ###### **Besonderes Ziel** 
 
-Du kannst einem intelligenten Gegenstand ein Ziel geben, das er verfolgt – gegebenenfalls ohne Rücksicht auf Verluste. Solange der Träger des Gegenstands mit ihm dieses besondere Ziel verfolgt, ist der Gegenstand kooperativ. Anderenfalls kann es zu Konflikten zwischen Träger und Gegenstand kommen (siehe „Konflikte“ unten). Du kannst ein besonderes Ziel auswählen oder anhand der Tabelle „Besondere Ziele intelligenter magischer Gegenstände“ würfeln. 
+Du kannst einem intelligenten Gegenstand ein Ziel geben, das er verfolgt – gegebenenfalls ohne Rücksicht auf Verluste. Solange der Träger des Gegenstands mit ihm dieses besondere Ziel verfolgt, ist der Gegenstand kooperativ. Anderenfalls kann es zu Konflikten zwischen Träger und Gegenstand kommen (siehe „[[Magische Gegenstände#**Konflikt**|Konflikt]]“ unten). Du kannst ein besonderes Ziel auswählen oder anhand der Tabelle „Besondere Ziele intelligenter magischer Gegenstände“ würfeln. 
 
 ###### **Gesinnung intelligenter magischer Gegenstände** 
 
@@ -628,9 +628,7 @@ Sie hat folgende zusätzliche Eigenschaften: **_Donnerschlag:_** Du kannst als m
 
 _Rüstung (Schuppenpanzer), sehr selten (erfordert Einstimmung)_ 
 
-_Ein Drachenschuppenpanzer_ besteht aus den Schuppen einer bestimmten Drachenart. Manchmal sammeln Drachen ihre abgeworfenen Schuppen und schenken sie Humanoiden. In anderen Fällen machen Jäger die Haut eines toten Drachen sorgsam haltbar. Unabhängig von ihrer Herkunft sind _Drachenschuppenpanzer_ extrem wertvoll. 
-
-**246** Systemreferenzdokument 5.2.1 
+_Ein Drachenschuppenpanzer_ besteht aus den Schuppen einer bestimmten Drachenart. Manchmal sammeln Drachen ihre abgeworfenen Schuppen und schenken sie Humanoiden. In anderen Fällen machen Jäger die Haut eines toten Drachen sorgsam haltbar. Unabhängig von ihrer Herkunft sind _Drachenschuppenpanzer_ extrem wertvoll.
 
 Wenn du diese Rüstung trägst, erhältst du einen Bonus von +1 auf deine RK, bist bei Rettungswürfen gegen die Odemwaffen von Drachen im Vorteil und gegen eine Schadensart resistent. Die Schadensart hängt von der Drachenart ab, von der die Schuppen stammen (siehe Tabelle). 
 
@@ -731,7 +729,7 @@ Der Zauber _Identifizieren_ offenbart, dass die Flasche eine Kreatur enthält. U
 
 ###### _Wundersamer Gegenstand, ungewöhnlich_ 
 
-Dieser Edelstein enthält eine Spur von Elementaren‑ ergie. Wenn du eine Verwenden‑Aktion ausführst, um den Edelstein zu zerbrechen, wird ein Elementar beschworen (Wertekasten siehe „Monster“), und der Edelstein ist nicht mehr magisch. Der Elementar 
+Dieser Edelstein enthält eine Spur von Elementaren‑ ergie. Wenn du eine Verwenden‑Aktion ausführst, um den Edelstein zu zerbrechen, wird ein Elementar beschworen (Wertekasten siehe „[[Monster]]“), und der Edelstein ist nicht mehr magisch. Der Elementar 
 
 ###### **Elfenrüstung** 
 
@@ -860,7 +858,7 @@ Die Kreatur existiert für eine für jede Figur spezifische Wirkungsdauer. Am En
 
 **_Ebenholz-Fliege (selten):_** Diese Statuette aus Ebenholz ist wie eine Stechfliege geschnitzt. Sie kann bis zu zwölf Stunden lang zu einer **Riesenfliege** (siehe begleitender Wertekasten) werden und als Reittier dienen. Wenn sie verwendet wurde, kann sie erst nach zwei Tagen erneut verwendet werden. 
 
-#### **<mark>Riesenf</mark> l** **<mark>iege</mark>** 
+#### Riesenfliege
 
 _Großes Tier, gesinnungslos_ 
 

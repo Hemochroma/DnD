@@ -107,7 +107,7 @@ Unterklassen sind Spezialisierungen, die dir auf bestimmten Hexenmeisterstufen M
 
 ## **4. Stufe: Attributswerterhöhung** 
 
-Du erhältst das Talent Attributswerterhöhung (siehe „Talente“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Du erhältst dieses Merkmal auf der 8., 12. und 16. Hexenmeisterstufe erneut. 
+Du erhältst das Talent Attributswerterhöhung (siehe „[[Talente]]“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Du erhältst dieses Merkmal auf der 8., 12. und 16. Hexenmeisterstufe erneut. 
 
 ## **9. Stufe: Schutzherrn kontaktieren** 
 
@@ -127,7 +127,7 @@ Wann immer du eine Hexenmeisterstufe erhältst, kannst du einen deiner Arkanum�
 
 ## **19. Stufe: Epische Gabe** 
 
-Du erhältst ein Epische‑Gabe‑Talent (siehe „Talente“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Gabe des Schicksals wird empfohlen. 
+Du erhältst ein Epische‑Gabe‑Talent (siehe „[[Talente]]“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Gabe des Schicksals wird empfohlen. 
 
 ## **20. Stufe: Mystischer Meister** 
 
@@ -219,7 +219,7 @@ von Trefferpunkten in Höhe des Ergebnisses plus deines Konstitutionsmodifikator
 
 _Voraussetzung: Ab 2. Hexenmeisterstufe_ 
 
-Du hast Wissen von einer Ältesten‑Wesenheit des Multiversums erhalten, das dir ein Herkunftstalent deiner Wahl (siehe „Talente“) gewährt. 
+Du hast Wissen von einer Ältesten‑Wesenheit des Multiversums erhalten, das dir ein Herkunftstalent deiner Wahl (siehe „[[Talente]]“) gewährt. 
 
 **_Kann wiederholt werden:_** Du kannst diese Anrufung mehr als einmal erhalten. Wähle bei Wiederholung ein anderes Herkunftstalent aus. 
 
@@ -261,7 +261,7 @@ Du fügst die Fäden der Schatten zusammen und beschwörst am Ende einer kurzen 
 
 Du erlernst den Zauber _Vertrauten finden_ und kannst ihn als magische Aktion wirken, ohne einen Zauberplatz zu verbrauchen. 
 
-Wenn du den Zauber wirkst, wählst du für deinen Vertrauten eine der normalen Gestalten oder eine der folgenden besonderen Gestalten aus: **Feengeist, Giftschlange, Pseudodrache, Quasit, Skelett, Sphinx des Wunders** oder **Teufelchen** (Wertekasten des Vertrauten siehe „Monster“). 
+Wenn du den Zauber wirkst, wählst du für deinen Vertrauten eine der normalen Gestalten oder eine der folgenden besonderen Gestalten aus: **Feengeist, Giftschlange, Pseudodrache, Quasit, Skelett, Sphinx des Wunders** oder **Teufelchen** (Wertekasten des Vertrauten siehe „[[Monster]]“). 
 
 Wenn du außerdem in deinem Zug die Angriffsaktion ausführst, kannst du auf einen deiner Angriffe verzichten und stattdessen deinen Vertrauten mit seiner Reaktion einen eigenen Angriff ausführen lassen. 
 

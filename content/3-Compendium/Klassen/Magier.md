@@ -116,7 +116,7 @@ Du erhältst eine Magier‑Unterklasse deiner Wahl. Die Unterklasse Hervorrufer 
 
 ## **4. Stufe: Attributswerterhöhung** 
 
-Du erhältst das Talent Attributswerterhöhung (siehe „Talente“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Du erhältst dieses Merkmal auf der 8., 12. und 16. Magierstufe erneut. 
+Du erhältst das Talent Attributswerterhöhung (siehe „[[Talente]]“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Du erhältst dieses Merkmal auf der 8., 12. und 16. Magierstufe erneut. 
 
 ## **5. Stufe: Zauber auswendig lernen** 
 
@@ -130,7 +130,7 @@ Wann immer du eine lange Rast beendest, kannst du dein Zauberbuch studieren und 
 
 ## **19. Stufe: Epische Gabe** 
 
-Du erhältst ein Epische‑Gabe‑Talent (siehe „Talente“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Gabe der Zaubererinnerung wird empfohlen. 
+Du erhältst ein Epische‑Gabe‑Talent (siehe „[[Talente]]“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Gabe der Zaubererinnerung wird empfohlen. 
 
 ## **20. Stufe: Lieblingszauber** 
 

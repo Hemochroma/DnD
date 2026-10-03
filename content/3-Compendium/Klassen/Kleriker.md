@@ -109,7 +109,7 @@ Du erhältst eine Kleriker‑Unterklasse deiner Wahl. Die Unterklasse Domäne de
 
 ## **4. Stufe: Attributswerterhöhung** 
 
-Du erhältst das Talent Attributswerterhöhung (siehe „Talente“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Du erhältst dieses Merkmal auf der 8., 12. und 16. Klerikerstufe erneut. 
+Du erhältst das Talent Attributswerterhöhung (siehe „[[Talente]]“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Du erhältst dieses Merkmal auf der 8., 12. und 16. Klerikerstufe erneut. 
 
 ## **5. Stufe: Untote versengen** 
 
@@ -135,7 +135,7 @@ Du kannst deine Gottheit oder dein Pantheon anrufen, damit sie beziehungsweise e
 
 ## **19. Stufe: Epische Gabe** 
 
-Du erhältst ein Epische‑Gabe‑Talent (siehe „Talente“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Gabe des Schicksals wird empfohlen. 
+Du erhältst ein Epische‑Gabe‑Talent (siehe „[[Talente]]“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Gabe des Schicksals wird empfohlen. 
 
 ## **20. Stufe: Mächtige Göttliche Intervention** 
 

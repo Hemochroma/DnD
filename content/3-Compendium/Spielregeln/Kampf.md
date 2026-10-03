@@ -82,7 +82,7 @@ Du kannst deine Bewegung aufteilen und einen Teil davon vor einer Aktion, Bonusa
 
 ###  Der Zustand Liegend
 
-In deinem Zug kannst du dich selbst in den Zustand Liegend (siehe „Regelglossar“) versetzen, ohne eine Aktion ausführen oder deine Bewegungsrate nutzen zu müssen. Dazu darf deine Bewegungsrate allerdings nicht 0 sein. 
+In deinem Zug kannst du dich selbst in den Zustand Liegend (siehe „[[Regelglossar]]“) versetzen, ohne eine Aktion ausführen oder deine Bewegungsrate nutzen zu müssen. Dazu darf deine Bewegungsrate allerdings nicht 0 sein. 
 
 ###  Kreaturengröße
 
@@ -110,11 +110,11 @@ Die Größe eines Charakters wird von seiner Spezies bestimmt. Bei Monstern wird
 
 ###  Sich um andere Kreaturen herumbewegen
 
-In deinem Zug kannst du dich durch den Bereich eines Verbündeten, einer kampfunfähigen Kreatur (siehe „Regelglossar“) oder einer winzigen Kreatur sowie durch den Bereich einer Kreatur bewegen, die um zwei Kategorien größer oder kleiner ist als du. 
+In deinem Zug kannst du dich durch den Bereich eines Verbündeten, einer kampfunfähigen Kreatur (siehe „[[Regelglossar]]“) oder einer winzigen Kreatur sowie durch den Bereich einer Kreatur bewegen, die um zwei Kategorien größer oder kleiner ist als du. 
 
 Der Bereich einer anderen Kreatur ist schwieriges Gelände für dich, sofern diese Kreatur nicht winzig oder mit dir verbündet ist. 
 
-Du kannst deine Bewegung nicht absichtlich in einem Bereich beenden, der von einer anderen Kreatur besetzt ist. Wenn du irgendwie in diese Verlegenheit kommst, wirst du umgestoßen und hast den Zustand Liegend (siehe „Regelglossar“), sofern du nicht entweder winzig oder um mindestens eine Kategorie größer als die andere Kreatur bist. 
+Du kannst deine Bewegung nicht absichtlich in einem Bereich beenden, der von einer anderen Kreatur besetzt ist. Wenn du irgendwie in diese Verlegenheit kommst, wirst du umgestoßen und hast den Zustand Liegend (siehe „[[Regelglossar]]“), sofern du nicht entweder winzig oder um mindestens eine Kategorie größer als die andere Kreatur bist. 
 
 ## Einen Angriff ausführen
 
@@ -162,7 +162,7 @@ Manche Fernkampfangriffe wie die mit Langbogen oder Kurzbogen haben zwei Reichwe
 
 ###  Fernkampfangriffe im Nahkampf
 
-Das Zielen bei einem Fernkampfangriff ist schwieriger, wenn sich der Gegner direkt neben dir befindet. Bei Fernkampfangriffen mit Waffen, Zaubern oder anderen Methoden bist du beim Angriffswurf im Nachteil, wenn das Ziel sich im Abstand von bis zu 1,5 Metern befindet, dich sehen kann und nicht kampfunfähig ist (siehe „Regelglossar“). 
+Das Zielen bei einem Fernkampfangriff ist schwieriger, wenn sich der Gegner direkt neben dir befindet. Bei Fernkampfangriffen mit Waffen, Zaubern oder anderen Methoden bist du beim Angriffswurf im Nachteil, wenn das Ziel sich im Abstand von bis zu 1,5 Metern befindet, dich sehen kann und nicht kampfunfähig ist (siehe „[[Regelglossar]]“). 
 
 ## Nahkampfangriffe
 
@@ -198,7 +198,7 @@ Ein unabhängiges Reittier – das dich aufsitzen, sich aber nicht kontrollieren
 
 ###  Herunterfallen
 
-Wenn das Reittier, auf dem du sitzt, durch einen Effekt gegen seinen Willen bewegt wird, musst du einen SG‑10‑Geschicklichkeitsrettungswurf bestehen, damit du nicht herunterfällst. Bei einem Misserfolg landest du liegend (siehe „Regelglossar“) in einem freien Bereich im Abstand von bis zu 1,5 Metern vom Reittier. 
+Wenn das Reittier, auf dem du sitzt, durch einen Effekt gegen seinen Willen bewegt wird, musst du einen SG‑10‑Geschicklichkeitsrettungswurf bestehen, damit du nicht herunterfällst. Bei einem Misserfolg landest du liegend (siehe „[[Regelglossar]]“) in einem freien Bereich im Abstand von bis zu 1,5 Metern vom Reittier. 
 
 Wirst du oder wird dein Reittier umgestoßen, während du reitest, so musst du den gleichen Rettungswurf ausführen. 
 

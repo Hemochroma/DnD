@@ -105,7 +105,7 @@ Die Mächte der Natur erlauben dir, die Gestalt eines Tieres anzunehmen. Als Bon
 
 Du erhältst zusätzliche Anwendungen, wenn du bestimmte Druidenstufen erreichst, wie in der Spalte „Tiergestalt“ der Tabelle „Druidenmerkmale“ dargestellt. 
 
-**_Bekannte Gestalten:_** Du kennst vier Tiergestalten für dieses Merkmal, ausgewählt aus Tieren, die höchstens einen Herausforderungsgrad von 1/4 und keine Flugbewegungsrate haben (Optionen siehe Wertekästen unter „Tiere“ unter „Monster“). **Ratte, Reitpferd, Spinne** und **Wolf** werden empfohlen. Wann immer du eine lange Rast beendest, kannst du eine deiner bekannten Gestalten durch eine andere Gestalt ersetzen, welche die Bedingungen erfüllt. 
+**_Bekannte Gestalten:_** Du kennst vier Tiergestalten für dieses Merkmal, ausgewählt aus Tieren, die höchstens einen Herausforderungsgrad von 1/4 und keine Flugbewegungsrate haben (Optionen siehe Wertekästen unter „[[Tiere von A-Z|Tiere]] und[[Monster von A-Z|Monster]]“). **Ratte, Reitpferd, Spinne** und **Wolf** werden empfohlen. Wann immer du eine lange Rast beendest, kannst du eine deiner bekannten Gestalten durch eine andere Gestalt ersetzen, welche die Bedingungen erfüllt. 
 
 Wenn du bestimmte Druidenstufen erreichst, werden die Anzahl deiner bekannten Gestalten sowie der maximale Herausforderungsgrad dieser Gestalten erhöht, wie in der Tabelle „Tiergestalten“ dargestellt. Außerdem kannst du ab 8. Stufe Gestalten mit Flugbewegungsrate annehmen. 
 
@@ -143,7 +143,7 @@ Du erhältst eine Druiden‑Unterklasse deiner Wahl. Die Unterklasse Zirkel des 
 
 ## **4. Stufe: Attributswerterhöhung** 
 
-Du erhältst das Talent Attributswerterhöhung (siehe „Talente“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Du erhältst dieses Merkmal auf der 8., 12. und 16. Druidenstufe erneut. 
+Du erhältst das Talent Attributswerterhöhung (siehe „[[Talente]]“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Du erhältst dieses Merkmal auf der 8., 12. und 16. Druidenstufe erneut. 
 
 ## **5. Stufe: Wilde Wiederkehr** 
 
@@ -177,7 +177,7 @@ Wenn du Tiergestalt verwendest, kannst du in Tiergestalt Zauber wirken, sofern d
 
 ## **19. Stufe: Epische Gabe** 
 
-Du erhältst ein Epische‑Gabe‑Talent (siehe „Talente“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Gabe des Dimensionsreisens wird empfohlen. 
+Du erhältst ein Epische‑Gabe‑Talent (siehe „[[Talente]]“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Gabe des Dimensionsreisens wird empfohlen. 
 
 ## **20. Stufe: Erzdruide** 
 

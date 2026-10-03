@@ -14,7 +14,7 @@ Manche Aufgaben von Abenteurern – Gefahren bemerken, einen Gegner treffen, mit
 
 Bereiche können leicht oder komplett verschleiert sein. In leicht verschleierten Bereichen, beispielsweise bei dämmrigem Licht, leichtem Nebel oder in mäßig dichtem Laub, sind Kreaturen bei Weisheitswürfen (Wahrnehmung), die klare Sicht erfordern, im Nachteil. 
 
-Komplett verschleierte Bereiche – bei Dunkelheit, dichtem Nebel oder in dichtem Laub – sind völlig undurchsichtig. Wenn du versuchst, dort etwas zu erkennen, hast du den Zustand Blind (siehe „Regelglossar“). 
+Komplett verschleierte Bereiche – bei Dunkelheit, dichtem Nebel oder in dichtem Laub – sind völlig undurchsichtig. Wenn du versuchst, dort etwas zu erkennen, hast du den Zustand Blind (siehe „[[Regelglossar]]“). 
 
 ###  Licht
 

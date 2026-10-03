@@ -109,9 +109,7 @@ Außerdem kannst du während deines Kampfrauschs Urmacht kanalisieren, wenn du b
 
 ## **4. Stufe: Attributswerterhöhung** 
 
-Du erhältst das Talent Attributswerterhöhung (siehe „Talente“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Du erhältst dieses Merkmal auf der 8., 12. und 16. Barbarenstufe erneut. 
-
-**34** Systemreferenzdokument 5.2.1 
+Du erhältst das Talent Attributswerterhöhung (siehe „[[Talente]]“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Du erhältst dieses Merkmal auf der 8., 12. und 16. Barbarenstufe erneut. 
 
 ## **5. Stufe: Schnelle Bewegung** 
 
@@ -167,7 +165,7 @@ Wenn das Gesamtergebnis deines Stärkewurfs oder Stärkerettungswurfs unter dein
 
 ## **19. Stufe: Epische Gabe** 
 
-Du erhältst ein Epische‑Gabe‑Talent (siehe „Talente“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Gabe des Unwiderstehlichen Angriffs wird empfohlen. 
+Du erhältst ein Epische‑Gabe‑Talent (siehe „[[Talente]]“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Gabe des Unwiderstehlichen Angriffs wird empfohlen. 
 
 ## **20. Stufe: Meister der Wildnis** 
 

@@ -64,7 +64,7 @@ Wenn du bestimmte Kämpferstufen erreichst, erhältst du mehr Anwendungen dieses
 
 ## **1. Stufe: Kampfstil** 
 
-Du hast deine Kampfkünste verfeinert und erhältst ein Kampfstil‑Talent deiner Wahl (siehe „Talente“). Verteidigung wird empfohlen. 
+Du hast deine Kampfkünste verfeinert und erhältst ein Kampfstil‑Talent deiner Wahl (siehe „[[Talente]]“). Verteidigung wird empfohlen. 
 
 Wann immer du eine Kämpferstufe erhältst, kannst du das ausgewählte Talent durch ein anderes Kampfstil‑Talent ersetzen. 
 
@@ -92,7 +92,7 @@ Du erhältst eine Kämpfer‑Unterklasse deiner Wahl. Die Unterklasse Champion w
 
 ## **4. Stufe: Attributswerterhöhung** 
 
-Du erhältst das Talent Attributswerterhöhung (siehe „Talente“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Du erhältst dieses Merkmal auf der 6., 8., 12., 14. und 16. Kämpferstufe erneut. 
+Du erhältst das Talent Attributswerterhöhung (siehe „[[Talente]]“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Du erhältst dieses Merkmal auf der 6., 8., 12., 14. und 16. Kämpferstufe erneut. 
 
 ## **5. Stufe: Taktikwechsel** 
 
@@ -122,7 +122,7 @@ Du studierst deine Gegner und lernst aus jedem Angriff, den du ausführst. Wenn 
 
 ## **19. Stufe: Epische Gabe** 
 
-Du erhältst ein Epische‑Gabe‑Talent (siehe „Talente“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Gabe der Kampffertigkeit wird empfohlen. 
+Du erhältst ein Epische‑Gabe‑Talent (siehe „[[Talente]]“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Gabe der Kampffertigkeit wird empfohlen. 
 
 ## **20. Stufe: Drei zusätzliche Angriffe** 
 

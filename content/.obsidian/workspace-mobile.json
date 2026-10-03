@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Session Journals/2026.09.26.md",
-                "mode": "preview",
+                "file": "3-Compendium/Klassen/Paladin.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026.09.26"
+              "title": "Paladin"
             }
           }
         ]
@@ -51,7 +51,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Siehe",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -105,7 +105,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "d429652c081e7a08",
@@ -226,6 +226,20 @@
   },
   "active": "98ecb8516f960793",
   "lastOpenFiles": [
+    "3-Compendium/Klassen/Mönch.md",
+    "3-Compendium/Magische Gegenstände.md",
+    "3-Compendium/Klassen/Magier.md",
+    "3-Compendium/Klassen/Kleriker.md",
+    "3-Compendium/Klassen/Kämpfer.md",
+    "3-Compendium/Spielregeln/Kampf.md",
+    "3-Compendium/Charakter Herkunft/Hintergründe.md",
+    "3-Compendium/Talente.md",
+    "3-Compendium/Klassen/Hexenmeister.md",
+    "3-Compendium/Spielregeln/Erkundung.md",
+    "3-Compendium/Klassen/Druide.md",
+    "3-Compendium/Charakter Erstellung/Charakter Erstellung.md",
+    "3-Compendium/Klassen/Barde.md",
+    "3-Compendium/Klassen/Barbar.md",
     "0-Notizen/Ideen.md",
     "0-Notizen/WANTED Wuda.md",
     "0-Notizen/WANTED Ling-Ming.md",
@@ -244,25 +258,13 @@
     "Charaktere/Gruppe/Cirilla.md",
     "Ortschaften/_Weltkarte.canvas",
     "Ortschaften/Weltkarte WIP.md",
-    "Unbenannt.md",
-    "Story/Session 1.md",
-    "Charaktere/NPC/Pral (†).md",
-    "Charaktere/Party/Cirilla.md",
     "Story/Unbenannt.base",
-    "Ortschaften/Wald.md",
-    "Ortschaften/Weltkarte.md",
     "Unbenannt",
-    "Charaktere/NPC/Mallyn.md",
-    "Charaktere/Party/Ling-Ming.md",
-    "Charaktere/Party/Wuda.md",
-    "Charaktere/Party/_Vorlage.md",
     "Charakter Sheet.base",
     "Unbenannt/Unbenannt.base",
     "Story",
     "Charaktere",
-    "2026-09-06.md",
     "Ortschaften",
-    "Party.md",
     "Charaktere/NPC"
   ]
 }

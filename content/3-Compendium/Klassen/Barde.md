@@ -1,16 +1,17 @@
 ## **Hauptmerkmale des Barden** 
 
-|**Hauptattribut**|Charisma|
-|---|---|
-|**Trefferpunktewürfel**|1W8 pro Bardenstufe|
-|**Rettungswürfe, in**<br>**denen du geübt bist**|Geschicklichkeit und Charisma|
-|**Fertigkeiten, in**<br>**denen du geübt bist**|_Drei Fertigkeiten deiner Wahl_<br>(siehe „Die Spielregeln“)|
-|**Übung im Umgang**<br>**mit Waffen**|Einfache Waffen|
-|**Übung im Umgang**<br>**mit Werkzeug**|_Dire Musikinstrumente deiner_<br>_Wahl_(siehe „Ausrüstung“)|
-|**Rüstungsvertrautheit**|Leichte Rüstung|
-|**Anfangsausrüstung**|_Wähle A oder B aus:_<br>(A) Lederrüstung, zwei Dolche,<br>Musikinstrument deiner Wahl,<br>Unterhaltungskünstler­<br>Ausrüstung und 19 GM<br>oder (B) 90 GM|
+| **Hauptattribut**                                | Charisma                                                                                                                                                    |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Trefferpunktewürfel**                          | 1W8 pro Bardenstufe                                                                                                                                         |
+| **Rettungswürfe, in**<br>**denen du geübt bist** | Geschicklichkeit und Charisma                                                                                                                               |
+| **Fertigkeiten, in**<br>**denen du geübt bist**  | _Drei Fertigkeiten deiner Wahl_¹                                                                                                                            |
+| **Übung im Umgang**<br>**mit Waffen**            | Einfache Waffen                                                                                                                                             |
+| **Übung im Umgang**<br>**mit Werkzeug**          | _Dire Musikinstrumente deiner_<br>_Wahl_²                                                                                                                   |
+| **Rüstungsvertrautheit**                         | Leichte Rüstung                                                                                                                                             |
+| **Anfangsausrüstung**                            | _Wähle A oder B aus:_<br>(A) Lederrüstung, zwei Dolche,<br>Musikinstrument deiner Wahl,<br>Unterhaltungskünstler­<br>Ausrüstung und 19 GM<br>oder (B) 90 GM |
 
-
+¹(siehe „Die [[Spielregeln]]“)
+²(siehe „[[Ausrüstung]]“)
 
 # **Ein Barde werden ...** 
 
@@ -102,7 +103,7 @@ Beispiel: Wenn du einen Stärkewurf (Athletik) ausführst und in Athletik nicht 
 
 ## **2. Stufe: Expertise** 
 
-Du erhältst Expertise (siehe „Regelglossar“) in zwei Fertigkeiten deiner Wahl, in denen du geübt bist. Auftreten und Überzeugen werden empfohlen, wenn du in ihnen geübt bist. 
+Du erhältst Expertise (siehe „[[Regelglossar]]“) in zwei Fertigkeiten deiner Wahl, in denen du geübt bist. Auftreten und Überzeugen werden empfohlen, wenn du in ihnen geübt bist. 
 
 Auf der 9. Stufe erhältst du Expertise in zwei weiteren Fertigkeiten deiner Wahl, in denen du geübt bist. 
 
@@ -114,7 +115,7 @@ sind Spezialisierungen, die dir auf bestimmten Bardenstufen Merkmale gewähren. 
 
 ## **4. Stufe: Attributswerterhöhung** 
 
-Du erhältst das Talent Attributswerterhöhung (siehe „Talente“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Du erhältst dieses Merkmal auf der 8., 12. und 16. Bardenstufe erneut. 
+Du erhältst das Talent Attributswerterhöhung (siehe „[[Talente]]“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Du erhältst dieses Merkmal auf der 8., 12. und 16. Bardenstufe erneut. 
 
 ## **5. Stufe: Quelle der Inspiration** 
 
@@ -136,9 +137,7 @@ Wenn du die Initiative auswürfelst, erhältst du verbrauchte Anwendungen Bardis
 
 ## **19. Stufe: Epische Gabe** 
 
-Du erhältst ein Epische‑Gabe‑Talent (siehe „Talente“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Gabe der Zaubererinnerung wird empfohlen. 
-
-**38** Systemreferenzdokument 5.2.1 
+Du erhältst ein Epische‑Gabe‑Talent (siehe „[[Talente]]“) oder ein anderes Talent deiner Wahl, für das du qualifiziert bist. Gabe der Zaubererinnerung wird empfohlen.  
 
 ## **20. Stufe: Worte der Schöpfung** 
 

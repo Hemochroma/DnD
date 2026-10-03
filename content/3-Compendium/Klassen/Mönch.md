@@ -6,11 +6,11 @@
 |**Rettungswürfe, in**<br>**denen du geübt bist**|Stärke und Geschicklichkeit|
 |**Fertigkeiten, in**<br>**denen du geübt bist**|_Wähle zwei aus:_Akrobatik,<br>Athletik, Geschichte, Heimlich­<br>keit, Motiv erkennen oder<br>Religion|
 |**Übung im Umgang**<br>**mit Waffen**|Einfache Waffen und Kriegswaf­<br>fen mit der Eigenschaft Leicht|
-|**Übung im Umgang**<br>**mit Werkzeug**|_Wähle eine Art von Handwerks-_<br>_zeug oder ein Musikinstrument_<br>_aus_(siehe „Ausrüstung“)|
+|**Übung im Umgang**<br>**mit Werkzeug**|_Wähle eine Art von Handwerks-_<br>_zeug oder ein Musikinstrument_<br>_aus_¹|
 |**Rüstungsvertrautheit**|Keine|
 |**Anfangsausrüstung**|_Wähle A oder B aus:_(A) Speer,<br>fünf Dolche, Handwerkszeug<br>oder Musikinstrument<br>(im Rahmen von „Übung im<br>Umgang mit Werkzeug“ oben<br>ausgewählt), Entdeckeraus­<br>rüstung und 11 GM oder<br>(B) 50 GM|
 
-
+¹(siehe „[[Ausrüstung]])
 
 # **Ein Mönch werden ...** 
 
@@ -221,5 +221,4 @@ Wenn du eine andere Bonusaktion als Windschritt ausführst, kannst du Windschrit
 
 Du erhältst die Fähigkeit, tödliche Vibrationen im Körper einer anderen Kreatur auszulösen. Wenn du eine Kreatur mit einem waffenlosen Angriff triffst, kannst du vier Fokuspunkte verbrauchen, um diese nicht spürbaren Vibrationen zu erzeugen. Sie dauern eine Anzahl von Tagen an, die deiner Mönchsstufe entspricht. Die Vibrationen sind harmlos, solange du keine Aktion ausführst, um sie zu beenden. Wenn du alternativ in deinem Zug die Angriffsaktion ausführst, kannst du auf einen der Angriffe verzichten, um die Vibrationen zu beenden. Dazu musst du dich auf derselben Existenzebene befinden wie das Ziel. Wenn du die Vibrationen beendest, muss das Ziel einen Konstitutionsrettungswurf ausführen. Misslingt der Wurf, so erleidet das Ziel 10W12 Energieschaden, anderenfalls die Hälfte. 
 
-Du kannst dieses Merkmal immer nur auf jeweils eine Kreatur wirken. Du kannst die Vibrationen auch harmlos beenden (keine Aktion erforderlich). 
-
+Du kannst dieses Merkmal immer nur auf jeweils eine Kreatur wirken. Du kannst die Vibrationen auch harmlos beenden (keine Aktion erforderlich)rlichrlich)rlichrlicrlirlrrerlich)rlichrlicrlirlrrrtrt 

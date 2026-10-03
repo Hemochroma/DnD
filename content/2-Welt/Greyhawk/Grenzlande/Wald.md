@@ -9,4 +9,4 @@ Ortschaft: Wildnis
 ## NPCs:
 - [[Pral]]
 - [[Banditen]]
-- [[Hexe]]
+- [[Xanthe]]

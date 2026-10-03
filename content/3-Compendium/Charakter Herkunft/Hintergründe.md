@@ -10,7 +10,7 @@ In einem Hintergrund sind drei der Attributswerte deines Charakters aufgeführt.
 
 ## **Talent** 
 
-Ein Hintergrund gibt deinem Charakter ein bestimmtes Herkunftstalent (siehe „Talente“). 
+Ein Hintergrund gibt deinem Charakter ein bestimmtes Herkunftstalent (siehe „[[Talente]]“). 
 
 ## **Fertigkeiten, in denen du geübt bist** 
 
@@ -28,7 +28,7 @@ Jeder Hintergrund bietet die Wahl zwischen einem Ausrüstungspaket oder 50 GM.
 
 ## **Akolyth** 
 
-**Attributswerte:** Intelligenz, Weisheit, Charisma **Talent:** Eingeweihter der Magie (Kleriker) (siehe „Talente“) 
+**Attributswerte:** Intelligenz, Weisheit, Charisma **Talent:** Eingeweihter der Magie (Kleriker) (siehe „[[Talente]]“) 
 
 - **Fertigkeiten, in denen du geübt bist:** Motiv erkennen und Religion 
 
@@ -40,21 +40,21 @@ Jeder Hintergrund bietet die Wahl zwischen einem Ausrüstungspaket oder 50 GM.
 
 **Attributswerte:** Geschicklichkeit, Konstitution, Intelligenz 
 
-**Talent:** Wachsam (siehe „Talente“) 
+**Talent:** Wachsam (siehe „[[Talente]]“) 
 
 **Übung im Umgang mit Werkzeug:** Diebeswerkzeug **Ausrüstung:** _Wähle A oder B aus:_ (A) Zwei Dolche, Diebeswerkzeug, Brechstange, zwei Beutel, Reisekleidung und 16 GM oder (B) 50 GM 
 
 ## **Soldat** 
 
-**Attributswerte:** Stärke, Geschicklichkeit, Konstitution **Talent:** Wilder Angreifer (siehe „Talente“) **Fertigkeiten, in denen du geübt bist:** Athletik und Einschüchtern 
+**Attributswerte:** Stärke, Geschicklichkeit, Konstitution **Talent:** Wilder Angreifer (siehe „[[Talente]]“) **Fertigkeiten, in denen du geübt bist:** Athletik und Einschüchtern 
 
-- **Übung im Umgang mit Werkzeug:** _Wähle eine Art von Spielset_ aus (siehe „Ausrüstung“) 
+- **Übung im Umgang mit Werkzeug:** _Wähle eine Art von Spielset_ aus (siehe „[[Ausrüstung]]“) 
 
 - **Ausrüstung:** _Wähle A oder B aus:_ (A) Speer, Kurzbogen, 20 Pfeile, Spielset (wie oben), Heilerausrüstung, Köcher, Reisekleidung und 14 GM oder (B) 50 GM 
 
 ## **Weiser** 
 
-**Attributswerte:** Konstitution, Intelligenz, Weisheit **Talent:** Eingeweihter der Magie (Magier) (siehe „Talente“) 
+**Attributswerte:** Konstitution, Intelligenz, Weisheit **Talent:** Eingeweihter der Magie (Magier) (siehe „[[Talente]]“) 
 
 - **Fertigkeiten, in denen du geübt bist:** Arkane Kunde und Geschichte 
 
