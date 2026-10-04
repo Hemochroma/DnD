@@ -1,25 +1,47 @@
 {
   "players": [
     {
-      "note": "Test",
-      "path": "1-Party/Test.md",
-      "name": "Test",
-      "ac": 66,
-      "hp": 60,
-      "level": 11,
+      "note": "Cirilla",
+      "path": "1-Party/Minders/Cirilla.md",
+      "name": "Cirilla",
+      "ac": "14",
+      "hp": 21,
+      "level": 4,
+      "modifier": 2,
+      "player": true
+    },
+    {
+      "note": "Wuda",
+      "path": "1-Party/Minders/Wuda.md",
+      "name": "Wuda",
+      "level": 4,
+      "hp": 17,
+      "ac": "15",
+      "modifier": 4,
+      "player": true
+    },
+    {
+      "note": "Ling-Ming",
+      "path": "1-Party/Minders/Ling-Ming.md",
+      "name": "Ling-Ming",
+      "ac": "19",
+      "hp": 28,
+      "level": 4,
       "modifier": 2,
       "player": true
     }
   ],
   "parties": [
     {
-      "name": "Test Party",
+      "name": "Minders",
       "players": [
-        "Test"
+        "Cirilla",
+        "Wuda",
+        "Ling-Ming"
       ]
     }
   ],
-  "defaultParty": "Test Party",
+  "defaultParty": null,
   "statuses": [
     {
       "name": "Blinded",
@@ -118,24 +140,70 @@
   "state": {
     "creatures": [
       {
-        "name": "Psycho Puppy",
-        "initiative": 21,
+        "name": "Cirilla",
+        "initiative": 6,
         "static": false,
-        "modifier": 1,
-        "hp": 129,
-        "currentMaxHP": 129,
-        "cr": "9",
-        "ac": 16,
-        "currentAC": 16,
-        "id": "ID_b8eb3818b86b",
-        "currentHP": 129,
+        "modifier": 2,
+        "hp": 21,
+        "currentMaxHP": 21,
+        "ac": "14",
+        "currentAC": "14",
+        "note": "Cirilla",
+        "path": "1-Party/Minders/Cirilla.md",
+        "id": "ID_ebe80958692b",
+        "currentHP": 21,
         "tempHP": 0,
         "status": [],
         "enabled": true,
+        "level": 4,
+        "player": true,
         "active": false,
         "hidden": false,
-        "friendly": false,
-        "hit_dice": "16d8 + 48"
+        "friendly": false
+      },
+      {
+        "name": "Wuda",
+        "initiative": 12,
+        "static": false,
+        "modifier": 4,
+        "hp": 17,
+        "currentMaxHP": 17,
+        "ac": "15",
+        "currentAC": "15",
+        "note": "Wuda",
+        "path": "1-Party/Minders/Wuda.md",
+        "id": "ID_89591a083bdb",
+        "currentHP": 17,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 4,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Ling-Ming",
+        "initiative": 16,
+        "static": false,
+        "modifier": 2,
+        "hp": 28,
+        "currentMaxHP": 28,
+        "ac": "19",
+        "currentAC": "19",
+        "note": "Ling-Ming",
+        "path": "1-Party/Minders/Ling-Ming.md",
+        "id": "ID_0949b80b6a69",
+        "currentHP": 28,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 4,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
       }
     ],
     "state": false,
@@ -144,7 +212,7 @@
     "logFile": "",
     "rollHP": false
   },
-  "condense": false,
+  "condense": true,
   "clamp": true,
   "autoStatus": true,
   "beginnerTips": true,
