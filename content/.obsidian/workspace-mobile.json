@@ -11,32 +11,39 @@
             "id": "98ecb8516f960793",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1-Sessions/2026.09.26.md",
-                "mode": "source",
-                "source": false
+                "file": "z_Assets/Ling-Ming.png"
               },
-              "icon": "lucide-file",
-              "title": "2026.09.26"
+              "icon": "lucide-image",
+              "title": "Ling-Ming"
+            }
+          },
+          {
+            "id": "7e01c444fcc166c5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0-Notizen/Drawing 2026-10-08 11.10.55.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-08 11.10.55.excalidraw"
             }
           },
           {
             "id": "9963d2bc3bd026c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1-Sessions/2026.10.04.md",
-                "mode": "preview",
-                "source": false
+                "file": "0-Notizen/Random Dungeon.md"
               },
-              "icon": "lucide-file",
-              "title": "2026.10.04"
+              "icon": "excalidraw-icon",
+              "title": "Random Dungeon"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +73,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Talent",
+            "query": "Schlaf",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -239,10 +246,28 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "9963d2bc3bd026c1",
+  "active": "98ecb8516f960793",
   "lastOpenFiles": [
+    "z_Assets/Wuda.png",
+    "z_Assets/Cirilla.png",
+    "1-Party/Minders/Cirilla.md",
+    "1-Party/Minders/Vooda.md",
+    "3-Compendium/Zauber.md",
+    "0-Notizen/Drawing 2026-10-08 11.10.55.excalidraw.md",
+    "0-Notizen/Trials/Prüfung der Perspektive.md",
+    "0-Notizen/Trials/Prüfungen der Erkenntnis.md",
+    "0-Notizen/Trials/Der Unbezwingbare Wächter.md",
+    "0-Notizen/Trial of.md",
+    "0-Notizen/Trials",
+    "0-DM Toolkit/Random Events/Reisen/Reisen.md",
     "1-Sessions/2026.09.26.md",
+    "0-Notizen/Random Dungeon.md",
     "1-Sessions/2026.10.04.md",
+    "0-DM Toolkit/Reisen",
+    "0-Notizen/Ideen.md",
+    "0-Notizen/Wuda/Wuda.png",
+    "0-Notizen/Wuda",
+    "0-Notizen/Ling-Ming.png",
     "2-Welt/Greyhawk/Grenzlande/Höhlen des Chaos/Höhle F.md",
     "3-Compendium/Charakter Erstellung/Charakter Erstellung.md",
     "3-Compendium/Klassen/Barbar.md",
@@ -256,30 +281,13 @@
     "3-Compendium/Klassen/Mönch.md",
     "3-Compendium/Magische Gegenstände.md",
     "3-Compendium/Klassen/Magier.md",
-    "3-Compendium/Klassen/Kleriker.md",
-    "3-Compendium/Klassen/Kämpfer.md",
-    "3-Compendium/Spielregeln/Kampf.md",
-    "3-Compendium/Charakter Herkunft/Hintergründe.md",
-    "3-Compendium/Klassen/Hexenmeister.md",
-    "3-Compendium/Spielregeln/Erkundung.md",
-    "3-Compendium/Klassen/Druide.md",
-    "3-Compendium/Klassen/Barde.md",
-    "0-Notizen/Ideen.md",
-    "0-Notizen/WANTED Wuda.md",
-    "0-Notizen/WANTED Ling-Ming.md",
-    "0-Notizen/WANTED Cirilla.md",
     "3-Compendium/D&D Compendium.pdf",
-    "z_Assets/Wuda.png",
     "z_Assets/Ling-Ming.png",
-    "z_Assets/Cirilla.png",
     "2-Campaign/NPC/Reisender Händler Alduin",
     "Ortschaften/_Weltkarte.canvas",
     "Story/Unbenannt.base",
     "Charakter Sheet.base",
     "Unbenannt/Unbenannt.base",
-    "Story",
-    "Charaktere",
-    "Ortschaften",
-    "Charaktere/NPC"
+    "Story"
   ]
 }
