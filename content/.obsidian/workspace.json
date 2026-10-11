@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e11ebfbf10c04a9a",
+        "id": "eaaf914b8309c1fb",
         "type": "tabs",
         "children": [
           {
-            "id": "ea7676001d6be4a8",
+            "id": "986bca1cf57e04a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Party/Minders/Cirilla.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cirilla"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -306,8 +302,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": null,
-                "creatureName": null
+                "creatureId": "ID_a808d9ab08fb",
+                "creatureName": "Bandit"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -317,7 +313,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 724.0999755859375,
+    "width": 756.0999755859375,
     "collapsed": true
   },
   "left-ribbon": {
@@ -344,48 +340,83 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "ea7676001d6be4a8",
+  "floating": {
+    "id": "a1a468b9f750a57f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "525155cf7a7d2cf6",
+        "type": "window",
+        "children": [
+          {
+            "id": "fb2f22c75f03dac2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "07877d086d7826e6",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1507,
+        "y": 119,
+        "width": 1033,
+        "height": 574,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "986bca1cf57e04a7",
   "lastOpenFiles": [
-    "1-Party/Minders/Vooda.md",
-    "1-Party/Minders/Lin-Ming.md",
-    "1-Sessions/2026.09.26.md",
-    "1-Party/Minders/Cirilla.md",
+    "1-Party/Helden der Grenzlande/Cirilla.md",
+    "0-Notizen/Trials/3. Der Unbezwingbare Wächter/3. Der Unbezwingbare Wächter.md",
+    "0-Notizen/Trials/2. Prüfung der Perspektive/2. Prüfung der Perspektive.md",
+    "1-Party/Helden der Grenzlande/Lin-Ming.md",
+    "1-Party/Helden der Grenzlande/Vooda.md",
+    "0-Notizen/Trials/3. Der Unbezwingbare Wächter/Scene.md",
+    "0-Notizen/Trials/1. Prüfung der Selbsterkenntnis/Scene.md",
+    "1-Sessions/Helden der Grenzlande/2026.10.10.md",
+    "1-Sessions/Helden der Grenzlande/2026.09.20.md",
+    "1-Sessions/Helden der Grenzlande/2026.09.19.md",
+    "1-Sessions/Helden der Grenzlande/2026.09.04.md",
+    "1-Sessions/Helden der Grenzlande/Helden der Grenzlande.md",
+    "1-Sessions/1-Sessions.md",
+    "1-Sessions/Helden der Grenzlande",
+    "0-Notizen/Trials/1. Prüfung der Selbsterkenntnis/1. Prüfung der Selbsterkenntnis.md",
+    "0-Notizen/Random Dungeon.md",
+    "0-Notizen/Trials/2. Prüfung der Perspektive/Scene.md",
+    "0-Notizen/Trials/Notes.md",
+    "0-Notizen/Trial of.md",
+    "0-Notizen/Ideen.md",
+    "1-Sessions/Helden der Grenzlande/2026.10.04.md",
+    "0-Notizen/Trials/4. Zerstörung der Glocke/4. Zerstörung der Glocke.md",
+    "1-Party/1-Party.md",
+    "1-Party/Helden der Grenzlande/Helden der Grenzlande.md",
+    "1-Sessions/Helden der Grenzlande/2026.09.26.md",
     "z_Assets/Placeholder Images/Cirilla Gesucht.png",
     "z_Assets/Placeholder Images/Ling-Ming_Gesucht.png",
     "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
     "1-Party/Minders/Cirilla.pdf",
-    "1-Sessions/2026.09.20.md",
-    "1-Sessions/2026.09.19.md",
-    "1-Sessions/2026.09.04.md",
     "z_Assets/Placeholder Images/Wuda Gesucht.png",
-    "0-Notizen/Trials/4. Zerstörung der Glocke/4. Zerstörung der Glocke.md",
-    "0-Notizen/Trials/1. Prüfung der Selbsterkenntnis/Scene.md",
-    "0-Notizen/Trials/2. Prüfung der Perspektive/Scene.md",
-    "0-Notizen/Trials/3. Der Unbezwingbare Wächter/Scene.md",
     "0-Notizen/Trials/4. Zerstörung der Glocke",
-    "0-Notizen/Trials/3. Der Unbezwingbare Wächter/3. Der Unbezwingbare Wächter.md",
-    "0-Notizen/Trials/1. Prüfung der Selbsterkenntnis/1. Prüfung der Selbsterkenntnis.md",
     "0-Notizen/Trials/3. Der Unbezwingbare Wächter",
-    "0-Notizen/Trials/2. Prüfung der Perspektive/2. Prüfung der Perspektive.md",
     "0-Notizen/Trials/2. Prüfung der Perspektive",
     "0-Notizen/Trials/1. Prüfung der Selbsterkenntnis",
-    "1-Sessions/2026.10.04.md",
-    "0-Notizen/Ideen.md",
-    "0-Notizen/Trial of.md",
-    "0-Notizen/Random Dungeon.md",
     "0-Notizen/Drawing 2026-10-08 11.10.55.excalidraw.md",
     "0-Notizen/~syncthing~Trial of.md.tmp",
     "0-Notizen/Trials/~syncthing~Prüfung der Perspektive.md.tmp",
     "0-Notizen/Trials/~syncthing~Prüfungen der Erkenntnis.md.tmp",
     "0-Notizen/Trials/~syncthing~Der Unbezwingbare Wächter.md.tmp",
-    "0-Notizen/Trials",
     "0-Notizen/Ablauf  Quelle im Koniferenhain.canvas",
-    "0-DM Toolkit/Boss Battles/Boss Battles.md",
-    "0-DM Toolkit/Random Events/Reisen/Rote Ereignisse (Kampf)/Health and Safety Guidlines.md",
-    "0-DM Toolkit/Random Events/Reisen/Reisen.md",
-    "0-DM Toolkit/Travel Calculator.md",
-    "0-DM Toolkit/Map Calculator.md",
-    "0-DM Toolkit/Journey Board.md",
     "0-Notizen/Bild4.png",
     "0-Notizen/Ling-Ming.png",
     "0-Notizen/Wuda.png",

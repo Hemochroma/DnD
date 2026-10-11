@@ -10,6 +10,7 @@ views:
       and:
         - file.inFolder("1-Sessions")
         - file.name != "1-Sessions"
+        - navigation_level == 2
     markers: bullet
     indentProperties: true
 

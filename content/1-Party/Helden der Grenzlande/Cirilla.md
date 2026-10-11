@@ -84,8 +84,14 @@ Seit diesem Tag lebt sie auf der Strasse der Abenteurer, immer auf der Hut, aber
 bereit für alles, was das Schicksal ihr entgegenwirft.
 
 ## Ereignisse
+### Gesucht
 Zeigte bemerkenswertes Verhandlungsgeschick, indem sie die Wachen davon überzeugte, einen ihrer Komplizen gefangen zu haben. Befreite diesen kurz darauf wieder und unterstützte die anschließende Flucht. 
 
 Gesucht wegen Unterstützung einer kriminellen Vereinigung, vorbildlicher Schauspielkunst und der Behauptung, einen Flüchtigen gefasst zu haben, während sie ihn gleichzeitig befreite.
 
 ![[Cirilla Gesucht.png|460]]
+
+### Epische Heldin
+Als die Schatten des Chaos das Land bedrohten, zog [[Cirilla]] gemeinsam mit seinen Gefährten aus, um die legendäre [[Chaosglocke]] zu finden. Wo Heere versagten und die Elite des Königs scheiterte, triumphierten die Abenteurer der Grenzlande und zerstörten das Artefakt für alle Zeit. 
+
+Von diesem Tag an war ihr Name von jeder Anschuldigung reingewaschen, und fortan wurden die Abenteurer der Grenzlande, als Helden der Grenzlanden in Tavernen, Burgen und Städten, besungen.

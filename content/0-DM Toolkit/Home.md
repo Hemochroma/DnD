@@ -12,7 +12,7 @@ obsidianUIMode: preview
 > **[[Test City]]**
 > ![[AdventureIcon.png\|sban htiny ctr]]
 > 
-> **[[Minders]]**
+> **[[Helden der Grenzlande]]**
 > ![[PartyLogo.jpg\|sban htiny ctr p+t]]
 
 > [!NOTE|no-title]

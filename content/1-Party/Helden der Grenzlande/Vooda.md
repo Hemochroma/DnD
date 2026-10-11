@@ -41,9 +41,15 @@ Aus der geschickten Fährtenleserin wurde eine Magierin, sie lernte, die arkane 
 
 Sie bereist die Welt als eine seltene Mischung. Eine Frau, die den Wald wie ihre Westentasche kennt, die Gefahren der Wildnis riecht, bevor sie entstehen und die ihre Feinde mit ihren erlernten Fähigkeiten das Fürchten lehrt. Und tief in ihrem Herzen trägt sie noch immer den Glauben ihrer Mutter, dass ein bisschen Magie im Leben manchmal genau das Wunder bewirkt, das man braucht.
 
-## Gesucht
+## Ereignisse
+### Gesucht
 Nach einer Reihe fragwürdiger Entscheidungen landete Vooda im Kerker. Nach seiner Flucht alarmierte sie versehentlich die gesamte Burg, indem sie einer Wache per Magie eine Nachricht zukommen ließ. 
 
 Wird gesucht wegen Gefängnisausbruch, Einbruch, Diebstahl magischer Gegenstände und dem seltenen Talent, selbst gelungene Fluchtpläne doch noch scheitern zu lassen.
 
 ![[Wuda Gesucht.png|460]]
+
+### Epische Heldin
+Als die Schatten des Chaos das Reich zu verschlingen drohten, stellte sich [[Vooda]] gemeinsam mit den Abenteurern der Grenzlande einer Aufgabe, an der Könige, Heere und gefeierte Helden zuvor gescheitert waren. Nach unzähligen Gefahren und Prüfungen fanden sie die legendäre [[Chaosglocke]] und zerschmetterten das Artefakt, dessen Macht über Generationen hinweg Furcht und Unheil verbreitet hatte.
+
+Mit dem Untergang der Glocke verstummten alle Anschuldigungen gegen die Gruppe, und das auf sie ausgesetzte Kopfgeld wurde aufgehoben. Von diesem Tag an wurden die Abenteurer der Grenzlande nicht mehr als Flüchtige oder Söldner betrachtet, sondern als wahre Helden, deren Taten in Tavernen erzählt, in Burgen geehrt und in den Chroniken des Reiches für kommende Generationen festgehalten wurden.
