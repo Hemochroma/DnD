@@ -11,12 +11,14 @@
             "id": "98ecb8516f960793",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "z_Assets/Ling-Ming.png"
+                "file": "0-Notizen/Kampagnen Ideensammlung/Quests/Hilfe am See.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Ling-Ming"
+              "icon": "lucide-file",
+              "title": "Hilfe am See"
             }
           },
           {
@@ -248,6 +250,23 @@
   },
   "active": "98ecb8516f960793",
   "lastOpenFiles": [
+    "0-Notizen/Kampagnen Ideensammlung/_Kampagnen Start.md",
+    "0-Notizen/Kampagnen Ideensammlung/Quests/Hilfe am See.md",
+    "0-Notizen/Kampagnen Ideensammlung/Aura des Waldes.md",
+    "2-Kampagne/Quests/Hilfe am See.md",
+    "0-Notizen/Kampagnen Ideensammlung/Quests",
+    "2-Kampagne/Quests/Zerstöre die Chaos Glocke.md",
+    "2026-10-04.md",
+    "2-World/Lampoteuo/Lampoteuo City/Lampoteuo City.md",
+    "2-World/Lampoteuo/Lampoteuo City",
+    "2-World/Lampoteuo",
+    "2-World",
+    "z_Templates/TemplateQuest.md",
+    "2-Kampagne/NPC/Baelin.md",
+    "z_Assets/NPC/Baelin.png",
+    "2-Kampagne/NPC/Jacko.md",
+    "z_Assets/Ling-Ming.png",
+    "0-Notizen/Kampagnen Ideensammlung.md",
     "z_Assets/Wuda.png",
     "z_Assets/Cirilla.png",
     "1-Party/Minders/Cirilla.md",
@@ -270,24 +289,9 @@
     "0-Notizen/Ling-Ming.png",
     "2-Welt/Greyhawk/Grenzlande/Höhlen des Chaos/Höhle F.md",
     "3-Compendium/Charakter Erstellung/Charakter Erstellung.md",
-    "3-Compendium/Klassen/Barbar.md",
-    "3-Compendium/Talente.md",
     "Unbenannt",
-    "3-Compendium/3-Compendium.md",
-    "3-Compendium/Spielregeln/Spielregeln.md",
-    "3-Compendium/Klassen/Klassen.md",
-    "1-Sessions/1-Sessions.md",
-    "3-Compendium/Klassen/Paladin.md",
-    "3-Compendium/Klassen/Mönch.md",
-    "3-Compendium/Magische Gegenstände.md",
-    "3-Compendium/Klassen/Magier.md",
     "3-Compendium/D&D Compendium.pdf",
-    "z_Assets/Ling-Ming.png",
     "2-Campaign/NPC/Reisender Händler Alduin",
-    "Ortschaften/_Weltkarte.canvas",
-    "Story/Unbenannt.base",
-    "Charakter Sheet.base",
-    "Unbenannt/Unbenannt.base",
-    "Story"
+    "Ortschaften/_Weltkarte.canvas"
   ]
 }

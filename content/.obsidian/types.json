@@ -41,6 +41,12 @@
     "HG": "number",
     "Initiative": "number",
     "RK": "number",
-    "navigation_level": "number"
+    "navigation_level": "number",
+    "level": "multitext",
+    "PrimärAttribut": "multitext",
+    "Trefferwürfel": "text",
+    "Rettungswürfe": "multitext",
+    "Rüstung": "multitext",
+    "Waffen": "multitext"
   }
 }
