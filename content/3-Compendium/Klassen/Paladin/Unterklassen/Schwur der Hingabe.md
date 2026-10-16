@@ -1,21 +1,33 @@
-_Kämpfe für die Ideale von Gerechtigkeit und Ordnung_ Der Schwur der Hingabe bindet Paladine an die Ideale von Gerechtigkeit und Ordnung. Diese Paladine entsprechen dem Archetypen des Ritters in strahlender Rüstung. Sie legen die höchsten Verhaltensmaßstäbe an sich – und manchmal auch an alle anderen. 
+_Der Eid der Hingabe verpflichtet Paladine auf die höchsten Ideale von Gerechtigkeit und Ordnung. Diese Paladine verkörpern das Ideal des „Ritters in glänzender Rüstung“. Sie legen für ihr eigenes Verhalten strengste Maßstäbe an – und manche verlangen – im Guten wie im Schlechten – dass auch der Rest der Welt diesen Maßstäben folgt. Viele, die diesen Eid ablegen, sind Gottheiten des Gesetzes und des Guten ergeben und nutzen die Glaubenssätze ihrer Gottheiten als Maßstab für ihre eigene Hingabe. Sie betrachten Engel als ihre Ideale und integrieren Darstellungen von Engelsflügeln in ihre Helme oder Wappen._
 
-Viele, die diesen Schwur leisten, sind den Göttern der Gesetze und des Guten ergeben und betrachten deren Lehren als Maßstab für ihre Hingabe. Andere sehen Engel als ihre Vorbilder und versehen ihre Helme oder Wappen mit stilisierten Engelsflügeln. 
+## GRUNDSÄTZE DER HINGABE
 
-Diese Paladine leben nach folgenden Lehren: 
-- Lass dein Wort dein Versprechen sein. 
-- Beschütze die Schwachen und fürchte dich niemals davor, zu handeln. 
-- Lass deine ehrenhaften Taten ein Beispiel sein. 
+Auch wenn die genauen Worte und Vorschriften des Eids der Hingabe variieren können, teilen Paladine, die diesen Eid geleistet haben, die folgenden Grundsätze:
+
+>[!INFO]+ Ehrlichkeit
+>Lüge und betrüge nicht. Dein Wort gilt als Versprechen. 
+
+>[!INFO]+ Mut
+>Scheue dich niemals zu handeln, auch wenn Vorsicht ratsam ist. 
+
+>[!INFO]+ Mitgefühl
+>Hilf anderen, beschütze die Schwachen und bestrafe diejenigen, die sie bedrohen. Erweise deinen Feinden Gnade, doch lass dabei stets Weisheit walten. 
+
+>[!INFO]+ Ehre
+>Behandle andere gerecht und lass deine ehrenhaften Taten ihnen als Vorbild dienen. 
+
+>[!INFO]+ Pflicht
+>Übernimm Verantwortung für dein Handeln und dessen Folgen, beschütze jene, die dir anvertraut wurden, und gehorche denjenigen, die rechtmäßige Autorität über dich ausüben.
 
 ## Schwurzauber der Hingabe 
 
-|Paladinstufe |Zauber|
-|---|---|
-|3|_Schild des Glaubens_,_Schutz vor Gut und Böse_|
-|5|_Beistand_,_Zone der Wahrheit_|
-|9|_Leuchtfeuer der Hoffnung_,_Magie bannen_|
-|13|_Bewegungsfreiheit_,_Hüter des Glaubens_|
-|17|_Flammenschlag_,_Heiliges Gespräch_|
+| Stufe | Zauber                                          |
+| ----- | ----------------------------------------------- |
+| 3     | _Schild des Glaubens_,_Schutz vor Gut und Böse_ |
+| 5     | _Beistand_,_Zone der Wahrheit_                  |
+| 9     | _Leuchtfeuer der Hoffnung_,_Magie bannen_       |
+| 13    | _Bewegungsfreiheit_,_Hüter des Glaubens_        |
+| 17    | _Flammenschlag_,_Heiliges Gespräch_             |
 
 
 

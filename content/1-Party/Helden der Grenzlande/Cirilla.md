@@ -4,6 +4,7 @@ Alter: Jung
 Klasse: Schurke
 Geschlecht: Weiblich
 Spezies: Elf
+Icon: "[[Cirilla.png]]"
 ---
 
 > [!infobox]

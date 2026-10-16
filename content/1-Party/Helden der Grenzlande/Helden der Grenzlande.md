@@ -15,12 +15,12 @@ properties:
   note.char_class:
     displayName: Class
 views:
-  - type: table
+  - type: cards
     name: Table
     filters:
       and:
-        - file.folder == "1-Party/Minders"
-        - file.name != "Minders"
+        - file.folder == "1-Party/Helden der Grenzlande"
+        - file.name != "Helden der Grenzlande"
     order:
       - file.name
       - level
@@ -31,5 +31,9 @@ views:
     sort:
       - property: level
         direction: ASC
+    image: note.Icon
+    cardSize: 150
+    imageFit: contain
+    imageAspectRatio: 1.5
 
 ```

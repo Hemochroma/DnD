@@ -1,3 +1,6 @@
+---
+Icon: "[[Ling-Ming.png]]"
+---
 
 > [!infobox]
 > # Lin-Ming

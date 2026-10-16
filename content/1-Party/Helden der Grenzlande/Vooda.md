@@ -1,3 +1,6 @@
+---
+Icon: "[[Wuda.png]]"
+---
 
 > [!infobox]
 > # Vooda
