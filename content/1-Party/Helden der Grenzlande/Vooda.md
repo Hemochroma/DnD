@@ -1,12 +1,12 @@
 ---
-Icon: "[[Wuda.png]]"
+Icon: "[[Vooda.png]]"
 ---
 
 > [!infobox]
 > # Vooda
-> ![[z_Assets/Wuda.png|cover hsmall]]
+> ![[z_Assets/PC/Vooda.png|cover hsmall]]
 > ###### Informationen
-> Typ |  Stat |
+>  |   |
 > ---|---|
 > Heimat |  |
 > Gruppe |  |
@@ -15,7 +15,7 @@ Icon: "[[Wuda.png]]"
 > Alter ||
 > Kondition | Gesund |
 > ###### Regeln
-> Type |  Stat |
+>  |   |
 > ---|---|
 > Alignment |Neutral Gut|
 > Klasse |Zauberer|

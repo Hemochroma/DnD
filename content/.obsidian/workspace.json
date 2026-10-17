@@ -4,20 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "c383bc7ce5508077",
+        "id": "eaaf914b8309c1fb",
         "type": "tabs",
         "children": [
           {
-            "id": "9ecd07b7d8acb53f",
+            "id": "d947c683d2c252da",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Notizen/Kampagnen Ideensammlung/_Kampagnen Start.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "_Kampagnen Start"
+            }
+          },
+          {
+            "id": "36a8c63717403097",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "pdf",
+              "state": {
+                "file": "3-Compendium/DE_SRD_CC_v5.2.1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DE_SRD_CC_v5.2.1"
+            }
+          },
+          {
+            "id": "6ee7d0a1089b0be7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Party/Placeholder/Elora.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Elora"
+            }
+          },
+          {
+            "id": "b13e12a039bd8858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Party/Placeholder/Rika 'Blutaxt' Kornhammer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rika 'Blutaxt' Kornhammer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -42,7 +89,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Dateiexplorer"
+              "title": "Files"
             }
           },
           {
@@ -328,14 +375,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graph-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false,
-      "obsidian-kanban:Erstelle ein neues Board": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-custom-frames:Open Obsidian Forum": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
@@ -350,53 +397,54 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "9ecd07b7d8acb53f",
+  "active": "36a8c63717403097",
   "lastOpenFiles": [
-    "3-Compendium/Klassen/Paladin/Paladin.md",
-    "1-Party/Placeholder/Elora.md",
-    "1-Party/Placeholder/Rita 'Blutaxt' Kornhammer.md",
+    "3-Compendium/Talente.md",
     "1-Party/Placeholder/Velaris Elarion.md",
-    "1-Party/Placeholder/~syncthing~Velaris Elarion.md.tmp",
-    "1-Party/Placeholder/~syncthing~Elora.md.tmp",
-    "1-Party/Placeholder/~syncthing~Rita 'Blutaxt' Kornhammer.md.tmp",
+    "1-Party/Placeholder/Elora.md",
+    "1-Party/Placeholder/Rika 'Blutaxt' Kornhammer.md",
     "1-Party/Placeholder/Placeholder.md",
     "1-Party/Helden der Grenzlande/Helden der Grenzlande.md",
-    "1-Party/Helden der Grenzlande/Vooda.md",
+    "z_Assets/PC/Velaris Elarion.png",
     "1-Party/Helden der Grenzlande/Lin-Ming.md",
     "1-Party/Helden der Grenzlande/Cirilla.md",
-    "3-Compendium/Klassen/Mönch/Mönch.md",
-    "1-Party/Placeholder",
-    "3-Compendium/Klassen/Barbar/Barbar.md",
+    "1-Party/Helden der Grenzlande/Vooda.md",
+    "z_Assets/PC/Elora.png",
+    "0-Notizen/Kampagnen Ideensammlung/Schiffsfahrt.md",
+    "0-Notizen/Kampagnen Ideensammlung/_Kampagnen Start.md",
+    "z_Assets/PC/Rika Kornhammer.jpg",
+    "0-Notizen/Kampagnen Ideensammlung/Individuelle Charakter Kapitel.md",
+    "0-Notizen/Kampagnen Ideensammlung/Glückshaus.md",
+    "z_Assets/PC/~syncthing~IMG-20261017-WA0005.jpg.tmp",
+    "1-Party/Placeholder/~syncthing~Rita 'Blutaxt' Kornhammer.md.tmp",
+    "z_Assets/Pasted Image 20261017152931_949.png",
+    "z_Assets/Pasted Image 20261017152633_632.png",
+    "z_Assets/Pasted Image 20261017151442_198.png",
+    "z_Assets/Pasted Image 20261017151413_119.png",
+    "1-Party/1-Party.md",
+    "3-Compendium/character-sheetV2.pdf",
+    "1-Party/Placeholder/charakterbogen_v2.8.2.pdf",
+    "3-Compendium/character-sheet.pdf",
+    "1-Sessions/1-Sessions.md",
+    "1-Sessions/Helden der Grenzlande/Helden der Grenzlande.md",
     "3-Compendium/Klassen/Paladin/Unterklassen/Schwurbrecher.md",
-    "3-Compendium/Klassen/Paladin/Unterklassen/Schwur des Ruhms.md",
     "3-Compendium/Klassen/Paladin/Unterklassen/Schwur der Urahnen.md",
-    "3-Compendium/Klassen/Paladin/Unterklassen/Schwur der Rache.md",
-    "3-Compendium/Klassen/Paladin/Unterklassen/Schwur der Krone.md",
+    "1-Party/Placeholder/~syncthing~Elora.md.tmp",
+    "1-Party/Placeholder/~syncthing~Placeholder.md.tmp",
+    "1-Party/Helden der Grenzlande/~syncthing~Vooda.md.tmp",
+    "1-Party/Helden der Grenzlande/~syncthing~Cirilla.md.tmp",
+    "1-Party/Helden der Grenzlande/~syncthing~Helden der Grenzlande.md.tmp",
+    "3-Compendium/Klassen/Paladin/Unterklassen/Schwur des Ruhms.md",
     "3-Compendium/Klassen/Paladin/Unterklassen/Schwur der Hingabe.md",
-    "3-Compendium/Talente.md",
-    "3-Compendium/Werkzeugkasten fürs Spiel.md",
-    "3-Compendium/Klassen/Barde/Barde.md",
-    "3-Compendium/Klassen/Artificer/Artificer.md",
-    "3-Compendium/Klassen/Barbar/Unterklassen/Wildes Herz.md",
-    "3-Compendium/Klassen/Barbar/Unterklassen/Weltenbaum.md",
-    "3-Compendium/Klassen/Barbar/Unterklassen/Berserker.md",
+    "3-Compendium/Klassen/Paladin/Unterklassen/Schwur der Krone.md",
+    "3-Compendium/Klassen/Paladin/Paladin.md",
+    "3-Compendium/Klassen/Mönch/Unterklassen/Weg des Schattens.md",
+    "3-Compendium/Klassen/Mönch/Unterklassen/Weg des betrunkenen Meisters.md",
     "3-Compendium/Klassen/Mönch/Unterklassen/Weg der offenen Hand.md",
-    "3-Compendium/Klassen/Artificer/Untitled.base",
+    "3-Compendium/Klassen/Mönch/Unterklassen/Weg der vier Elemente.md",
     "z_Assets/classes/Bard/College_Of_Glamour.png",
     "z_Assets/classes/Bard/College_Of_Valour.png",
     "z_Assets/classes/Bard/College_Of_Swords.png",
-    "z_Assets/classes/Bard/College_Of_Lore.png",
-    "z_Assets/classes/Barbarian/Wildheart.png",
-    "z_Assets/classes/Barbarian/WildMagic.png",
-    "z_Assets/classes/Barbarian/Giant.png",
-    "z_Assets/classes/Barbarian/Berserker.png",
-    "z_Assets/classes/Barbarian/Berserker.webp",
-    "z_Assets/classes/Barbarian/Barbarian.png",
-    "z_Assets/classes/Wizard",
-    "z_Assets/classes/Warlock",
-    "z_Assets/classes/Sorcerer",
-    "z_Assets/classes/Rogue",
-    "z_Assets/classes/Ranger",
     "3-Compendium/Klassen/Canvas.canvas",
     "0-Notizen/Ablauf  Quelle im Koniferenhain.canvas",
     "3-Compendium/3-Compendium.canvas",

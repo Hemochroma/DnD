@@ -1,12 +1,12 @@
 ---
-Icon: "[[Ling-Ming.png]]"
+Icon: "[[Lin-Ming.png]]"
 ---
 
 > [!infobox]
 > # Lin-Ming
-> ![[Ling-Ming.png|cover hsmall]]
+> ![[Lin-Ming.png|cover hsmall]]
 > ###### Informationen
-> Typ |  Stat |
+>  |   |
 > ---|---|
 > Heimat ||
 > Gruppe ||
@@ -15,7 +15,7 @@ Icon: "[[Ling-Ming.png]]"
 > Alter |Jung|
 > Kondition |Gesund|
 > ###### Regeln
-> Type |  Stat |
+>  |   |
 > ---|---|
 > Alignment | Chaotisch Böse|
 > Klasse | Kämpfer |

@@ -11,7 +11,7 @@ Icon: "[[Cirilla.png]]"
 > # Cirilla
 > ![[Cirilla.png|cover hsmall]]
 > ###### Informationen
-> Typ |  Stat |
+>  |   |
 > ---|---|
 > Heimat |  |
 > Gruppe |  |
@@ -20,7 +20,7 @@ Icon: "[[Cirilla.png]]"
 > Alter |  |
 > Kondition | Gesund |
 > ###### Regeln
-> Type |  Stat |
+>  |   |
 > ---|---|
 > Alignment |Neutral Böse|
 > Klasse |Schurke|

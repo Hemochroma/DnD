@@ -23,11 +23,6 @@ views:
         - file.name != "Helden der Grenzlande"
     order:
       - file.name
-      - level
-      - char_age
-      - char_class
-      - char_gender
-      - char_race
     sort:
       - property: level
         direction: ASC

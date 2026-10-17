@@ -42,7 +42,7 @@
     "Initiative": "number",
     "RK": "number",
     "navigation_level": "number",
-    "level": "multitext",
+    "level": "number",
     "PrimärAttribut": "multitext",
     "Trefferwürfel": "text",
     "Rettungswürfe": "multitext",

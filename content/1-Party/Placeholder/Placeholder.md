@@ -24,10 +24,8 @@ views:
     order:
       - file.name
       - level
-      - char_age
-      - char_class
-      - char_gender
-      - char_race
+      - Klasse
+      - Unterklasse
     sort:
       - property: level
         direction: ASC
