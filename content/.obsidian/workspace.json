@@ -63,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Suchen"
+              "title": "Search"
             }
           },
           {
@@ -294,11 +294,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "templater-obsidian:Templater": false,
-      "modalforms:Edit forms": false
+      "modalforms:Edit forms": false,
+      "quartz-syncer:Quartz Syncer Publication Center": false
     }
   },
-  "active": "df3cd80d45d58e94",
+  "active": "2911de48d50d504c",
   "lastOpenFiles": [
+    "2-Kampagne/NPC/Ilvara 'Ilvy' Wavencrest.md",
     "2-Kampagne/NPC/NPC.md",
     "1-Party/Helden der Grenzlande/Vooda.md",
     "1-Party/Helden der Grenzlande/Lin-Ming.md",
@@ -306,7 +308,6 @@
     "1-Party/Die Götter von Morgen/Velaris Elarion.md",
     "1-Party/Die Götter von Morgen/Rika 'Blutaxt' Kornhammer.md",
     "1-Party/Die Götter von Morgen/Elora.md",
-    "2-Kampagne/NPC/Ilvara 'Ilvy' Wavencrest.md",
     "3-Compendium/Charakter Herkunft/Spezies.md",
     "3-Compendium/Charakter Herkunft/Hintergründe.md",
     "2-Kampagne/NPC/Untitled Kanban.md",

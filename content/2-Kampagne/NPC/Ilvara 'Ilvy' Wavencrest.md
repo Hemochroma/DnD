@@ -18,6 +18,7 @@ tags:
 > |Berufung|Entdeckerin in Ausbildung|
 > |Ziel|Eines Tages selbst Kapitänin der Wavencrest zu werden.
 
+
 ![[Ilvara_summary.png]]
 
 ## Profil
