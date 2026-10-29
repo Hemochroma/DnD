@@ -7,3 +7,5 @@ views:
         - navigation_level == 1
 
 ```
+
+Version: 1.2
