@@ -12,20 +12,20 @@ tags:
 > # Lin-Ming
 > ![[Lin-Ming.png|cover hsmall]]
 > ###### Informationen
->  |   |
-> ---|---|
-> Heimat ||
-> Gruppe ||
-> Geschlecht |Weiblich|
-> Spezies |Mensch|
-> Alter |Jung|
-> Kondition |Gesund|
+> | |   |
+> |---|---|
+> |Heimat ||
+> |Gruppe ||
+> |Geschlecht |Weiblich|
+> |Spezies |Mensch|
+> |Alter |Jung|
+> |Kondition |Gesund|
 > ###### Regeln
->  |   |
-> ---|---|
-> Alignment | Chaotisch Böse|
-> Klasse | Kämpfer |
-> Rolle | Tank |
+> | |   |
+> |---|---|
+> |Alignment | Chaotisch Böse|
+> |Klasse | Kämpfer |
+> |Rolle | Tank |
 
 ## Profile
 

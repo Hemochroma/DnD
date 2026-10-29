@@ -12,19 +12,19 @@ tags:
 > # Rika 'Blutaxt' Kornhammer
 > ![[Rika Kornhammer.jpg|420]]
 > ###### Informationen
->  |   |
-> ---|---|
-> Heimat |  |
-> Gruppe |  |
-> Geschlecht |  |
-> Spezies |  |
-> Alter |  |
+> |  |   |
+> |---|---|
+> |Heimat |  |
+> |Gruppe |  |
+> |Geschlecht |  |
+> |Spezies |  |
+> |Alter |  |
 > ###### Regeln
->  |   |
-> ---|---|
-> Alignment ||
-> Klasse |Barbar|
-> Rolle|Schaden|
+>  ||   |
+> |---|---|
+> |Alignment ||
+> |Klasse |Barbar|
+> |Rolle|Schaden|
 
 ## Profil
 ### Story

@@ -12,20 +12,20 @@ tags:
 > # Vooda
 > ![[z_Assets/PC/Vooda.png|cover hsmall]]
 > ###### Informationen
->  |   |
-> ---|---|
-> Heimat |  |
-> Gruppe |  |
-> Geschlecht |Weiblich|
-> Spezies |Halbling|
-> Alter ||
-> Kondition | Gesund |
+> | |   |
+> |---|---|
+> |Heimat |  |
+> |Gruppe |  |
+> |Geschlecht |Weiblich|
+> |Spezies |Halbling|
+> |Alter ||
+> |Kondition | Gesund |
 > ###### Regeln
->  |   |
-> ---|---|
-> Alignment |Neutral Gut|
-> Klasse |Zauberer|
-> Rolle|Schaden & Unterstützung|
+> | |   |
+> |---|---|
+> |Alignment |Neutral Gut|
+> |Klasse |Zauberer|
+> |Rolle|Schaden & Unterstützung|
 
 ## Profile
 Es war der intensive Duft von Moos, zerriebener Rinde und dem süsslichen Aroma wilder Beeren, der die Kindheit von Vooda prägte. Ihre Mutter, eine tiefgläubige und überaus abergläubische Frau sah in jedem knackenden Ast ein Omen und in jedem vorbeiziehenden Vogelschwarm ein Zeichen der Götter.

@@ -13,19 +13,19 @@ tags:
 > # Elora
 > ![[Elora.png|420]]
 > ###### Informationen
->  |   |
-> ---|---|
-> Heimat |  |
-> Gruppe |  |
-> Geschlecht |  |
-> Spezies |  |
-> Alter |  |
+> | |   |
+> |---|---|
+> |Heimat |  |
+> |Gruppe |  |
+> |Geschlecht |  |
+> |Spezies |  |
+> |Alter |  |
 > ###### Regeln
->  |   |
-> ---|---|
-> Alignment ||
-> Klasse |Mönch|
-> Rolle|Schaden|
+> | |   |
+> |---|---|
+> |Alignment ||
+> |Klasse |Mönch|
+> |Rolle|Schaden|
 
 ## Profile
 ### Story

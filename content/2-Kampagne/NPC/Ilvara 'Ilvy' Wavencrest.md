@@ -7,16 +7,16 @@ tags:
 > # Ilvara 'Ilvy' Wavencrest
 > ![[Ilvara.png|420]]
 > ###### Informationen
->  |   |
-> ---|---|
-> Name|Ilvara "Ilvy" Wavencrest|
-> Alter|62 (elfisch)|
-> Spezies |Elfin|
-> Geschlecht |Weiblich|
-> Hintergrund|Tochter des Kapitäns
-> Heimat |Gischt-Inseln|
-> Berufung|Entdeckerin in Ausbildung|
-> Ziel|Eines Tages selbst Kapitänin der Wavencrest zu werden.
+> |   |   |
+> |---|---|
+> |Name|Ilvara "Ilvy" Wavencrest|
+> |Alter|62 (elfisch)|
+> |Spezies |Elfin|
+> |Geschlecht |Weiblich|
+> |Hintergrund|Tochter des Kapitäns
+> |Heimat |Gischt-Inseln|
+> |Berufung|Entdeckerin in Ausbildung|
+> |Ziel|Eines Tages selbst Kapitänin der Wavencrest zu werden.
 
 ![[Ilvara_summary.png]]
 

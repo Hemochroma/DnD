@@ -12,20 +12,20 @@ tags:
 > # Cirilla
 > ![[Cirilla.png|cover hsmall]]
 > ###### Informationen
->  |   |
-> ---|---|
-> Heimat |  |
-> Gruppe |  |
-> Geschlecht |  |
-> Spezies |  |
-> Alter |  |
-> Kondition | Gesund |
+> | |   |
+> |---|---|
+> |Heimat |  |
+> |Gruppe |  |
+> |Geschlecht |  |
+> |Spezies |  |
+> |Alter |  |
+> |Kondition | Gesund |
 > ###### Regeln
->  |   |
-> ---|---|
-> Alignment |Neutral Böse|
-> Klasse |Schurke|
-> Rolle|Schaden|
+> | |   |
+> |---|---|
+> |Alignment |Neutral Böse|
+> |Klasse |Schurke|
+> |Rolle|Schaden|
 
 ## Profile
 Die Erinnerung an das weiche Licht ihres Elternhauses war das Erste, was

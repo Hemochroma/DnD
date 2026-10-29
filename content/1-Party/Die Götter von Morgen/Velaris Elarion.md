@@ -13,19 +13,19 @@ tags:
 > # Velaris Elarion
 > ![[Velaris Elarion.png|420]]
 > ###### Informationen
->  |   |
-> ---|---|
-> Heimat | Uralten Wald |
-> Gruppe |  |
-> Geschlecht |Mänlich|
-> Spezies |Waldelf|
-> Alter |127|
+> | |   |
+> |---|---|
+> |Heimat | Uralten Wald |
+> |Gruppe |  |
+> |Geschlecht |Mänlich|
+> |Spezies |Waldelf|
+> |Alter |127|
 > ###### Regeln
->  |   |
-> ---|---|
-> Alignment ||
-> Klasse |Schurke|
-> Rolle|Schaden|
+> | |   |
+> |---|---|
+> |Alignment ||
+> |Klasse |Schurke|
+> |Rolle|Schaden|
 
 ## Profile
 _"Die meisten fürchten den Tod. Ich fürchte den Tag, an dem ich mich erinnere, warum ich ihn
