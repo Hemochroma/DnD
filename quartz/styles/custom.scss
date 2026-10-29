@@ -1,3 +1,7 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+.center, article {
+  max-width: 100% !important; /* Forces the main text container to use all available middle column space */
+}
