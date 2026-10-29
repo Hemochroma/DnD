@@ -1,10 +1,11 @@
 ---
-level: 3
-Alter: Jung
+level: 4
 Klasse: Schurke
-Geschlecht: Weiblich
+Unterklasse: Assassine
 Spezies: Elf
-Icon: "[[Cirilla.png]]"
+image: "[[Cirilla.png]]"
+tags:
+  - Category/Player
 ---
 
 > [!infobox]

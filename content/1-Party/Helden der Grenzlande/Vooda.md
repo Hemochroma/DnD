@@ -1,5 +1,11 @@
 ---
-Icon: "[[Vooda.png]]"
+Level: 4
+Klasse: Magier
+Unterklasse: Abjuration
+Spezies: Mensch
+image: "[[Vooda.png]]"
+tags:
+  - Category/Player
 ---
 
 > [!infobox]

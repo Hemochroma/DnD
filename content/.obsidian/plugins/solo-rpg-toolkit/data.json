@@ -19,10 +19,10 @@
   "standardOracleEvents": false,
   "oracleLanguage": "en",
   "templatePrefix": "template",
-  "wordTab": "",
-  "oracleTab": "default",
-  "deckTab": "Standard",
-  "mythicFactor": 5,
+  "wordTab": "Prompts",
+  "oracleTab": "default2",
+  "deckTab": "Business Card Dungeon",
+  "mythicFactor": 1,
   "wordQuickValue": "",
-  "wordQuickHeight": 100
+  "wordQuickHeight": 0
 }

@@ -59,24 +59,7 @@ Du erhältst die Merkmale der 1. Stufe für die Klasse Artificer, die in der Tab
 # Klassenmerkmale des Artificer 
 
 ## Unterklassen
-
-```base
-views:
-  - type: cards
-    name: Tabelle
-    filters:
-      and:
-        - file.inFolder("3-Compendium/Klassen/Artificer/Unterklassen")
-        - file.name != "Unterklassen"
-    order:
-      - file.name
-    markers: bullet
-    cardSize: 200
-    image: note.Icon
-    imageAspectRatio: 1
-    indentProperties: true
-
-```
+![[3-Compendium/Klassen/Artificer/Unterklassen/Unterklassen|Unterklassen]]
 
 
 ## Klassenmerkmale 
@@ -109,23 +92,29 @@ Als ein Artificer, erhältst du die folgenden Klassenmerkmale wenn du die spezif
 ###  Spellcasting
 Du hast gelernt, magische Energie durch Gegenstände zu kanalisieren. Die Regeln für das Wirken von Zaubern findest du im *Spielerhandbuch*. Im Folgenden wird erläutert, wie diese Regeln auf die Zauber des Artificers (Erfinders) angewendet werden – diese Zauber sind in der Zauberliste des Artificers aufgeführt, die weiter hinten in der Klassenbeschreibung zu finden ist.
 
-**Erforderliche Werkzeuge:** Du wirkst deine Artificer-Zauber mithilfe von Werkzeugen. Du kannst Diebeswerkzeug, Bastlerwerkzeug oder ein anderes Handwerkswerkzeug, in dessen Umgang du geübt bist, als Zauberfokus verwenden. Du musst einen solchen Fokus in der Hand halten, wenn du einen Artificer-Zauber wirkst (was bedeutet, dass der Zauber eine materielle Komponente – eine M-Komponente – erfordert).
+>[!INFO]+ Erforderliche Werkzeuge
+>Du wirkst deine Artificer-Zauber mithilfe von Werkzeugen. Du kannst Diebeswerkzeug, Bastlerwerkzeug oder ein anderes Handwerkswerkzeug, in dessen Umgang du geübt bist, als Zauberfokus verwenden. Du musst einen solchen Fokus in der Hand halten, wenn du einen Artificer-Zauber wirkst (was bedeutet, dass der Zauber eine materielle Komponente – eine M-Komponente – erfordert).
 
-**Zaubertricks:** Du beherrschst zwei Artificer-Zaubertricks deiner Wahl. Empfohlen werden *Säureplatscher* (Acid Splash) und *Zaubertrick* (Prestidigitation).
+>[!INFO]+ Zaubertricks
+>Du beherrschst zwei Artificer-Zaubertricks deiner Wahl. Empfohlen werden *Säureplatscher* (Acid Splash) und *Zaubertrick* (Prestidigitation).
+>
+>Nach jeder langen Rast kannst du einen deiner durch dieses Merkmal erlernten Zaubertricks durch einen anderen Artificer-Zaubertrick deiner Wahl ersetzen.
+>
+>Wenn du die 10. und 14. Stufe als Artificer erreichst, erlernst du jeweils einen weiteren Artificer-Zaubertrick deiner Wahl, wie in der Spalte „Zaubertricks“ in der Tabelle „Merkmale des Artificers“ angegeben.
 
-Nach jeder langen Rast kannst du einen deiner durch dieses Merkmal erlernten Zaubertricks durch einen anderen Artificer-Zaubertrick deiner Wahl ersetzen.
+>[!INFO]+ Zauberplätze
+>Die Tabelle „Merkmale des Artificers“ zeigt, über wie viele Zauberplätze du verfügst, um Zauber des 1. oder eines höheren Grades zu wirken. Du erhältst alle verbrauchten Zauberplätze zurück, sobald du eine lange Rast abgeschlossen hast.
 
-Wenn du die 10. und 14. Stufe als Artificer erreichst, erlernst du jeweils einen weiteren Artificer-Zaubertrick deiner Wahl, wie in der Spalte „Zaubertricks“ in der Tabelle „Merkmale des Artificers“ angegeben.
+>[!INFO]+ Vorbereitete Zauber (1. Grad oder höher)
+>Du stellst eine Liste von Zaubern (1. Grad oder höher) zusammen, die dir für das Wirken zur Verfügung stehen. Wähle zu Beginn zwei Artificer-Zauber des 1. Grades aus. Empfohlen werden *Wunden heilen* (Cure Wounds) und *Fett* (Grease).
+>
+>Die Anzahl der Zauber auf deiner Liste nimmt mit steigender Artificer-Stufe zu, wie in der Spalte „Vorbereitete Zauber“ der Tabelle „Merkmale des Artificers“ dargestellt. Wenn sich diese Anzahl erhöht, wähle weitere Artificer-Zauber aus, bis die Anzahl der Zauber auf deiner Liste dem in der Tabelle angegebenen Wert entspricht. Die gewählten Zauber müssen einem Grad entsprechen, für den du über Zauberplätze verfügst. Wenn du beispielsweise ein Artificer der 5. Stufe bist, kann deine Liste vorbereiteter Zauber insgesamt sechs Artificer-Zauber des 1. und 2. Grades in beliebiger Kombination enthalten. Falls dir ein anderes Merkmal der Klasse „Artificer“ Zauber verleiht, die du stets vorbereitet hast, so zählen diese nicht zu der Anzahl an Zaubern, die du mithilfe dieses Merkmals vorbereiten kannst; sie gelten für dich jedoch weiterhin als Artificer-Zauber.
 
-**Zauberplätze:** Die Tabelle „Merkmale des Artificers“ zeigt, über wie viele Zauberplätze du verfügst, um Zauber des 1. oder eines höheren Grades zu wirken. Du erhältst alle verbrauchten Zauberplätze zurück, sobald du eine lange Rast abgeschlossen hast.
+>[!INFO]+ Ändern deiner vorbereiteten Zauber
+>Nach einer langen Rast kannst du deine Liste der vorbereiteten Zauber anpassen, indem du einzelne Zauber durch andere Artificer-Zauber ersetzt, für die du über Zauberplätze verfügst.
 
-**Vorbereitete Zauber (1. Grad oder höher):** Du stellst eine Liste von Zaubern (1. Grad oder höher) zusammen, die dir für das Wirken zur Verfügung stehen. Wähle zu Beginn zwei Artificer-Zauber des 1. Grades aus. Empfohlen werden *Wunden heilen* (Cure Wounds) und *Fett* (Grease).
-
-Die Anzahl der Zauber auf deiner Liste nimmt mit steigender Artificer-Stufe zu, wie in der Spalte „Vorbereitete Zauber“ der Tabelle „Merkmale des Artificers“ dargestellt. Wenn sich diese Anzahl erhöht, wähle weitere Artificer-Zauber aus, bis die Anzahl der Zauber auf deiner Liste dem in der Tabelle angegebenen Wert entspricht. Die gewählten Zauber müssen einem Grad entsprechen, für den du über Zauberplätze verfügst. Wenn du beispielsweise ein Artificer der 5. Stufe bist, kann deine Liste vorbereiteter Zauber insgesamt sechs Artificer-Zauber des 1. und 2. Grades in beliebiger Kombination enthalten. Falls dir ein anderes Merkmal der Klasse „Artificer“ Zauber verleiht, die du stets vorbereitet hast, so zählen diese nicht zu der Anzahl an Zaubern, die du mithilfe dieses Merkmals vorbereiten kannst; sie gelten für dich jedoch weiterhin als Artificer-Zauber.
-
-**Ändern deiner vorbereiteten Zauber:** Nach einer langen Rast kannst du deine Liste der vorbereiteten Zauber anpassen, indem du einzelne Zauber durch andere Artificer-Zauber ersetzt, für die du über Zauberplätze verfügst.
-
-**Zauberattribut:** Intelligenz ist dein Zauberattribut für deine Artificer-Zauber.
+>[!INFO]+ Zauberattribut
+>Intelligenz ist dein Zauberattribut für deine Artificer-Zauber.
 
 ### Bastlers Magie
 Du beherrschst den Zaubertrick *Reparieren*.
@@ -173,27 +162,32 @@ Du kannst dieses Merkmal so oft einsetzen, wie dein Intelligenzmodifikator angib
 ### Magischen Gegenstand replizieren
 Du hast arkanes Wissen über Baupläne erworben, mit denen du magische Gegenstände herstellen kannst.
 
-**Bekannte Baupläne:** Wenn du dieses Merkmal erhältst, wähle vier Baupläne aus der Tabelle „Baupläne für magische Gegenstände (Artificer Stufe 2+)“ aus (Beschreibungen der Gegenstände findest du im *Dungeon Master’s Guide*). Empfohlen werden: *Bag of Holding* (Tasche des Haltens), *Cap of Water Breathing* (Kappe des Unterwasseratmens), *Sending Stones* (Nachrichtensteine) und *Wand of the War Mage* (Zauberstab des Kriegsmagiers). Jedes Mal, wenn du eine Stufe als Artificer aufsteigst, kannst du einen deiner bekannten Baupläne durch einen neuen ersetzen, für den du die Voraussetzungen erfüllst.
+>[!INFO]+ Bekannte Baupläne
+>Wenn du dieses Merkmal erhältst, wähle vier Baupläne aus der Tabelle „Baupläne für magische Gegenstände (Artificer Stufe 2+)“ aus (Beschreibungen der Gegenstände findest du im *Dungeon Master’s Guide*). Empfohlen werden: *Bag of Holding* (Tasche des Haltens), *Cap of Water Breathing* (Kappe des Unterwasseratmens), *Sending Stones* (Nachrichtensteine) und *Wand of the War Mage* (Zauberstab des Kriegsmagiers). Jedes Mal, wenn du eine Stufe als Artificer aufsteigst, kannst du einen deiner bekannten Baupläne durch einen neuen ersetzen, für den du die Voraussetzungen erfüllst.
+>
+>Du erlernst weitere Baupläne deiner Wahl, wenn du bestimmte Stufen als Artificer erreichst – siehe hierzu die Spalte „Bekannte Baupläne“ in der Tabelle „Merkmale des Artificers“. Bei der Auswahl eines neuen Bauplans kannst du auf jede Tabelle für magische Gegenstände zurückgreifen, für die du die Voraussetzungen (basierend auf deiner Artificer-Stufe) erfüllst.
 
-Du erlernst weitere Baupläne deiner Wahl, wenn du bestimmte Stufen als Artificer erreichst – siehe hierzu die Spalte „Bekannte Baupläne“ in der Tabelle „Merkmale des Artificers“. Bei der Auswahl eines neuen Bauplans kannst du auf jede Tabelle für magische Gegenstände zurückgreifen, für die du die Voraussetzungen (basierend auf deiner Artificer-Stufe) erfüllst.
+>[!INFO]+ Herstellung eines Gegenstands
+>Nach einer langen Rast kannst du einen oder zwei verschiedene magische Gegenstände herstellen, sofern du dein Bastlerwerkzeug (*Tinker’s Tools*) zur Hand hast. Jeder Gegenstand muss auf einem der Baupläne basieren, die du im Rahmen dieses Merkmals erlernt hast.
+>
+>Falls ein hergestellter Gegenstand eine Einstimmung (*Attunement*) erfordert, kannst du dich sofort bei der Herstellung darauf einstimmen. Entscheidest du dich erst später für eine Einstimmung, musst du den dafür vorgesehenen regulären Prozess durchlaufen.
+>
+>Wenn du bestimmte, in der Spalte „Magische Gegenstände“ der Tabelle „Merkmale des Artificers“ angegebene Stufen als Artificer erreichst, erhöht sich die Anzahl der magischen Gegenstände, die du nach einer langen Rast herstellen kannst. Jeder Gegenstand, den du erschaffst, muss auf einem jeweils anderen, dir bekannten Bauplan basieren.
+>
+>Du kannst durch dieses Merkmal nicht mehr magische Gegenstände gleichzeitig besitzen, als in der Spalte „Magische Gegenstände“ der Tabelle „Merkmale des Artificers“ für deine aktuelle Stufe angegeben ist. Solltest du versuchen, diese Höchstzahl zu überschreiten, verschwindet der älteste Gegenstand, und der neue Gegenstand erscheint an seiner Stelle.
 
-**Herstellung eines Gegenstands:** Nach einer langen Rast kannst du einen oder zwei verschiedene magische Gegenstände herstellen, sofern du dein Bastlerwerkzeug (*Tinker’s Tools*) zur Hand hast. Jeder Gegenstand muss auf einem der Baupläne basieren, die du im Rahmen dieses Merkmals erlernt hast.
+>[!INFO]+ Weitere magische Gegenstände herstellen
+>Das Klassenmerkmal „Magischen Gegenstand replizieren“ ist nicht die einzige Möglichkeit für einen Artificer, magische Gegenstände herzustellen. Das *Dungeon Master’s Guide* enthält Regeln für Charaktere – nicht nur für Artificer –, die magische Gegenstände verschiedenster Art erschaffen möchten. Obwohl viele unterschiedliche Charaktere magische Gegenstände herstellen können, sind Artificer dabei schneller als andere; jede Unterklasse des Artificers verbessert die Geschwindigkeit, mit der der Charakter Gegenstände einer bestimmten Kategorie anfertigt.
+>
+>Wenn ein Artificer einen magischen Gegenstand mithilfe der regulären Regeln aus dem *Dungeon Master’s Guide* herstellt, entsteht dadurch keine besondere Verbindung zwischen dem Charakter und dem Gegenstand. Klassenmerkmale, die sich auf Gegenstände beziehen, welche durch das Merkmal „Magischen Gegenstand replizieren“ erschaffen wurden, gelten nicht für Gegenstände, die auf andere Weise hergestellt wurden.
 
-Falls ein hergestellter Gegenstand eine Einstimmung (*Attunement*) erfordert, kannst du dich sofort bei der Herstellung darauf einstimmen. Entscheidest du dich erst später für eine Einstimmung, musst du den dafür vorgesehenen regulären Prozess durchlaufen.
+>[!INFO]+ Wirkungsdauer
+>Ein magischer Gegenstand, der mithilfe dieses Merkmals erschaffen wurde, funktioniert wie ein gewöhnlicher magischer Gegenstand – mit der Ausnahme, dass seine Magie nicht von Dauer ist: Wenn du stirbst, verschwindet der magische Gegenstand nach 1W4 Tagen. Wenn du einen dir bekannten Bauplan durch einen neuen ersetzt, verschwindet jeder magische Gegenstand, der mithilfe des ersetzten Bauplans erschaffen wurde, augenblicklich.
+>
+>Sollte es sich bei einem mit diesem Merkmal erschaffenen Gegenstand um einen Behälter handeln – etwa eine Tasche des Haltens (Bag of Holding) – und dieser verschwindet, so taucht sein Inhalt gefahrlos an seinem Standort (bzw. in dessen unmittelbarer Umgebung) wieder auf.
 
-Wenn du bestimmte, in der Spalte „Magische Gegenstände“ der Tabelle „Merkmale des Artificers“ angegebene Stufen als Artificer erreichst, erhöht sich die Anzahl der magischen Gegenstände, die du nach einer langen Rast herstellen kannst. Jeder Gegenstand, den du erschaffst, muss auf einem jeweils anderen, dir bekannten Bauplan basieren.
-
-Du kannst durch dieses Merkmal nicht mehr magische Gegenstände gleichzeitig besitzen, als in der Spalte „Magische Gegenstände“ der Tabelle „Merkmale des Artificers“ für deine aktuelle Stufe angegeben ist. Solltest du versuchen, diese Höchstzahl zu überschreiten, verschwindet der älteste Gegenstand, und der neue Gegenstand erscheint an seiner Stelle.
-
-> [!Weitere magische Gegenstände herstellen]-
-Das Klassenmerkmal „Magischen Gegenstand replizieren“ ist nicht die einzige Möglichkeit für einen Artificer, magische Gegenstände herzustellen. Das *Dungeon Master’s Guide* enthält Regeln für Charaktere – nicht nur für Artificer –, die magische Gegenstände verschiedenster Art erschaffen möchten. Obwohl viele unterschiedliche Charaktere magische Gegenstände herstellen können, sind Artificer dabei schneller als andere; jede Unterklasse des Artificers verbessert die Geschwindigkeit, mit der der Charakter Gegenstände einer bestimmten Kategorie anfertigt.
-Wenn ein Artificer einen magischen Gegenstand mithilfe der regulären Regeln aus dem *Dungeon Master’s Guide* herstellt, entsteht dadurch keine besondere Verbindung zwischen dem Charakter und dem Gegenstand. Klassenmerkmale, die sich auf Gegenstände beziehen, welche durch das Merkmal „Magischen Gegenstand replizieren“ erschaffen wurden, gelten nicht für Gegenstände, die auf andere Weise hergestellt wurden.
-
-**Wirkungsdauer:** Ein magischer Gegenstand, der mithilfe dieses Merkmals erschaffen wurde, funktioniert wie ein gewöhnlicher magischer Gegenstand – mit der Ausnahme, dass seine Magie nicht von Dauer ist: Wenn du stirbst, verschwindet der magische Gegenstand nach 1W4 Tagen. Wenn du einen dir bekannten Bauplan durch einen neuen ersetzt, verschwindet jeder magische Gegenstand, der mithilfe des ersetzten Bauplans erschaffen wurde, augenblicklich.
-
-Sollte es sich bei einem mit diesem Merkmal erschaffenen Gegenstand um einen Behälter handeln – etwa eine Tasche des Haltens (Bag of Holding) – und dieser verschwindet, so taucht sein Inhalt gefahrlos an seinem Standort (bzw. in dessen unmittelbarer Umgebung) wieder auf.
-
-**Zauberfokus:** Du kannst jeden Zauberstab oder jede Waffe, die mithilfe dieses Merkmals erschaffen wurde, als Zauberfokus verwenden – anstelle eines Handwerkszeugs.
+>[!INFO]+ Zauberfokus
+>Du kannst jeden Zauberstab oder jede Waffe, die mithilfe dieses Merkmals erschaffen wurde, als Zauberfokus verwenden – anstelle eines Handwerkszeugs.
 
 ## Stufe 3
 ### Artificer-Unterklasse 

@@ -50,23 +50,7 @@ Du beginnst mit der folgenden Ausrüstung, zusätzlich zu den Ausrüstungen, die
 # Klassenmerkmale des Hexenmeisters 
 ## Unterklassen
 
-```base
-views:
-  - type: cards
-    name: Tabelle
-    filters:
-      and:
-        - file.inFolder("3-Compendium/Klassen/Hexenmeister/Unterklassen")
-        - file.name != "Unterklassen"
-    order:
-      - file.name
-    markers: bullet
-    cardSize: 200
-    image: note.Icon
-    imageAspectRatio: 1
-    indentProperties: true
-
-```
+![[3-Compendium/Klassen/Hexenmeister/Unterklassen/Unterklassen|Unterklassen]]
 
 
 ## Klassenmerkmale 
@@ -526,12 +510,12 @@ In diesem Abschnitt wird die Zauberliste des Hexenmeisters vorgestellt. Die Zaub
 
 ## Hexenmeisterzauber des 9. Grades 
 
-|Zauber|Schule|Beson-derheit|
-|---|---|---|
-|_Astrale Projektion_|Nekromantie|M|
-|_Einkerkerung_|Bannmagie|M|
-|_Tor_|Beschwörungsmagie|K, M|
-|_Unheimliches Schicksal_|Illusionsmagie|K|
-|_Voraussicht_|Erkenntnismagie|−|
-|_Wahre Verwandlung_|Verwandlungsmagie|K|
-|_Wort der Macht: Tod_|Verzauberungsmagie|−|
+| Zauber                   | Schule             | Beson-derheit |
+| ------------------------ | ------------------ | ------------- |
+| _Astrale Projektion_     | Nekromantie        | M             |
+| _Einkerkerung_           | Bannmagie          | M             |
+| _Tor_                    | Beschwörungsmagie  | K, M          |
+| _Unheimliches Schicksal_ | Illusionsmagie     | K             |
+| _Voraussicht_            | Erkenntnismagie    | −             |
+| _Wahre Verwandlung_      | Verwandlungsmagie  | K             |
+| _Wort der Macht: Tod_    | Verzauberungsmagie | −             |

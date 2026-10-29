@@ -1,5 +1,6 @@
 ---
-navigation_level: 2
+tags:
+  - Category/Journal
 ---
 
 ```base
@@ -9,7 +10,7 @@ views:
     filters:
       and:
         - file.inFolder("1-Sessions/Helden der Grenzlande")
-        - file.name != "Helden der Grenzlande"
+        - file.hasTag("Category/Sessions")
     markers: bullet
     indentProperties: true
 

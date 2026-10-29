@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "eaaf914b8309c1fb",
+        "id": "81a6fc47adfb847a",
         "type": "tabs",
         "children": [
           {
-            "id": "d947c683d2c252da",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Notizen/Kampagnen Ideensammlung/_Kampagnen Start.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "_Kampagnen Start"
-            }
-          },
-          {
-            "id": "36a8c63717403097",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3-Compendium/DE_SRD_CC_v5.2.1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DE_SRD_CC_v5.2.1"
-            }
-          },
-          {
-            "id": "6ee7d0a1089b0be7",
+            "id": "df3cd80d45d58e94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Party/Placeholder/Elora.md",
+                "file": "2-Kampagne/NPC/Ilvara 'Ilvy' Wavencrest.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elora"
-            }
-          },
-          {
-            "id": "b13e12a039bd8858",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Party/Placeholder/Rika 'Blutaxt' Kornhammer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rika 'Blutaxt' Kornhammer"
+              "title": "Ilvara 'Ilvy' Wavencrest"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Wuda",
+                "query": "tag:Category/Sessions",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +124,6 @@
       {
         "id": "09384058bb1c4e72",
         "type": "tabs",
-        "dimension": 78.0701754385965,
         "children": [
           {
             "id": "01866bcbc2fd8a19",
@@ -175,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0-DM Toolkit/Map Calculator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +141,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Rückverweise"
             }
           },
           {
@@ -193,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/0-DM Toolkit/Home Embeds.md",
+                "file": "0-DM Toolkit/Map Calculator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -222,87 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/0-DM Toolkit/Home Embeds.md",
+                "file": "0-DM Toolkit/Map Calculator.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Gliederung"
-            }
-          },
-          {
-            "id": "bb21e6fb9beae31a",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "c8c0bd3a84d4d5f1",
-            "type": "leaf",
-            "state": {
-              "type": "MAIN_VIEW",
-              "state": {},
-              "icon": "srt-ribbon",
-              "title": "Solo RPG Toolkit"
-            }
-          },
-          {
-            "id": "9f06b744419e5dab",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "78f62065b0218d76",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "3939dbe56020682d",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Alle Eigenschaften"
-            }
-          },
-          {
-            "id": "40a04a2cb55e71a4",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "e2bf4a1ee251e07f",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
             }
           },
           {
@@ -316,23 +199,13 @@
             }
           },
           {
-            "id": "2fb626726f74d769",
+            "id": "c8c0bd3a84d4d5f1",
             "type": "leaf",
             "state": {
-              "type": "initiative-tracker-view",
+              "type": "MAIN_VIEW",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "9a25672ac6fb08a8",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "srt-ribbon",
+              "title": "Solo RPG Toolkit"
             }
           },
           {
@@ -344,33 +217,60 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          }
-        ],
-        "currentTab": 14
-      },
-      {
-        "id": "97a25bef9fbe91cd",
-        "type": "tabs",
-        "dimension": 21.929824561403507,
-        "children": [
+          },
+          {
+            "id": "2fb626726f74d769",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
           {
             "id": "72681dd9efab2996",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": null,
-                "creatureName": null
+                "creatureId": "ID_bb2b4b6bd819",
+                "creatureName": "Rika 'Blutaxt' Kornhammer"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
             }
+          },
+          {
+            "id": "388ecce5f26a4732",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e66c304b88c46b51",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 446.5,
+    "width": 529.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -397,54 +297,54 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "36a8c63717403097",
+  "active": "df3cd80d45d58e94",
   "lastOpenFiles": [
-    "3-Compendium/Talente.md",
-    "1-Party/Placeholder/Velaris Elarion.md",
-    "1-Party/Placeholder/Elora.md",
-    "1-Party/Placeholder/Rika 'Blutaxt' Kornhammer.md",
-    "1-Party/Placeholder/Placeholder.md",
-    "1-Party/Helden der Grenzlande/Helden der Grenzlande.md",
-    "z_Assets/PC/Velaris Elarion.png",
-    "1-Party/Helden der Grenzlande/Lin-Ming.md",
-    "1-Party/Helden der Grenzlande/Cirilla.md",
-    "1-Party/Helden der Grenzlande/Vooda.md",
-    "z_Assets/PC/Elora.png",
-    "0-Notizen/Kampagnen Ideensammlung/Schiffsfahrt.md",
-    "0-Notizen/Kampagnen Ideensammlung/_Kampagnen Start.md",
-    "z_Assets/PC/Rika Kornhammer.jpg",
+    "2-Kampagne/NPC/Ilvara 'Ilvy' Wavencrest.md",
+    "2-Kampagne/NPC/Untitled Kanban.md",
+    "2-Kampagne/NPC/Haldryck.md",
+    "z_Assets/NPC/ilvara_summary.png",
+    "z_Assets/NPC/~syncthing~ilvara_summary.png.tmp",
+    "0-DM Toolkit/Map Calculator.md",
+    "0-DM Toolkit/Kurze & Lange Rast.md",
+    "0-DM Toolkit/DnD5e-DM Screen.md",
+    "0-DM Toolkit/DnD 5e-DM Sidescreen.md",
+    "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
+    "0-Obsidian TTRPG Tutorial/Template Design.md",
+    "0-Obsidian TTRPG Tutorial/Template Explained.md",
+    "z_Testing/Home Embeds.md",
+    "1-Sessions/Die Götter von Morgen/2026.10.16 - Session 0.md",
+    "0-Notizen/Add Random Notes Here.md",
+    "0-Notizen/Kampagnen Ideensammlung/Story.md",
+    "0-Notizen/Random Dungeon.md",
+    "0-Notizen/Random Dungeon 1.md",
+    "0-Notizen/Kampagnen Ideensammlung/Session 3.md",
+    "0-DM Toolkit/Boss Battles/Boss Battles.md",
+    "0-DM Toolkit/Name Generation/Elf.md",
+    "0-DM Toolkit/Name Generation/Tiefling.md",
+    "0-DM Toolkit/Random Events/Reisen/Reisen.md",
+    "0-DM Toolkit/Random Events/Reisen/Rote Ereignisse (Kampf)/Health and Safety Guidlines.md",
+    "0-DM Toolkit/Travel Calculator.md",
+    "z_Assets/Decks/Business Card Dungeon/Dungeon2.png",
+    "z_Assets/Decks/Business Card Dungeon/Dungeon12.png",
+    "z_Assets/Decks/Tarot/21-TheWorld.png",
+    "z_Assets/Decks/Tarot/20-Judgement.png",
+    "z_Assets/Decks/Tarot/19-TheSun.png",
+    "z_Assets/Decks/Tarot/18-TheMoon.png",
+    "z_Assets/Decks/Tarot/17-TheStar.png",
+    "z_Assets/Decks/Tarot/16-TheTower.png",
+    "z_Assets/Decks/Tarot/15-TheDevil.png",
+    "z_Assets/Decks/Tarot",
+    "z_Assets/Decks/Standard",
+    "0-Notizen/Kampagnen Ideensammlung/Quests/Aura des Waldes.md",
+    "0-Notizen/Kampagnen Ideensammlung/Cazador.md",
     "0-Notizen/Kampagnen Ideensammlung/Individuelle Charakter Kapitel.md",
-    "0-Notizen/Kampagnen Ideensammlung/Glückshaus.md",
-    "z_Assets/PC/~syncthing~IMG-20261017-WA0005.jpg.tmp",
-    "1-Party/Placeholder/~syncthing~Rita 'Blutaxt' Kornhammer.md.tmp",
-    "z_Assets/Pasted Image 20261017152931_949.png",
-    "z_Assets/Pasted Image 20261017152633_632.png",
-    "z_Assets/Pasted Image 20261017151442_198.png",
-    "z_Assets/Pasted Image 20261017151413_119.png",
-    "1-Party/1-Party.md",
-    "3-Compendium/character-sheetV2.pdf",
-    "1-Party/Placeholder/charakterbogen_v2.8.2.pdf",
-    "3-Compendium/character-sheet.pdf",
-    "1-Sessions/1-Sessions.md",
-    "1-Sessions/Helden der Grenzlande/Helden der Grenzlande.md",
-    "3-Compendium/Klassen/Paladin/Unterklassen/Schwurbrecher.md",
-    "3-Compendium/Klassen/Paladin/Unterklassen/Schwur der Urahnen.md",
-    "1-Party/Placeholder/~syncthing~Elora.md.tmp",
-    "1-Party/Placeholder/~syncthing~Placeholder.md.tmp",
-    "1-Party/Helden der Grenzlande/~syncthing~Vooda.md.tmp",
-    "1-Party/Helden der Grenzlande/~syncthing~Cirilla.md.tmp",
-    "1-Party/Helden der Grenzlande/~syncthing~Helden der Grenzlande.md.tmp",
-    "3-Compendium/Klassen/Paladin/Unterklassen/Schwur des Ruhms.md",
-    "3-Compendium/Klassen/Paladin/Unterklassen/Schwur der Hingabe.md",
-    "3-Compendium/Klassen/Paladin/Unterklassen/Schwur der Krone.md",
-    "3-Compendium/Klassen/Paladin/Paladin.md",
-    "3-Compendium/Klassen/Mönch/Unterklassen/Weg des Schattens.md",
-    "3-Compendium/Klassen/Mönch/Unterklassen/Weg des betrunkenen Meisters.md",
-    "3-Compendium/Klassen/Mönch/Unterklassen/Weg der offenen Hand.md",
-    "3-Compendium/Klassen/Mönch/Unterklassen/Weg der vier Elemente.md",
-    "z_Assets/classes/Bard/College_Of_Glamour.png",
-    "z_Assets/classes/Bard/College_Of_Valour.png",
-    "z_Assets/classes/Bard/College_Of_Swords.png",
+    "0-Notizen/Kampagnen Ideensammlung/Unbenannt",
+    "3-Compendium/DE_SRD_CC_v5.2.1.pdf",
+    "0-Notizen/Kampagnen Ideensammlung/~syncthing~Cazador.md.tmp",
+    "3-Compendium/Charakter Herkunft/~syncthing~Spezies.md.tmp",
+    "2-Welt/Oerth",
+    "2-Welt/Oerth/Oerik",
+    "2-Welt/Oerth/Oerik/Flanaess",
     "3-Compendium/Klassen/Canvas.canvas",
     "0-Notizen/Ablauf  Quelle im Koniferenhain.canvas",
     "3-Compendium/3-Compendium.canvas",

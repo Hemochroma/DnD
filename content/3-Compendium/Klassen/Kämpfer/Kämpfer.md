@@ -56,24 +56,8 @@ Du beginnst mit der folgenden Ausrüstung, zusätzlich zu den Ausrüstungen, die
 
 # Klassenmerkmale des Kämpfers 
 ## Unterklassen
+![[3-Compendium/Klassen/Kämpfer/Unterklassen/Unterklassen|Unterklassen]]
 
-```base
-views:
-  - type: cards
-    name: Tabelle
-    filters:
-      and:
-        - file.inFolder("3-Compendium/Klassen/Kämpfer/Unterklassen")
-        - file.name != "Unterklassen"
-    order:
-      - file.name
-    markers: bullet
-    cardSize: 200
-    image: note.Icon
-    imageAspectRatio: 1
-    indentProperties: true
-
-```
 
 
 ## Klassenmerkmale 

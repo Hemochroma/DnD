@@ -1,5 +1,7 @@
 ---
 navigation_level: 2
+tags:
+  - Category/Group
 ---
 
 ```base
@@ -20,13 +22,13 @@ views:
     filters:
       and:
         - file.folder == "1-Party/Helden der Grenzlande"
-        - file.name != "Helden der Grenzlande"
+        - file.hasTag("Category/Player")
     order:
       - file.name
     sort:
       - property: level
         direction: ASC
-    image: note.Icon
+    image: note.image
     cardSize: 150
     imageFit: contain
     imageAspectRatio: 1.5

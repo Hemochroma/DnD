@@ -1,5 +1,11 @@
 ---
-Icon: "[[Lin-Ming.png]]"
+Level: 4
+Klasse: Kämpfer
+Unterklasse: Champion
+Spezies: Mensch
+image: "[[Lin-Ming.png]]"
+tags:
+  - Category/Player
 ---
 
 > [!infobox]

@@ -20,11 +20,11 @@ tags:
 > ###### Quest Details
 > Type |  Stat |
 > ---|---|
-> Date Obtained |[[2026.10.04]]|
+> Date Obtained |[[2026.10.04 - Session 6]]|
 > Status |Gestartet|
 > Quest Giver |[[Kaplan]]|
 > Quest Location |Quelle im [[Koniferenhain]]|
-> Session Obtained | [[2026.10.04]]|
+> Session Obtained | [[2026.10.04 - Session 6]]|
 > Available Loot |Erfahrungspunkte|
 > Acquired Loot ||
 

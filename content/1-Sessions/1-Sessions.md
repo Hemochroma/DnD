@@ -4,13 +4,12 @@ navigation_level: 1
 
 ```base
 views:
-  - type: list
+  - type: cards
     name: Tabelle
     filters:
       and:
         - file.inFolder("1-Sessions")
-        - file.name != "1-Sessions"
-        - navigation_level == 2
+        - file.hasTag("Category/Journal")
     markers: bullet
     indentProperties: true
 
