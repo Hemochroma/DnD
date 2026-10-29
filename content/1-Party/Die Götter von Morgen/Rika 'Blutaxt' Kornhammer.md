@@ -26,6 +26,7 @@ tags:
 > |Klasse |Barbar|
 > |Rolle|Schaden|
 
+
 ## Profil
 ### Story
 _Rika wurde als Rika Kornhammer geboren, die Tochter einer Zwergenfamilie, die ihr Leben der Landwirtschaft verschrieben hatte. Die Kornhammers waren keine Krieger, keine Schmiede und keine Helden. Sie waren Bauern. Von Sonnenaufgang bis Sonnenuntergang schufteten sie auf ihren Feldern, während die angesehenen Zwergenklans auf sie herabblickten._
