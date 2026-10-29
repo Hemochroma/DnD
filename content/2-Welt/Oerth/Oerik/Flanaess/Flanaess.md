@@ -1,3 +1,21 @@
+---
+tags:
+  - Category/Planet
+image: "[[Placeholder-Planet.png]]"
+---
+```base
+views:
+  - type: cards
+    name: Tabelle
+    filters:
+      and:
+        - file.hasTag("Category/Continent")
+        - file.inFolder("2-Welt")
+    image: note.image
+
+```
+
+
 ```leaflet  
 id: MapCalcFlanaess ### Must be unique with no spaces  
 image: [[Flanaess.webp]] ### Link to the map image file. Do not add a ! in front of the image  

@@ -1,5 +1,6 @@
 ---
 navigation_level: 1
+image: "[[Template_StarSystem_Placeholder.png]]"
 ---
 ```base
 views:
@@ -7,7 +8,8 @@ views:
     name: Tabelle
     filters:
       and:
-        - navigation_level == 2
+        - file.hasTag("Category/StarSystem")
         - file.inFolder("2-Welt")
+    image: note.image
 
 ```

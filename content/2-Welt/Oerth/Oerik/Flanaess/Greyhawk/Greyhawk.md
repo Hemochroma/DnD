@@ -6,16 +6,20 @@ scale_pixels_range: 2468
 mapCalc1: 1.7162726008344922
 tags:
   - Category/Continent
+image: "[[Template_Continent_Placeholder.png]]"
 ---
+```base
+views:
+  - type: cards
+    name: Tabelle
+    filters:
+      and:
+        - file.hasTag("Category/Region")
+        - file.inFolder("2-Welt")
+    image: note.image
 
-> [!NOTE]- Quick Calculator  
-> Map Height in Pixels: `INPUT[number:map_height_y]`  
-> Map Width in Pixels: `INPUT[number:map_width_x]`  
-> lat: `VIEW[{map_height_y} / 2][math]`  
-> long: `VIEW[{map_width_x} / 2][math]`  
-> How Many Pixels In Scale: `INPUT[number:scale_pixels]`  
-> How Many Units in Scale: `INPUT[number:scale_pixels_range]`  
-> Scale: `VIEW[1/({scale_pixels}/{scale_pixels_range})][math:mapCalc1]`
+```
+
 
 ```leaflet  
 id: MapCalcGreyhawk ### Must be unique with no spaces  

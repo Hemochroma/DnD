@@ -5,6 +5,7 @@ views:
     filters:
       and:
         - navigation_level == 1
+    image: note.image
 
 ```
 

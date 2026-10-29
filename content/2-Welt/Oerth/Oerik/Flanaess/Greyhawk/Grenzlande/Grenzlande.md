@@ -6,16 +6,8 @@ scale_pixels_range: 2468
 mapCalc1: 1.4517647058823528
 tags:
   - Category/Region
+image:
 ---
-
-> [!NOTE]- Quick Calculator  
-> Map Height in Pixels: `INPUT[number:map_height_y]`  
-> Map Width in Pixels: `INPUT[number:map_width_x]`  
-> lat: `VIEW[{map_height_y} / 2][math]`  
-> long: `VIEW[{map_width_x} / 2][math]`  
-> How Many Pixels In Scale: `INPUT[number:scale_pixels]`  
-> How Many Units in Scale: `INPUT[number:scale_pixels_range]`  
-> Scale: `VIEW[1/({scale_pixels}/{scale_pixels_range})][math:mapCalc1]`
 
 ```leaflet  
 id: MapCalcGrenzlande ### Must be unique with no spaces  

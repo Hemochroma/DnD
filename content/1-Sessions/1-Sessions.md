@@ -1,5 +1,6 @@
 ---
 navigation_level: 1
+image: "[[AdventureIcon.png]]"
 ---
 
 ```base
