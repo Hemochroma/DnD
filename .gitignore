@@ -23,3 +23,4 @@ ZoomMap
 .dnd-ui-toolkit-state.json
 Map_District_Placeholder.markers.json
 backup_and_push.py
+.venv/
