@@ -1,0 +1,10 @@
+---
+srd: "glosario/high-jump"
+tags:
+  - "srd/glossar"
+kapitel: "Regelglossar"
+---
+
+Bei einem Hochsprung springst du eine Anzahl von Metern empor. Sie entspricht einem Drittel der Summe aus deinem Stärkemodifikator + 3 (mindestens 0 Meter), sofern du unmittelbar vor dem Sprung mindestens drei Meter zurückgelegt hast. Bei einem Hochsprung aus dem Stand kannst du nur halb so hoch springen. In beiden Fällen kostet dich jeder gesprungene Meter einen Meter deiner Bewegungsrate.
+
+Du kannst deine Arme während eines Sprungs um die Hälfte deiner Größe nach oben strecken. So kannst du mit den Händen eine Höhe erreichen, die deiner Sprunghöhe plus deiner 1,5-fachen Körpergröße entspricht.

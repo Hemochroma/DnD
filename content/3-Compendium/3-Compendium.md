@@ -7,8 +7,8 @@ views:
     name: Kategorie
     filters:
       and:
-        - navigation_level == 2
         - file.inFolder("3-Compendium")
+        - file.hasTag("srd/index")
     order:
       - file.name
 

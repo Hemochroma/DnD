@@ -1,0 +1,26 @@
+---
+srd: "glosario/damage-types"
+tags:
+  - "srd/glossar"
+kapitel: "Regelglossar"
+---
+
+Angriffe und andere schädliche Effekte bewirken unterschiedliche Schadensarten. Die Schadensarten weisen zwar keine eigenen Regeln auf, doch es gibt andere Regeln wie die für Resistenzen, die auf Schadensarten basieren. Die Tabelle „Schadensarten“ bietet Beispiele, um dem SL zu helfen, neuen Effekten passende Schadensarten zuzuweisen.
+
+**Schadensarten**
+
+| Typ | Beispiele |
+| --- | --- |
+| Blitz | Elektrizität |
+| Energie | Reine magische Energie |
+| Feuer | Flammen, unerträgliche Hitze |
+| Gift | Gifte, toxische Gase |
+| Gleißend | Heilige Energie, sengende Strahlung |
+| Hieb | Klauen, schneidende Gegenstände |
+| Kälte | Eisexplosionen, gefrierendes Wasser |
+| Nekrotisch | Lebenszehrende Energie |
+| Psychisch | Bewusstseinsschädigende Energie |
+| Säure | Ätzende Flüssigkeiten, Verdauungssäfte |
+| Schall | Erschütternde Geräusche |
+| Stich | Reißzähne, Stichwaffen |
+| Wucht | Stumpfe Gegenstände, Stürze, Umschlingung |

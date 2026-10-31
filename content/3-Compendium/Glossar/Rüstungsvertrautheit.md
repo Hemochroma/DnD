@@ -1,0 +1,8 @@
+---
+srd: "glosario/armor-training"
+tags:
+  - "srd/glossar"
+kapitel: "Regelglossar"
+---
+
+Rüstungsvertrautheit erlaubt dir, Rüstung einer bestimmten Kategorie zu tragen, ohne die folgenden Nachteile zu erleiden: Wenn du leichte, mittelschwere oder schwere Rüstung trägst, mit der du nicht vertraut bist, so bist du bei jeder W20-Prüfung im Nachteil, die Stärke oder Geschicklichkeit einbezieht, und du kannst keine Zauber wirken. Wenn du einen Schild führst, mit dem du nicht vertraut bist, kannst du seinen Rüstungsklassenbonus nicht nutzen. *Siehe auch* „Nachteil“ und „Ausrüstung“ („Rüstung“).

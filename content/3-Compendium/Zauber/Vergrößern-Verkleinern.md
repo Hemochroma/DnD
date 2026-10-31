@@ -1,0 +1,35 @@
+---
+srd: conjuro/enlarge-reduce
+aliases:
+  - Vergrößern/Verkleinern
+tags:
+  - srd/zauber
+grad: 2
+schule: Verwandlungsmagie
+klassen:
+  - "[[Barde|Barde]]"
+  - "[[3-Compendium/Charaktere/Klassen/Druide/Druide|Druide]]"
+  - "[[Zauberer|Zauberer]]"
+  - "[[3-Compendium/Charaktere/Klassen/Magier/Magier|Magier]]"
+ritual: false
+konzentration: true
+---
+
+> [!srd-conjuro] Vergrößern/Verkleinern
+> *Verwandlungszauber 2. Grades (Barde, Druide, Magier, Zauberer)*
+>
+> **Zeitaufwand:** Aktion
+>
+> **Reichweite:** 9 Meter
+>
+> **Komponenten:** V, G, M (eine Prise Eisenpulver)
+>
+> **Wirkungsdauer:** Konzentration, bis zu 1 Minute
+
+Für die Wirkungsdauer vergrößert oder verkleinert der Zauber ein Ziel (Kreatur oder Gegenstand) in Reichweite, das du sehen kannst (ausgewählter Effekt siehe unten). Ein Gegenstand als Ziel darf nicht getragen oder gehalten werden. Wenn das Ziel eine nicht bereitwillige Kreatur ist, kann es einen Konstitutionsrettungswurf ausführen. Bei einem erfolgreichen Rettungswurf hat der Zauber keine Wirkung.
+
+Alles, was eine Zielkreatur trägt oder hält, verändert mit ihr die Größe. Lässt sie einen Gegenstand fallen, so nimmt dieser sofort seine normale Größe an. Wurfwaffen und Geschosse nehmen ihre normale Größe an, sobald sie ein Ziel getroffen oder verfehlt haben.
+
+**Vergrößern:** Die Größe des Ziels steigt um eine Kategorie, beispielsweise von Mittelgroß auf Groß. Das Ziel ist außerdem bei Stärkewürfen und Stärkerettungswürfen im Vorteil. Die Angriffe des Ziels mit seinen vergrößerten Waffen sowie seine waffenlosen Angriffe bewirken bei einem Treffer zusätzlich 1W4 Schaden.
+
+**Verkleinern:** Die Größe des Ziels sinkt um eine Kategorie, beispielsweise von Mittelgroß auf Klein. Das Ziel ist außerdem bei Stärkewürfen und Stärkerettungswürfen im Nachteil. Die Angriffe des Ziels mit seinen verkleinerten Waffen sowie seine waffenlosen Angriffe bewirken bei einem Treffer 1W4 Schaden weniger (der Schaden kann jedoch nicht unter 1 verringert werden).

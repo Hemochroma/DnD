@@ -1,0 +1,34 @@
+---
+srd: conjuro/control-water
+tags:
+  - srd/zauber
+grad: 4
+schule: Verwandlungsmagie
+klassen:
+  - "[[Kleriker|Kleriker]]"
+  - "[[3-Compendium/Charaktere/Klassen/Druide/Druide|Druide]]"
+  - "[[3-Compendium/Charaktere/Klassen/Magier/Magier|Magier]]"
+ritual: false
+konzentration: true
+---
+
+> [!srd-conjuro] Wasser kontrollieren
+> *Verwandlungszauber 4. Grades (Druide, Kleriker, Magier)*
+>
+> **Zeitaufwand:** Aktion
+>
+> **Reichweite:** 90 Meter
+>
+> **Komponenten:** V, G, M (eine Mischung aus Wasser und Staub)
+>
+> **Wirkungsdauer:** Konzentration, bis zu 10 Minuten
+
+Für die Wirkungsdauer kontrollierst du jedes Gewässer in einem Bereich deiner Wahl, der einem Würfel mit bis zu 30 Metern Kantenlänge entspricht, und nutzt dabei einen der folgenden Effekte. Als magische Aktion in deinen folgenden Zügen kannst du den gleichen Effekt wiederholen oder einen anderen auswählen.
+
+**Fluss umlenken:** Du bewirkst, dass sich fließendes Wasser im Bereich in eine Richtung deiner Wahl bewegt, selbst wenn es dafür über Hindernisse, an Wänden empor oder in andere unwahrscheinliche Richtungen strömen muss. Das Wasser im Bereich bewegt sich nach deinen Vorgaben. Sobald es jedoch den Bereich des Zaubers verlässt, fließt es wieder je nach Gelände. Das Wasser strömt in die Richtung deiner Wahl, bis der Zauber endet oder du einen anderen Effekt auswählst.
+
+**Flut:** Du lässt den Wasserspiegel aller stehenden Gewässer im Bereich um bis zu sechs Meter ansteigen. Wenn du einen Bereich in einem größeren Gewässer auswählst, erschaffst du stattdessen eine sechs Meter hohe Welle, die sich von einer Seite des Bereichs zum anderen bewegt und dann bricht. Alle Fahrzeuge von höchstens riesiger Größe im Weg der Welle werden mit ihr zur anderen Seite bewegt. Wenn ein solches Fahrzeug von der Welle getroffen wird, besteht eine Chance von 25 Prozent, dass es kentert. Der Wasserspiegel bleibt erhöht, bis der Zauber endet oder du einen anderen Effekt auswählst. Wenn dieser Effekt eine Welle erzeugt, wiederholt sich diese zu Beginn deines nächsten Zugs, solange der Flut-Effekt anhält.
+
+**Wasser teilen:** Du teilst das Wasser im Bereich und erschaffst einen Graben, der sich durch den Wirkungsbereich zieht. Das Wasser ragt auf beiden Seiten wie eine Mauer auf. Der Graben bleibt bestehen, bis der Zauber endet oder du einen anderen Effekt auswählst. Anschließend füllt das Wasser im Verlauf der nächsten Runde langsam den Graben, bis der normale Wasserspiegel wiederhergestellt ist.
+
+**Wasserstrudel:** Du erschaffst einen Wasserstrudel in der Mitte eines Bereichs von mindestens 15 mal 15 Metern und einer Tiefe von 7,5 Metern. Der Strudel bleibt bestehen, bis du einen anderen Effekt auswählst oder der Zauber endet. Er ist 7,5 Meter hoch, an der Basis 1,5 Meter breit und an der Spitze bis zu 15 Meter breit. Alle Kreaturen, die sich im Wasser im Abstand von bis zu 7,5 Metern um den Strudel befinden, werden drei Meter weit in seine Richtung gezogen. Wenn eine Kreatur in einem Zug erstmals in den Bereich des Strudels gelangt oder ihren Zug dort beendet, führt sie einen Stärkerettungswurf aus. Misslingt der Wurf, so erleidet die Kreatur 2W8 Wuchtschaden. Bei einem erfolgreichen Rettungswurf erleidet die Kreatur halb so viel Schaden. Eine Kreatur kann nur dann vom Strudel wegschwimmen, wenn sie zunächst eine Aktion ausführt, um sich zu entfernen, und einen Stärkewurf (Athletik) gegen deinen Zauberrettungswurf-SG besteht.

@@ -1,0 +1,30 @@
+---
+srd: conjuro/simulacrum
+tags:
+  - srd/zauber
+grad: 7
+schule: Illusionsmagie
+klassen:
+  - "[[3-Compendium/Charaktere/Klassen/Magier/Magier|Magier]]"
+ritual: false
+konzentration: false
+---
+
+> [!srd-conjuro] Simulakrum
+> *Illusionszauber 7. Grades (Magier)*
+>
+> **Zeitaufwand:** 12 Stunden
+>
+> **Reichweite:** Berührung
+>
+> **Komponenten:** V, G, M (Rubinpulver im Wert von mindestens 1.500 GM, das der Zauber verbraucht)
+>
+> **Wirkungsdauer:** Bis der Zauber gebannt wird
+
+Du erschaffst das Abbild eines Tieres oder eines Humanoiden. Das Original muss sich während des gesamten Zeitaufwands im Abstand von bis zu drei Metern von dir befinden. Du schließt das Zauberwirken ab, indem du sowohl die Kreatur als auch einen Haufen Eis oder Schnee von gleicher Größe berührst. Der Haufen verwandelt sich in das Simulakrum, welches eine Kreatur ist. Es verwendet die Spielwerte der ursprünglichen Kreatur zum Zeitpunkt des Zauberwirkens, ist allerdings ein Konstrukt, sein Trefferpunktemaximum beträgt die Hälfte, und es kann diesen Zauber nicht wirken.
+
+Das Simulakrum ist dir und allen von dir bestimmten Kreaturen freundlich gesinnt. Es gehorcht deinen Befehlen und agiert im Kampf in deinem Zug. Ihm sind weder Stufenaufstiege noch kurze oder lange Rasten möglich.
+
+Wenn das Simulakrum Schaden erleidet, besteht die einzige Möglichkeit, seine Trefferpunkte wiederherzustellen, in einer Reparatur während deiner langen Rast, wobei du Komponenten im Wert von 100 GM pro wiederhergestelltem Trefferpunkt verbrauchen musst. Bei der Reparatur muss es im Abstand von bis zu 1,5 Metern von dir bleiben.
+
+Das Simulakrum bleibt bestehen, bis seine Trefferpunkte auf 0 sinken. Dann wird es wieder zu Schnee oder Eis und schmilzt. Wirkst du diesen Zauber erneut, so wird das vorige Simulakrum sofort zerstört.

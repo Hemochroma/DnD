@@ -1,0 +1,10 @@
+---
+srd: "glosario/illusions"
+tags:
+  - "srd/glossar"
+kapitel: "Regelglossar"
+---
+
+Manche Zauber und anderen Effekte erzeugen magische Illusionen. Ein solcher Effekt definiert, was die Illusion tut und welche Sinne oder mentalen Bereiche sie täuscht.
+
+Wenn eine Illusion sich im Raum manifestiert, ist sie körperlos und hat kein Gewicht, doch sie wirkt von der Umgebung betroffen, als wäre sie real, sofern der hervorrufende Effekt nichts anderes angibt. Beispiel: Die visuelle Illusion einer Kreatur wirft Schatten und verursacht Reflexionen, und Wind scheint sie zu beeinflussen. Entsprechend erzeugt eine akustische Illusion bei passenden räumlichen Gegebenheiten Echos.

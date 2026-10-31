@@ -1,0 +1,33 @@
+---
+srd: conjuro/gate
+tags:
+  - srd/zauber
+grad: 9
+schule: Beschwörungsmagie
+klassen:
+  - "[[Kleriker|Kleriker]]"
+  - "[[Zauberer|Zauberer]]"
+  - "[[Hexenmeister|Hexenmeister]]"
+  - "[[3-Compendium/Charaktere/Klassen/Magier/Magier|Magier]]"
+ritual: false
+konzentration: true
+---
+
+> [!srd-conjuro] Tor
+> *Beschwörungszauber 9. Grades (Hexenmeister, Kleriker, Magier, Zauberer)*
+>
+> **Zeitaufwand:** Aktion
+>
+> **Reichweite:** 18 Meter
+>
+> **Komponenten:** V, G, M (ein Diamant im Wert von mindestens 5.000 GM)
+>
+> **Wirkungsdauer:** Konzentration, bis zu 1 Minute
+
+Du beschwörst ein Portal, das einen freien Bereich in Reichweite, den du sehen kannst, mit einem bestimmten Ort auf einer anderen Existenzebene verbindet. Bei dem Portal handelt es sich um eine kreisrunde Öffnung mit einem Durchmesser von 1,5 bis sechs Metern. Du kannst das Portal in eine beliebige Richtung ausrichten. Es bleibt für die Wirkungsdauer bestehen, und der Zielort ist durch das Portal hindurch sichtbar.
+
+Das Portal hat auf beiden Ebenen eine Vorder- und eine Rückseite. Reisen durch das Portal sind nur durch die Vorderseite möglich. Alles, was das Portal passiert, wird sofort auf die andere Ebene transportiert und erscheint in einem freien Bereich, der dem Portal am nächsten liegt.
+
+Gottheiten und andere Herrscher über die Ebenen können verhindern, dass sich Portale dieses Zaubers in ihrer Gegenwart oder in ihren Domänen öffnen.
+
+Wenn du diesen Zauber wirkst, kannst du den Namen einer bestimmten Kreatur aussprechen (Pseudonyme, Titel und Spitznamen funktionieren nicht). Befindet sich die Kreatur auf einer anderen Ebene als du, so öffnet sich das Portal neben ihr und transportiert sie in den nächstgelegenen freien Bereich auf deiner Seite des Portals. Du erlangst keine besondere Macht über die Kreatur und sie handelt nach Ermessen des SL. Sie kann verschwinden, dich angreifen oder dir helfen.

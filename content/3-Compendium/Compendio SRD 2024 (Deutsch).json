@@ -1,0 +1,294 @@
+{
+	"name": "Compendio SRD 2024 (Deutsch)",
+	"id": "compendio-srd-2024-de",
+	"blocks": [
+		{
+			"type": "group",
+			"id": "compendio-srd-de-1",
+			"properties": [
+				"name",
+				"type"
+			],
+			"conditioned": true,
+			"hasRule": true,
+			"nested": [
+				{
+					"type": "heading",
+					"id": "compendio-srd-de-2",
+					"properties": [
+						"name"
+					],
+					"conditioned": true,
+					"size": 1
+				},
+				{
+					"type": "subheading",
+					"id": "compendio-srd-de-3",
+					"properties": [
+						"type"
+					],
+					"conditioned": true,
+					"separator": ", "
+				}
+			]
+		},
+		{
+			"type": "group",
+			"id": "compendio-srd-de-4",
+			"properties": [
+				"ac",
+				"initiative_text",
+				"hp_text",
+				"speed"
+			],
+			"conditioned": true,
+			"hasRule": true,
+			"nested": [
+				{
+					"type": "inline",
+					"id": "compendio-srd-de-5",
+					"properties": [],
+					"conditioned": true,
+					"nested": [
+						{
+							"type": "property",
+							"id": "compendio-srd-de-6",
+							"properties": [
+								"ac"
+							],
+							"display": "RK",
+							"conditioned": true,
+							"markdown": true
+						},
+						{
+							"type": "property",
+							"id": "compendio-srd-de-7",
+							"properties": [
+								"initiative_text"
+							],
+							"display": "Initiative",
+							"conditioned": true,
+							"markdown": true
+						}
+					]
+				},
+				{
+					"type": "property",
+					"id": "compendio-srd-de-8",
+					"properties": [
+						"hp_text"
+					],
+					"display": "TP",
+					"conditioned": true,
+					"markdown": true
+				},
+				{
+					"type": "property",
+					"id": "compendio-srd-de-9",
+					"properties": [
+						"speed"
+					],
+					"display": "Bewegungsrate",
+					"conditioned": true,
+					"markdown": true
+				}
+			]
+		},
+		{
+			"type": "group",
+			"id": "compendio-srd-de-10",
+			"properties": [
+				"stats_table"
+			],
+			"conditioned": true,
+			"hasRule": true,
+			"cls": "srd-caracteristicas",
+			"nested": [
+				{
+					"type": "text",
+					"id": "compendio-srd-de-11",
+					"properties": [
+						"stats_table"
+					],
+					"text": null,
+					"conditioned": true,
+					"markdown": true
+				}
+			]
+		},
+		{
+			"type": "group",
+			"id": "compendio-srd-de-12",
+			"conditioned": true,
+			"hasRule": true,
+			"properties": [
+				"skills_text",
+				"damage_vulnerabilities",
+				"damage_resistances",
+				"immunities_text",
+				"gear",
+				"senses",
+				"languages",
+				"cr_text"
+			],
+			"nested": [
+				{
+					"type": "property",
+					"id": "compendio-srd-de-13",
+					"properties": [
+						"skills_text"
+					],
+					"display": "Fertigkeiten",
+					"conditioned": true,
+					"markdown": true
+				},
+				{
+					"type": "property",
+					"id": "compendio-srd-de-14",
+					"properties": [
+						"damage_vulnerabilities"
+					],
+					"display": "Anfälligkeiten",
+					"conditioned": true,
+					"markdown": true
+				},
+				{
+					"type": "property",
+					"id": "compendio-srd-de-15",
+					"properties": [
+						"damage_resistances"
+					],
+					"display": "Resistenzen",
+					"conditioned": true,
+					"markdown": true
+				},
+				{
+					"type": "property",
+					"id": "compendio-srd-de-16",
+					"properties": [
+						"immunities_text"
+					],
+					"display": "Immunitäten",
+					"conditioned": true,
+					"markdown": true
+				},
+				{
+					"type": "property",
+					"id": "compendio-srd-de-17",
+					"properties": [
+						"gear"
+					],
+					"display": "Ausrüstung",
+					"conditioned": true,
+					"markdown": true
+				},
+				{
+					"type": "property",
+					"id": "compendio-srd-de-18",
+					"properties": [
+						"senses"
+					],
+					"display": "Sinne",
+					"conditioned": true,
+					"markdown": true
+				},
+				{
+					"type": "property",
+					"id": "compendio-srd-de-19",
+					"properties": [
+						"languages"
+					],
+					"display": "Sprachen",
+					"conditioned": true,
+					"markdown": true
+				},
+				{
+					"type": "property",
+					"id": "compendio-srd-de-20",
+					"properties": [
+						"cr_text"
+					],
+					"display": "HG",
+					"conditioned": true,
+					"markdown": true
+				}
+			]
+		},
+		{
+			"type": "traits",
+			"id": "compendio-srd-de-21",
+			"properties": [
+				"traits"
+			],
+			"heading": "Merkmale",
+			"conditioned": true,
+			"dice": true,
+			"markdown": true
+		},
+		{
+			"type": "traits",
+			"id": "compendio-srd-de-22",
+			"properties": [
+				"actions"
+			],
+			"heading": "Aktionen",
+			"conditioned": true,
+			"dice": true,
+			"markdown": true
+		},
+		{
+			"type": "traits",
+			"id": "compendio-srd-de-23",
+			"properties": [
+				"bonus_actions"
+			],
+			"heading": "Bonusaktionen",
+			"conditioned": true,
+			"dice": true,
+			"markdown": true
+		},
+		{
+			"type": "traits",
+			"id": "compendio-srd-de-24",
+			"properties": [
+				"reactions"
+			],
+			"heading": "Reaktionen",
+			"conditioned": true,
+			"dice": true,
+			"markdown": true
+		},
+		{
+			"type": "group",
+			"id": "compendio-srd-de-25",
+			"properties": [
+				"legendary_description",
+				"legendary_actions"
+			],
+			"heading": "Legendäre Aktionen",
+			"conditioned": true,
+			"nested": [
+				{
+					"type": "text",
+					"id": "compendio-srd-de-26",
+					"properties": [
+						"legendary_description"
+					],
+					"text": null,
+					"conditioned": true,
+					"markdown": true
+				},
+				{
+					"type": "traits",
+					"id": "compendio-srd-de-27",
+					"properties": [
+						"legendary_actions"
+					],
+					"conditioned": true,
+					"dice": true,
+					"markdown": true
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,26 @@
+---
+srd: conjuro/wind-walk
+tags:
+  - srd/zauber
+grad: 6
+schule: Verwandlungsmagie
+klassen:
+  - "[[3-Compendium/Charaktere/Klassen/Druide/Druide|Druide]]"
+ritual: false
+konzentration: false
+---
+
+> [!srd-conjuro] Windwandeln
+> *Verwandlungszauber 6. Grades (Druide)*
+>
+> **Zeitaufwand:** 1 Minute
+>
+> **Reichweite:** 9 Meter
+>
+> **Komponenten:** V, G, M (eine Kerze)
+>
+> **Wirkungsdauer:** 8 Stunden
+
+Dieser Zauber verwandelt dich und bis zu zehn bereitwillige Kreaturen deiner Wahl in Reichweite für die Wirkungsdauer in gasförmige Gestalten, die als Wolkenschwaden erscheinen. In Wolkengestalt verfügt ein Ziel über eine Flugbewegungsrate von 90 Metern und kann schweben. Es ist gegen den Zustand [[Liegend|Liegend]] immun und gegen Hieb-, Stich- und Wuchtschaden resistent. Die einzigen Aktionen, die ein Ziel in dieser Gestalt ausführen kann, sind die Spurt-Aktion oder eine magische Aktion, um die Rückverwandlung in seine normale Gestalt zu beginnen. Die Rückverwandlung dauert eine Minute, in der das Ziel [[Betäubt|betäubt]] ist. Bis der Zauber endet, kann das Ziel zur Wolkengestalt zurückkehren. Auch dies erfordert eine magische Aktion, gefolgt von einer einminütigen Verwandlung.
+
+Befindet sich ein Ziel in Wolkengestalt in der Luft, wenn der Zauber endet, so sinkt es eine Minute lang 18 Meter pro Runde hinab, bis es sicher landet. Wenn es nach einer Minute nicht landen kann, stürzt es die verbleibende Entfernung nach unten.

@@ -141,7 +141,7 @@
     "creatures": [
       {
         "name": "Elora",
-        "initiative": 10,
+        "initiative": 6,
         "static": false,
         "modifier": 2,
         "hp": 13,
@@ -150,7 +150,7 @@
         "currentAC": "15",
         "note": "Elora",
         "path": "1-Party/Placeholder/Elora.md",
-        "id": "ID_a8b91b0b8949",
+        "id": "ID_38ea3a3a6b8b",
         "currentHP": 23,
         "tempHP": 0,
         "status": [],
@@ -163,7 +163,7 @@
       },
       {
         "name": "Rika 'Blutaxt' Kornhammer",
-        "initiative": 8,
+        "initiative": 6,
         "static": false,
         "modifier": 2,
         "hp": 18,
@@ -172,7 +172,7 @@
         "currentAC": "15",
         "note": "Rika 'Blutaxt' Kornhammer",
         "path": "1-Party/Placeholder/Rika 'Blutaxt' Kornhammer.md",
-        "id": "ID_bb2b4b6bd819",
+        "id": "ID_d8789a587bb8",
         "currentHP": 31,
         "tempHP": 0,
         "status": [],
@@ -185,7 +185,7 @@
       },
       {
         "name": "Velaris Elarion",
-        "initiative": 11,
+        "initiative": 16,
         "static": false,
         "modifier": 2,
         "hp": 13,
@@ -194,7 +194,7 @@
         "currentAC": "14",
         "note": "Velaris Elarion",
         "path": "1-Party/Placeholder/Velaris Elarion.md",
-        "id": "ID_aadbea98685a",
+        "id": "ID_79282aa999e8",
         "currentHP": 19,
         "tempHP": 0,
         "status": [],

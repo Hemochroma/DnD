@@ -1,0 +1,34 @@
+---
+srd: conjuro/astral-projection
+tags:
+  - srd/zauber
+grad: 9
+schule: Nekromantie
+klassen:
+  - "[[Kleriker|Kleriker]]"
+  - "[[Hexenmeister|Hexenmeister]]"
+  - "[[3-Compendium/Charaktere/Klassen/Magier/Magier|Magier]]"
+ritual: false
+konzentration: false
+---
+
+> [!srd-conjuro] Astrale Projektion
+> *Nekromantiezauber 9. Grades (Hexenmeister, Kleriker, Magier)*
+>
+> **Zeitaufwand:** 1 Stunde
+>
+> **Reichweite:** 3 Meter
+>
+> **Komponenten:** V, G, M (für jedes Ziel des Zaubers einen Hyazinth im Wert von mindestens 1.000 GM und einen Silberbarren im Wert von mindestens 100 GM – der Zauber verbraucht jeweils beides)
+>
+> **Wirkungsdauer:** Bis der Zauber gebannt wird
+
+Durch diesen Zauber projizierst du deinen Astralkörper und die Astralkörper von bis zu acht bereitwilligen Kreaturen in Reichweite auf die Astralebene (wenn du dich bereits auf dieser Ebene befindest, endet der Zauber sofort). Der physische Körper jedes Ziels bleibt in scheintotem Zustand zurück. Er ist [[Bewusstlos|bewusstlos]], benötigt weder Nahrung noch Luft und altert nicht.
+
+Die Astralgestalt jedes Ziels gleicht dem physischen Körper in fast jeder Hinsicht. Sie hat dessen Spielwerte und Habseligkeiten. Der Hauptunterschied ist eine Silberschnur, die zwischen den Schulterblättern der Astralgestalt entspringt. Die Schnur verblasst nach 30 Zentimetern und wird [[Unsichtbar|unsichtbar]]. Wird die Schnur durchtrennt – was nur geschieht, wenn ein Effekt dies explizit erwähnt –, so sterben sowohl physischer Körper als auch Astralgestalt des Ziels.
+
+Die Astralgestalt eines Ziels kann durch die Astralebene reisen. Sobald eine Astralgestalt diese Ebene verlässt, werden physischer Körper und Habseligkeiten des Ziels an der Silberschnur entlangtransportiert, sodass das Ziel auf der neuen Ebene wieder in seinen Körper gelangt.
+
+Schaden und sonstige Effekte, die auf die Astralgestalt des Ziels wirken, haben auf den physischen Körper keine Wirkung, sowie umgekehrt. Wenn die Trefferpunkte der Astralgestalt oder des physischen Körpers eines Ziels auf 0 sinken, endet der Zauber bei diesem Ziel. Der Zauber endet bei allen Zielen, wenn du ihn als magische Aktion verwirfst.
+
+Wenn der Zauber bei einem Ziel endet, das nicht tot ist, kehrt das Ziel in seinen physischen Körper zurück, und dessen scheintoter Zustand endet.

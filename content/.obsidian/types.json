@@ -48,6 +48,7 @@
     "Rettungswürfe": "multitext",
     "Rüstung": "multitext",
     "Waffen": "multitext",
-    "Spezies": "multitext"
+    "Spezies": "multitext",
+    "giftart": "multitext"
   }
 }

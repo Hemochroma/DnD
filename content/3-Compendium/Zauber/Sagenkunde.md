@@ -1,0 +1,30 @@
+---
+srd: conjuro/legend-lore
+tags:
+  - srd/zauber
+grad: 5
+schule: Erkenntnismagie
+klassen:
+  - "[[Barde|Barde]]"
+  - "[[Kleriker|Kleriker]]"
+  - "[[3-Compendium/Charaktere/Klassen/Magier/Magier|Magier]]"
+ritual: false
+konzentration: false
+---
+
+> [!srd-conjuro] Sagenkunde
+> *Erkenntniszauber 5. Grades (Barde, Kleriker, Magier)*
+>
+> **Zeitaufwand:** 10 Minuten
+>
+> **Reichweite:** Selbst
+>
+> **Komponenten:** V, G, M (Weihrauch im Wert von mindestens 250 GM, den der Zauber verbraucht, und vier Stücke Elfenbein im Wert von jeweils mindestens 50 GM)
+>
+> **Wirkungsdauer:** Unmittelbar
+
+Nenne oder beschreibe eine berühmte Person, einen berühmten Ort oder einen berühmten Gegenstand. Der Zauber übermittelt dir mental eine Zusammenfassung der wichtigen Legenden über das Genannte wie vom SL beschrieben.
+
+Dabei kann es sich um wichtige Details, amüsante Enthüllungen oder sogar geheimes Wissen handeln. Je mehr Informationen du bereits kennst, desto präzisere und detailliertere Informationen erhältst du durch den Zauber. Die erhaltenen Informationen sind korrekt, können aber nach Ermessen des SL in bildlicher Sprache oder in Versform übermittelt werden.
+
+Wenn das Objekt deines Interesses eigentlich nicht berühmt ist, hörst du einige traurige Posaunentöne, und der Zauber misslingt.

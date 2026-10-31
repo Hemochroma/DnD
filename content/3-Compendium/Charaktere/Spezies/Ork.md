@@ -1,0 +1,21 @@
+---
+srd: "especie/orc"
+tags:
+  - "srd/spezies"
+---
+
+**Kreaturentyp:** Humanoide
+
+**Größe:** Mittelgroß (180–210 cm)
+
+**Bewegungsrate:** 9 m
+
+Als Ork hast du diese besonderen Merkmale:
+
+**Adrenalinrausch:** Du kannst die Spurt-Aktion als Bonusaktion ausführen. In diesem Fall erhältst du eine Anzahl von temporären Trefferpunkten in Höhe deines Übungsbonus.
+
+Die Häufigkeit, mit der du dieses Merkmal einsetzen kannst, entspricht deinem Übungsbonus. Du erhältst alle verbrauchten Anwendungen nach einer kurzen oder langen Rast zurück.
+
+**Dunkelsicht:** Du hast Dunkelsicht mit einer Reichweite von 36 Metern.
+
+**Durchhaltevermögen:** Wenn deine Trefferpunkte auf 0 sinken, du aber nicht direkt stirbst, behältst du stattdessen 1 Trefferpunkt. Du kannst dieses Merkmal erst nach einer langen Rast erneut verwenden.

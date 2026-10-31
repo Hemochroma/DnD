@@ -1,0 +1,10 @@
+---
+srd: "glosario/heroic-inspiration"
+tags:
+  - "srd/glossar"
+kapitel: "Regelglossar"
+---
+
+Wenn du als Spielercharakter Heldische Inspiration hast, kannst du sie verbrauchen, um mit einem Würfel sofort nach dem Wurf erneut zu würfeln. In diesem Fall musst du das neue Ergebnis verwenden.
+
+Verfügst du über Heldische Inspiration und erhältst dann noch weitere, so geht diese verloren, sofern du sie nicht an einen Spielercharakter weitergibst, der keine hat.

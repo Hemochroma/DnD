@@ -1,0 +1,18 @@
+---
+srd: "dote/grappler"
+tags:
+  - "srd/talent"
+kategorie: "Allgemeine Talente"
+---
+
+*Allgemeines Talent (Voraussetzung: min. 4. Stufe, min. Stärke oder Geschicklichkeit 13)*
+
+Du erhältst folgende Vorzüge:
+
+**Attributswerterhöhung:** Dein Stärke- oder dein Geschicklichkeitswert wird um 1 Punkt erhöht (auf höchstens 20).
+
+**Zuschlagen und packen:** Wenn du eine Kreatur als Teil der Angriffsaktion in deinem Zug mit einem waffenlosen Angriff triffst, kannst du sowohl den Schaden bewirken als auch die Packen-Option verwenden. Du kannst diesen Vorzug nur einmal pro Zug anwenden.
+
+**Angriffsvorteil:** Du bist bei Angriffswürfen gegen eine Kreatur, die du [[Gepackt|gepackt]] hältst, im Vorteil.
+
+**Flinker Ringer:** Du musst keine zusätzliche Bewegung verbrauchen, wenn du eine Kreatur bewegst, die du gepackt hältst, sofern die Kreatur höchstens so groß ist wie du.

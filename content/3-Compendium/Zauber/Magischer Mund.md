@@ -1,0 +1,29 @@
+---
+srd: conjuro/magic-mouth
+tags:
+  - srd/zauber
+grad: 2
+schule: Illusionsmagie
+klassen:
+  - "[[Barde|Barde]]"
+  - "[[3-Compendium/Charaktere/Klassen/Magier/Magier|Magier]]"
+ritual: true
+konzentration: false
+---
+
+> [!srd-conjuro] Magischer Mund
+> *Illusionszauber 2. Grades (Barde, Magier)*
+>
+> **Zeitaufwand:** 1 Minute oder Ritual
+>
+> **Reichweite:** 9 Meter
+>
+> **Komponenten:** V, G, M (Jadestaub im Wert von mindestens 10 GM, den der Zauber verbraucht)
+>
+> **Wirkungsdauer:** Bis der Zauber gebannt wird
+
+Du implantierst eine Botschaft in einen Gegenstand in Reichweite. Diese Botschaft wird bei einer bestimmten Auslösebedingung ausgesprochen. Wähle einen Gegenstand aus, den du sehen kannst und der nicht von einer anderen Kreatur getragen oder gehalten wird. Sprich dann die Botschaft aus. Sie kann höchstens 25 Worte enthalten, jedoch über einen Zeitraum von bis zu zehn Minuten übermittelt werden. Lege zum Schluss den Umstand fest, unter dem der Zauber ausgelöst und deine Botschaft übermittelt wird.
+
+Wenn dieser Auslöser eintritt, erscheint ein magischer Mund auf dem Gegenstand und spricht die Botschaft mit deiner Stimme und deiner Sprachlautstärke. Verfügt der ausgewählte Gegenstand über einen Mund oder etwas, das wie ein Mund aussieht, beispielsweise den Mund einer Statue, so erscheint der magische Mund dort, sodass die Worte aus dem Mund des Gegenstands zu kommen scheinen. Wenn du diesen Zauber wirkst, kannst du entscheiden, ob er nach einmaligem Übermitteln der Botschaft endet oder aber bestehen bleibt und die Botschaft jeweils wiederholt wird, wenn die Auslösebedingung erneut erfüllt ist.
+
+Der Auslöser kann beliebig allgemein oder detailliert sein. Er muss jedoch auf sichtbaren und hörbaren Umständen basieren, die im Abstand von bis zu neun Metern um den Gegenstand auftreten. Beispielsweise könntest du bestimmen, dass die Botschaft übermittelt wird, sobald eine Kreatur sich dem Gegenstand auf neun Meter nähert oder wenn im Abstand von bis zu neun Metern vom Gegenstand eine Silberglocke geläutet wird.

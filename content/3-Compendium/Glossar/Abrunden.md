@@ -1,0 +1,8 @@
+---
+srd: "glosario/round-down"
+tags:
+  - "srd/glossar"
+kapitel: "Regelglossar"
+---
+
+Wenn eine Zahl im Spiel multipliziert oder geteilt wird, rundest du das Ergebnis gegebenenfalls ab. Selbst bei Dezimalstellen größer als fünf wird abgerundet. Manche Regeln machen eine Ausnahme und besagen, dass du aufrunden sollst.
