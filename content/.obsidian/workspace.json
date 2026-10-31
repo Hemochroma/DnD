@@ -8,33 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa6c9db9b07aebe8",
+            "id": "8d23daff0bbb6fac",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Compendium/Magische Gegenstände/Heiliger Rächer.md",
+                "file": "0-Notizen/Kampagnen Ideensammlung/Session 3.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Heiliger Rächer"
+              "title": "Session 3"
             }
           },
           {
-            "id": "8d23daff0bbb6fac",
+            "id": "b951e31642d949d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Compendium/Zustände/Zustände.md",
-                "mode": "source",
+                "file": "2-Kampagne/Gegenstände/Armband des schnellen Schrittes.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zustände"
+              "title": "Armband des schnellen Schrittes"
             }
           }
         ],
@@ -63,7 +63,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Dateiexplorer"
+              "title": "Files"
             }
           },
           {
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Category/Sessions",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +141,6 @@
       {
         "id": "09384058bb1c4e72",
         "type": "tabs",
-        "dimension": 34.21052631578947,
         "children": [
           {
             "id": "01866bcbc2fd8a19",
@@ -289,7 +288,6 @@
       {
         "id": "68373fccd564778b",
         "type": "tabs",
-        "dimension": 65.78947368421053,
         "children": [
           {
             "id": "eba87703b8862805",
@@ -300,25 +298,38 @@
               "icon": "skull",
               "title": "Combatant"
             }
+          },
+          {
+            "id": "d2f2628252374e93",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {
+                "creatureId": "ID_3a3b6aab5b1a",
+                "creatureName": "Grottenschratpirscher"
+              },
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 479.5,
+    "width": 492.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "compendio-srd:Begegnung öffnen": false,
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graph-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false,
-      "obsidian-kanban:Erstelle ein neues Board": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-custom-frames:Open Obsidian Forum": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
@@ -333,34 +344,37 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "8d23daff0bbb6fac",
+  "active": "b951e31642d949d4",
   "lastOpenFiles": [
-    "3-Compendium/Magische Gegenstände/Magische Gegenstände.md",
-    "3-Compendium/Zauber/Zauber.md",
-    "3-Compendium/3-Compendium.md",
-    "3-Compendium/Magische Gegenstände/Armschienen des Bogenschützen.md",
-    "3-Compendium/Magische Gegenstände/Augen des Präzisen Sehens.md",
-    "3-Compendium/Magische Gegenstände/Belebter Schild.md",
-    "3-Compendium/Magische Gegenstände/Augen der Bezauberung.md",
-    "3-Compendium/Magische Gegenstände/Apparat der Krabbe.md",
-    "3-Compendium/Magische Gegenstände/Anhänger der Gesundheit.md",
-    "3-Compendium/Magische Gegenstände/Anhänger der Wundheilung.md",
-    "3-Compendium/Magische Gegenstände/Anhänger des Giftschutzes.md",
-    "3-Compendium/Magische Gegenstände/Kugel der Drachen.md",
-    "3-Compendium/Kreaturen/Kreaturen.md",
-    "3-Compendium/Glossar/Glossar.md",
+    "3-Compendium/Fallen/Fallen.md",
     "3-Compendium/Gifte/Gifte.md",
-    "3-Compendium/Gifte/Wyverngift.md",
-    "3-Compendium/Gifte/Wahrheitsserum.md",
-    "3-Compendium/Gifte/Verbrannte Othurdämpfe.md",
-    "3-Compendium/Gifte/Taggit-Öl.md",
-    "3-Compendium/Gifte/Spinnenstich.md",
-    "3-Compendium/Gifte/Schlangengift.md",
-    "3-Compendium/Gifte/Purpurwurmgift.md",
-    "3-Compendium/Gifte/Mitternachtstränen.md",
-    "3-Compendium/Gifte/Kriecherschleim.md",
-    "3-Compendium/Gifte/Erstarrungsgift.md",
-    "3-Compendium/Gifte/Assassinenblut.md",
+    "3-Compendium/3-Compendium.md",
+    "0-DM Toolkit/Random Events/Reisen/Reisen.md",
+    "0-DM Toolkit/DnD5e-DM Screen.md",
+    "0-DM Toolkit/DnD 5e-DM Sidescreen.md",
+    "0-DM Toolkit/Kurze & Lange Rast.md",
+    "0-DM Toolkit/Map Calculator.md",
+    "0-DM Toolkit/Travel Calculator.md",
+    "0-Notizen/Random Dungeon.md",
+    "0-Notizen/Add Random Notes Here.md",
+    "0-Notizen/Kampagnen Ideensammlung/Story.md",
+    "0-Notizen/Kampagnen Ideensammlung/Session 3.md",
+    "0-DM Toolkit/Vault Report.md",
+    "3-Compendium/Charaktere/Charaktere.md",
+    "3-Compendium/Charaktere/Spezies/Wechselling.md",
+    "3-Compendium/Charaktere/Spezies/Mensch.md",
+    "3-Compendium/Charaktere/Spezies/Tiefling.md",
+    "3-Compendium/Charaktere/Spezies/Ork.md",
+    "3-Compendium/Charaktere/Spezies/Gnom.md",
+    "3-Compendium/Charaktere/Spezies/Elf.md",
+    "3-Compendium/Charaktere/Spezies/Drachenblütiger.md",
+    "3-Compendium/Regeln/Einen Charakterbogen wählen.md",
+    "3-Compendium/Regeln/Die sechs Attribute.md",
+    "3-Compendium/Regeln/Kampf.md",
+    "3-Compendium/Regeln/Erkundung.md",
+    "0-DM Toolkit/Encounter Generator/Untitled.canvas",
+    "0-DM Toolkit/Encounter Generator",
+    "1-Party/Die Götter von Morgen/~syncthing~Velaris Elarion.md.tmp",
     "3-Compendium/Charaktere/Talente/Epische Gabe Talente",
     "3-Compendium/Charaktere/Talente/Kampfstil-Talente",
     "3-Compendium/Charaktere/Talente/Allgmeine Talente",
@@ -369,8 +383,6 @@
     "3-Compendium/DE_SRD_CC_v5.2.1.pdf",
     "3-Compendium/charakterbogen_v2.8.2.pdf",
     "3-Compendium/Charaktere/Klassen/Zauberer",
-    "3-Compendium/Charaktere/Klassen/Waldläufer",
-    "3-Compendium/Charaktere/Klassen/Schurke",
     "z_Assets/classes/Bard/Bard.png",
     "z_Assets/NPC/Xanthe_Hag.png",
     "z_Assets/NPC/file_000000001f78821196449aa05892c0f3.png",

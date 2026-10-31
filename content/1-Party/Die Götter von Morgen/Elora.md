@@ -1,11 +1,29 @@
 ---
-Level: 2
-Klasse: Mönch
-Unterklasse:
-Spezies: Mensch
-image: "[[Elora.png]]"
 tags:
   - Category/Player
+typ: "Humanoide, gesinnungslos"
+gruppe: "Spieler"
+statblock: true
+layout: "Compendio SRD 2024 (Deutsch)"
+name: "Elora"
+type: "Humanoide, gesinnungslos"
+speed: "9 m"
+stats:
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+senses: "Passive Wahrnehmung 13"
+languages: "common"
+traits:
+  - name: "**Elfische Abstammung 1. Stufe**"
+    desc: "<br>Deine Bewegungsrate ist auf 10,5 Meter erhöht.<br>Außerdem kennst du den Zaubertrick _[[Druidenkunst]]_."
+actions:
+  - name: "Angriff"
+    desc: "*Nahkampfangriffswurf:* +5 (im Vorteil, wenn das Ziel vom Ankheg [[3-Compendium/Zustände/Gepackt|gepackt]] wurde), Reichweite 1,5 m. *Treffer:* 10 (2W6+3) Hiebschaden plus 3 (1W6) Säureschaden. Wenn das Ziel eine Kreatur von höchstens großer Größe ist, wird es gepackt (Flucht-SG 13)."
+image: "[[Velaris Elarion.png]]"
 ---
 
 

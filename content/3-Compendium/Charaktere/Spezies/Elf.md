@@ -14,7 +14,8 @@ Als Elf hast du diese besonderen Merkmale:
 
 **Dunkelsicht:** Du hast Dunkelsicht mit einer Reichweite von 18 Metern.
 
-**Elfische Abstammung:** Du bist Teil einer Abstammungslinie, die dir übernatürliche Fähigkeiten gewährt. Wähle eine Abstammung aus der Tabelle „Elfische Abstammungen“ aus. Du erhältst durch diese Linie den Vorzug für die 1. Stufe.
+### Elfische Abstammung
+Du bist Teil einer Abstammungslinie, die dir übernatürliche Fähigkeiten gewährt. Wähle eine Abstammung aus der Tabelle „Elfische Abstammungen“ aus. Du erhältst durch diese Linie den Vorzug für die 1. Stufe.
 
 Wenn du die 3. und 5. Charakterstufe erreichst, erlernst du einen Zauber eines höheren Grades wie in der Tabelle angegeben. Du hast diesen Zauber stets vorbereitet. Du kannst ihn einmal wirken, ohne einen Zauberplatz zu verbrauchen. Diese Fähigkeit erhältst du nach einer langen Rast zurück.
 
@@ -30,8 +31,11 @@ Du kannst den Zauber auch mit einem beliebigen verfügbaren Zauberplatz des ents
 
 Intelligenz, Weisheit oder Charisma ist dein Attribut zum Wirken der Zauber dieser Abstammungslinie (wähle das Attribut aus, wenn du dich für eine Linie entscheidest).
 
-**Feenblut:** Du bist bei Rettungswürfen zum Vermeiden oder Beenden des Zustands [[Bezaubert|Bezaubert]] im Vorteil.
+### Feenblut
+Du bist bei Rettungswürfen zum Vermeiden oder Beenden des Zustands [[Bezaubert|Bezaubert]] im Vorteil.
 
-**Scharfe Sinne:** Du bist in einer der Fertigkeiten Motiv erkennen, Überlebenskunst oder Wahrnehmung geübt.
+### Scharfe Sinne
+Du bist in einer der Fertigkeiten Motiv erkennen, Überlebenskunst oder Wahrnehmung geübt.
 
-**Trance:** Du musst nicht schlafen und kannst nicht magisch zum Einschlafen gebracht werden. Du kannst eine lange Rast in vier Stunden beenden, wenn du diese Stunden in tranceartiger Meditation verbringst. Dabei bleibst du bei Bewusstsein.
+### Trance
+Du musst nicht schlafen und kannst nicht magisch zum Einschlafen gebracht werden. Du kannst eine lange Rast in vier Stunden beenden, wenn du diese Stunden in tranceartiger Meditation verbringst. Dabei bleibst du bei Bewusstsein.

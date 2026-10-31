@@ -599,7 +599,7 @@
                     "damage_resistances"
                   ],
                   "fallback": "-",
-                  "display": "Resistenzen",
+                  "display": "Schadenresistänzen",
                   "conditioned": true,
                   "callback": "if (!monster.damage_resistances) return \"\";\n\n// 1. Helper to Title Case phrases (e.g., \"bludgeoning, piercing, and slashing\" -> \"Bludgeoning, Piercing, And Slashing\")\nconst toTitleCase = (str) => {\n    return str.toLowerCase().split(' ').map(word => \n        word.charAt(0).toUpperCase() + word.slice(1)\n    ).join(' ');\n};\n\n// 2. Process the list\n// We split by comma, trim whitespace, capitalize, and rejoin.\nreturn monster.damage_resistances\n    .split(',')\n    .map(item => toTitleCase(item.trim()))\n    .join(', ');"
                 }
@@ -626,7 +626,7 @@
                           "fallback": "-",
                           "callback": "// 1. Helper: Title Case\nconst toTitleCase = (str) => {\n    return str.toLowerCase().split(' ').map(word => \n        word.charAt(0).toUpperCase() + word.slice(1)\n    ).join(' ');\n};\n\n// 2. Helper: Process List (Handles Links & Plain Text)\nconst processList = (str) => {\n    if (!str) return \"\";\n    \n    return str.split(',').map(item => {\n        let text = item.trim();\n        \n        // Regex to find: <STATBLOCK-MARKDOWN-LINK>path|display<STATBLOCK-MARKDOWN-LINK>\n        const tagRegex = /<STATBLOCK-MARKDOWN-LINK>(.*?)<STATBLOCK-MARKDOWN-LINK>/;\n        const match = text.match(tagRegex);\n        \n        if (match) {\n            const innerContent = match[1];\n            let path = innerContent;\n            let display = innerContent;\n            \n            if (innerContent.includes('|')) {\n                const parts = innerContent.split('|');\n                path = parts[0];\n                display = parts[1];\n            }\n            \n            const cleanDisplay = toTitleCase(display);\n            \n            // Return HTML link\n            return `<a class=\"internal-link\" data-href=\"${path}\" href=\"${path}\" target=\"_blank\" rel=\"noopener nofollow\">${cleanDisplay}</a>`;\n        } else {\n            return toTitleCase(text);\n        }\n    }).join(', ');\n};\n\n// 3. Generate Strings\nconst damageStr = processList(monster.damage_immunities);\nconst conditionStr = processList(monster.condition_immunities);\n\n// 4. Return Combined String\nreturn `${damageStr}; ${conditionStr}`;",
                           "doNotAddClass": true,
-                          "display": "Immunitäten"
+                          "display": "Schadenimmunitäten"
                         }
                       ]
                     }
@@ -647,7 +647,7 @@
                             "damage_immunities"
                           ],
                           "fallback": "-",
-                          "display": "Immunitäten",
+                          "display": "Schadenimmunitäten",
                           "conditioned": false,
                           "callback": "if (!monster.damage_immunities) return \"\";\n\n// 1. Helper to Title Case\nconst toTitleCase = (str) => {\n    return str.toLowerCase().split(' ').map(word => \n        word.charAt(0).toUpperCase() + word.slice(1)\n    ).join(' ');\n};\n\n// 2. Process the list\nreturn monster.damage_immunities\n    .split(',')\n    .map(item => toTitleCase(item.trim()))\n    .join(', ');",
                           "doNotAddClass": true
@@ -671,7 +671,7 @@
                             "condition_immunities"
                           ],
                           "fallback": "-",
-                          "display": "Immunitäten",
+                          "display": "Konditionsimmunitäten",
                           "conditioned": true,
                           "callback": "if (!monster.condition_immunities) return \"\";\n\n// 1. Helper: Title Case\nconst toTitleCase = (str) => {\n    return str.toLowerCase().split(' ').map(word => \n        word.charAt(0).toUpperCase() + word.slice(1)\n    ).join(' ');\n};\n\n// 2. Process List\nreturn monster.condition_immunities.split(',').map(item => {\n    let text = item.trim();\n    \n    // Regex to find: <STATBLOCK-MARKDOWN-LINK>path|display<STATBLOCK-MARKDOWN-LINK>\n    const tagRegex = /<STATBLOCK-MARKDOWN-LINK>(.*?)<STATBLOCK-MARKDOWN-LINK>/;\n    const match = text.match(tagRegex);\n    \n    if (match) {\n        // It is a link!\n        const innerContent = match[1];\n        let path = innerContent;\n        let display = innerContent;\n        \n        // Check for pipe separator (path|display)\n        if (innerContent.includes('|')) {\n            const parts = innerContent.split('|');\n            path = parts[0];\n            display = parts[1];\n        }\n        \n        const cleanDisplay = toTitleCase(display);\n        \n        // Return standard Obsidian internal link HTML\n        return `<a class=\"internal-link\" data-href=\"${path}\" href=\"${path}\" target=\"_blank\" rel=\"noopener nofollow\">${cleanDisplay}</a>`;\n    } else {\n        // It is plain text\n        return toTitleCase(text);\n    }\n}).join(', ');",
                           "doNotAddClass": true
@@ -690,7 +690,7 @@
                 "damage_vulnerabilities"
               ],
               "fallback": "-",
-              "display": "Schaden Schwächen",
+              "display": "Schaden Verwundbarkeit",
               "conditioned": true,
               "callback": "if (!monster.damage_vulnerabilities) return \"\";\n\nlet text = monster.damage_vulnerabilities;\n\n// 1. Capitalize the very first character of the entire string\ntext = text.charAt(0).toUpperCase() + text.slice(1);\n\n// 2. BONUS: Italicize spell names inside the phrase \"of a [Spell] spell\"\n// Regex looks for: \"of a \" + (Captured Text) + \" spell\"\n// It also capitalizes the captured spell name (e.g. \"bless\" -> \"*Bless*\")\ntext = text.replace(/(of a\\s+)(.+?)(\\s+spell)/gi, (match, prefix, spellName, suffix) => {\n    const cleanSpell = spellName.charAt(0).toUpperCase() + spellName.slice(1);\n    return `${prefix}*${cleanSpell}*${suffix}`;\n});\n\nreturn text;"
             },
@@ -701,7 +701,7 @@
                 "senses"
               ],
               "fallback": "-",
-              "display": "Gespüre",
+              "display": "Gespür",
               "conditioned": true,
               "callback": "if (!monster.senses) return \"\";\n\n// 1. Fix capitalization (passive perception -> Passive Perception)\nlet str = monster.senses.replace(/passive perception/gi, \"Passive Perception\");\n\n// 2. Change the separator before Passive Perception to a semicolon\n// This turns \", Passive Perception\" into \"; Passive Perception\"\nstr = str.replace(/,\\s*Passive Perception/, \"; Passive Perception\");\n\nreturn str;"
             },
@@ -722,7 +722,7 @@
                 "cr"
               ],
               "fallback": "-",
-              "display": "HR",
+              "display": "HG",
               "callback": "if (!monster.cr) return \"\";\n\n// --- 1. CONFIGURATION: XP TABLE ---\nconst XP_TABLE = {\n    \"0\": 10, \"1/8\": 25, \"1/4\": 50, \"1/2\": 100, \"1\": 200, \"2\": 450,\n    \"3\": 700, \"4\": 1100, \"5\": 1800, \"6\": 2300, \"7\": 2900, \"8\": 3900,\n    \"9\": 5000, \"10\": 5900, \"11\": 7200, \"12\": 8400, \"13\": 10000, \"14\": 11500,\n    \"15\": 13000, \"16\": 15000, \"17\": 18000, \"18\": 20000, \"19\": 22000, \"20\": 25000,\n    \"21\": 33000, \"22\": 41000, \"23\": 50000, \"24\": 62000, \"25\": 75000, \"26\": 90000,\n    \"27\": 105000, \"28\": 120000, \"29\": 135000, \"30\": 155000\n};\n\n// --- 2. HELPERS ---\n\n// Get numeric CR from string (handles \"1/4\")\nconst getNumericCR = (crStr) => {\n    if (crStr.includes('/')) {\n        const [a, b] = crStr.split('/');\n        return parseInt(a) / parseInt(b);\n    }\n    return parseFloat(crStr);\n};\n\n// Calculate Proficiency Bonus\nconst getPB = (crVal) => {\n    const cr = getNumericCR(crVal);\n    // Formula: 2 + ((CR - 1) / 4), rounded down, min 2\n    return Math.max(2, Math.floor(2 + ((cr - 1) / 4)));\n};\n\n// Format number with commas\nconst fmt = (num) => num.toLocaleString();\n\n// --- 3. LAIR DETECTION ---\nlet hasLair = false;\n\n// Method A: Check if 'lair_actions' exists in the yaml\nif (monster.lair_actions && monster.lair_actions.length > 0) {\n    hasLair = true;\n}\n\n// Method B: Scan Traits for \"Lair\" keywords (e.g. \"Legendary Resistance (3/Day, or 4/Day in Lair)\")\nif (!hasLair && monster.traits) {\n    const lairRegex = /\\blair\\b/i;\n    for (const trait of monster.traits) {\n        if (trait.name && lairRegex.test(trait.name)) {\n            hasLair = true;\n            break;\n        }\n        if (trait.desc && lairRegex.test(trait.desc)) {\n            hasLair = true;\n            break;\n        }\n    }\n}\n\n// --- 4. CALCULATE VALUES ---\nconst crStr = monster.cr.toString();\nconst baseXP = XP_TABLE[crStr] || 0;\nconst pb = getPB(crStr);\n\nlet xpString = `XP ${fmt(baseXP)}`;\n\n// If Lair detected, calculate XP for CR + 1\nif (hasLair) {\n    const numericCR = getNumericCR(crStr);\n    const lairCR = Math.floor(numericCR) + 1; // Assuming +1 CR bump for Lair\n    const lairXP = XP_TABLE[lairCR.toString()];\n    \n    if (lairXP) {\n        xpString += `, or ${fmt(lairXP)} in lair`;\n    }\n}\n\n// --- 5. FINAL OUTPUT ---\n// Format: CR 16 (XP 15,000, or 18,000 in lair; PB +5)\nreturn `${crStr} (${xpString}; PB +${pb})`;"
             },
             {
@@ -835,7 +835,7 @@
                 "lair_actions"
               ],
               "fallback": "-",
-              "heading": "Lair Actions",
+              "heading": "Lair Aktionen",
               "conditioned": true,
               "dice": true
             },
@@ -846,7 +846,7 @@
                 "regional_effects"
               ],
               "fallback": "-",
-              "heading": "Regionale Effekte",
+              "heading": "Regional Aktionen",
               "conditioned": true,
               "dice": true
             }
@@ -882,7 +882,7 @@
         }
       ],
       "name": "Basic 5e 2025 Layout",
-      "id": "b8698a294af8",
+      "id": "a889fb6be848",
       "diceParsing": [
         {
           "regex": "([\\+\\-])(\\d+) to hit",
@@ -938,7 +938,7 @@
       }
     }
   ],
-  "default": "b8698a294af8",
+  "default": "a889fb6be848",
   "useDice": true,
   "renderDice": false,
   "export": true,

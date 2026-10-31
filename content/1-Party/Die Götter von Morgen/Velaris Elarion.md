@@ -1,12 +1,31 @@
 ---
-Level: 2
-Klasse: Schurke
-Unterklasse:
-Spezies:
-  - Elf
-image: "[[Velaris Elarion.png]]"
 tags:
   - Category/Player
+typ: "Humanoide, gesinnungslos"
+gruppe: "Spieler"
+statblock: true
+layout: "Compendio SRD 2024 (Deutsch)"
+name: "Velaris"
+type: "Humanoide, gesinnungslos"
+speed: "9 m"
+stats:
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+senses: "Dunkelsicht 18 m, Passive Wahrnehmung 13"
+languages: "common"
+traits:
+  - name: "Spezies"
+    desc: "[[3-Compendium/Charaktere/Spezies/Elf#Trance|Trance]], [[3-Compendium/Charaktere/Spezies/Elf#Feenblut|Feenblut]], [[3-Compendium/Charaktere/Spezies/Elf#Scharfe Sinne|Scharfe Sinne]]"
+  - name: "Klasse"
+    desc: ""
+actions:
+  - name: "Angriff"
+    desc: "*Nahkampfangriffswurf:* +5 (im Vorteil, wenn das Ziel vom Ankheg [[3-Compendium/Zustände/Gepackt|gepackt]] wurde), Reichweite 1,5 m. *Treffer:* 10 (2W6+3) Hiebschaden plus 3 (1W6) Säureschaden. Wenn das Ziel eine Kreatur von höchstens großer Größe ist, wird es gepackt (Flucht-SG 13)."
+image: "[[Velaris Elarion.png]]"
 ---
 
 > [!infobox]

@@ -1,13 +1,15 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Checks
 
-- [ ] [[Fähigkeiten.|Ability Modifier; Ability Check Examples]]
-- [ ] [[02-chapter-1-playing-the-game#Difficulty Class|Difficulty Class]]
-- [ ] [[02-chapter-1-playing-the-game#Vision and Light|Vision and Light]]
-- [ ] [[detect-magic-xphb|Detect Magic]]
+- [ ] [[W20-Prüfungen#Attributswürfe|Attributswürfe]]
+- [ ] [[W20-Prüfungen#Rettungswürfe|Rettungswürfe]]
+- [ ] [[Erkundung#Lichtverhältnisse und Sicht|Lichtverhältnisse und Sicht]]
+- [ ] [[Erkundung#Mit Gegenständen interagieren|Mit Gegenständen interagieren]]
 - [ ] [[02-chapter-1-playing-the-game#Advantage/Disadvantage|Advantage/Disadvantage]]
 - [ ] [[02-chapter-1-playing-the-game#Proficiency Bonus|Proficiency Bonus]]
 - [ ] [[02-chapter-1-playing-the-game#Ability Checks|Ability Checks]]
@@ -17,11 +19,26 @@ kanban-plugin: board
 
 ## Status
 
+- [ ] [[Betäubt]]
+- [ ] [[Bewusstlos]]
+- [ ] [[Bezaubert]]
+- [ ] [[Blind]]
+- [ ] [[Erschöpfung]]
+- [ ] [[Festgesetzt]]
+- [ ] [[Gelähmt]]
+- [ ] [[Gepackt]]
+- [ ] [[Kampfunfähig]]
+- [ ] [[Liegend]]
+- [ ] [[Taub]]
+- [ ] [[Unsichtbar]]
+- [ ] [[Verängstigt]]
+- [ ] [[Vergiftet]]
+- [ ] [[Versteinert]]
 
 
 ## ![[CombatActionsTitleBar.png]]
 
-- [ ] [[actions#Actions#Activate an Item|Activate an Item]]
+- [ ] [[Kampf#Der Kampfablauf|Kampfablauf]] ^b3qnjr
 - [ ] [[actions#Actions#Attack|Attack]]
 - [ ] [[actions#Actions#Cast a Spell|Cast a Spell]]
 - [ ] [[actions#Actions#Dash|Dash]]
