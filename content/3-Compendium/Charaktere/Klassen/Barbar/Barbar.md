@@ -22,28 +22,28 @@ image: "[[Barbarian_logo.png]]"
 
 **Barbarenmerkmale**
 
-| Stufe | Übungsbonus | Klassenmerkmale | Kampfrausch-Anzahl | Kampfrausch-Schaden | Waffenbeherrschung |
-| --- | --- | --- | --- | --- | --- |
-| 1 | +2 | Kampfrausch, Ungerüstete Verteidigung, Waffenbeherrschung | 2 | +2 | 2 |
-| 2 | +2 | Gefahrengespür, Rücksichtsloser Angriff | 2 | +2 | 2 |
-| 3 | +2 | Barbaren-Unterklasse, Urwissen | 3 | +2 | 2 |
-| 4 | +2 | Attributswerterhöhung | 3 | +2 | 3 |
-| 5 | +3 | Zusätzlicher Angriff, Schnelle Bewegung | 3 | +2 | 3 |
-| 6 | +3 | Unterklassenmerkmal | 4 | +2 | 3 |
-| 7 | +3 | Instinktiver Sprung, Wilder Instinkt | 4 | +2 | 3 |
-| 8 | +3 | Attributswerterhöhung | 4 | +2 | 3 |
-| 9 | +4 | Brutaler Hieb | 4 | +3 | 3 |
-| 10 | +4 | Unterklassenmerkmal | 4 | +3 | 4 |
-| 11 | +4 | Unerbittlicher Kampfrausch | 4 | +3 | 4 |
-| 12 | +4 | Attributswerterhöhung | 5 | +3 | 4 |
-| 13 | +5 | Verbesserter Brutaler Hieb | 5 | +3 | 4 |
-| 14 | +5 | Unterklassenmerkmal | 5 | +3 | 4 |
-| 15 | +5 | Anhaltender Kampfrausch | 5 | +3 | 4 |
-| 16 | +5 | Attributswerterhöhung | 5 | +4 | 4 |
-| 17 | +6 | Verbesserter Brutaler Hieb | 6 | +4 | 4 |
-| 18 | +6 | Unbändige Stärke | 6 | +4 | 4 |
-| 19 | +6 | Epische Gabe | 6 | +4 | 4 |
-| 20 | +6 | Meister der Wildnis | 6 | +4 | 4 |
+| Stufe | Übungsbonus | Klassenmerkmale                                           | Kampfrausch-Anzahl | Kampfrausch-Schaden | Waffenbeherrschung |
+| ----- | ----------- | --------------------------------------------------------- | ------------------ | ------------------- | ------------------ |
+| 1     | +2          | Kampfrausch, Ungerüstete Verteidigung, Waffenbeherrschung | 2                  | +2                  | 2                  |
+| 2     | +2          | Gefahrengespür, Rücksichtsloser Angriff                   | 2                  | +2                  | 2                  |
+| 3     | +2          | Barbaren-Unterklasse, Urwissen                            | 3                  | +2                  | 2                  |
+| 4     | +2          | Attributswerterhöhung                                     | 3                  | +2                  | 3                  |
+| 5     | +3          | Zusätzlicher Angriff, Schnelle Bewegung                   | 3                  | +2                  | 3                  |
+| 6     | +3          | Unterklassenmerkmal                                       | 4                  | +2                  | 3                  |
+| 7     | +3          | Instinktiver Sprung, Wilder Instinkt                      | 4                  | +2                  | 3                  |
+| 8     | +3          | Attributswerterhöhung                                     | 4                  | +2                  | 3                  |
+| 9     | +4          | Brutaler Hieb                                             | 4                  | +3                  | 3                  |
+| 10    | +4          | Unterklassenmerkmal                                       | 4                  | +3                  | 4                  |
+| 11    | +4          | Unerbittlicher Kampfrausch                                | 4                  | +3                  | 4                  |
+| 12    | +4          | Attributswerterhöhung                                     | 5                  | +3                  | 4                  |
+| 13    | +5          | Verbesserter Brutaler Hieb                                | 5                  | +3                  | 4                  |
+| 14    | +5          | Unterklassenmerkmal                                       | 5                  | +3                  | 4                  |
+| 15    | +5          | Anhaltender Kampfrausch                                   | 5                  | +3                  | 4                  |
+| 16    | +5          | Attributswerterhöhung                                     | 5                  | +4                  | 4                  |
+| 17    | +6          | Verbesserter Brutaler Hieb                                | 6                  | +4                  | 4                  |
+| 18    | +6          | Unbändige Stärke                                          | 6                  | +4                  | 4                  |
+| 19    | +6          | Epische Gabe                                              | 6                  | +4                  | 4                  |
+| 20    | +6          | Meister der Wildnis                                       | 6                  | +4                  | 4                  |
 
 ## Ein Barbar werden ...
 

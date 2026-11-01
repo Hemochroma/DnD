@@ -2,6 +2,10 @@
 image: "[[Ilvara.png]]"
 tags:
   - Category/NPC
+ac: "15"
+hp: 24
+level: 2
+modifier: 1
 ---
 > [!infobox]
 > # Ilvara 'Ilvy' Wavencrest
