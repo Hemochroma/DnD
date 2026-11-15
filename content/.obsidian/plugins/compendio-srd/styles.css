@@ -1,0 +1,310 @@
+/* Compendio SRD 2024 */
+
+/* Fichas, conjuros, objetos y recuadros: callouts propios (sin el plugin se ven como un callout normal).
+   Los colores van enteros y aplicados aqui mismo: hasta Obsidian 1.8 --callout-color eran tres numeros
+   ("128, 38, 22") y desde las versiones nuevas es un color; asi se ve igual en las dos. */
+.callout[data-callout="srd-ficha"],
+.callout[data-callout="srd-conjuro"],
+.callout[data-callout="srd-objeto"] {
+	--srd-color: rgb(128, 38, 22);
+	--srd-fondo: rgba(128, 38, 22, 0.06);
+	--srd-borde: rgba(128, 38, 22, 0.35);
+	--srd-banda1: rgba(128, 38, 22, 0.07);
+	--srd-banda2: rgba(128, 38, 22, 0.14);
+	--callout-icon: lucide-skull;
+	--callout-padding: 12px 16px;
+	--callout-title-size: 1.15em;
+	--callout-title-weight: 700;
+}
+
+.callout[data-callout="srd-conjuro"] {
+	--callout-icon: lucide-sparkles;
+}
+
+.callout[data-callout="srd-objeto"] {
+	--callout-icon: lucide-gem;
+}
+
+.callout[data-callout="srd-recuadro"] {
+	--srd-color: rgb(112, 98, 72);
+	--srd-fondo: rgba(112, 98, 72, 0.07);
+	--srd-borde: rgba(112, 98, 72, 0.35);
+	--callout-icon: lucide-book-open;
+	--callout-padding: 12px 16px;
+}
+
+.theme-dark .callout[data-callout="srd-ficha"],
+.theme-dark .callout[data-callout="srd-conjuro"],
+.theme-dark .callout[data-callout="srd-objeto"] {
+	--srd-color: rgb(224, 134, 108);
+	--srd-fondo: rgba(224, 134, 108, 0.07);
+	--srd-borde: rgba(224, 134, 108, 0.3);
+	--srd-banda1: rgba(224, 134, 108, 0.08);
+	--srd-banda2: rgba(224, 134, 108, 0.16);
+}
+
+.theme-dark .callout[data-callout="srd-recuadro"] {
+	--srd-color: rgb(196, 178, 146);
+	--srd-fondo: rgba(196, 178, 146, 0.07);
+	--srd-borde: rgba(196, 178, 146, 0.3);
+}
+
+.callout[data-callout^="srd-"] {
+	--callout-color: var(--srd-color);
+	background-color: var(--srd-fondo);
+	border: 1px solid var(--srd-borde);
+	border-left-width: 4px;
+	mix-blend-mode: normal;
+}
+
+.callout[data-callout^="srd-"] .callout-title,
+.callout[data-callout^="srd-"] .callout-icon .svg-icon {
+	color: var(--srd-color);
+}
+
+.callout[data-callout^="srd-"] .callout-title-inner {
+	font-variant: small-caps;
+	letter-spacing: 0.02em;
+}
+
+.callout[data-callout^="srd-"] .callout-content p {
+	margin-block: 0.3em;
+}
+
+/* la tabla de caracteristicas: tres grupos de cuatro columnas, como en las fichas de 2024 */
+.callout[data-callout="srd-ficha"] table {
+	width: 100%;
+	margin-block: 0.4em;
+	border-collapse: separate;
+	border-spacing: 0 2px;
+	font-size: var(--font-smaller);
+	font-variant-numeric: tabular-nums;
+}
+
+.callout[data-callout="srd-ficha"] th,
+.callout[data-callout="srd-ficha"] td {
+	padding: 2px 4px;
+	border: none;
+	text-align: center;
+	background: transparent;
+}
+
+.callout[data-callout="srd-ficha"] th {
+	font-size: 0.8em;
+	font-weight: 600;
+	color: var(--text-muted);
+}
+
+.callout[data-callout="srd-ficha"] td:nth-child(-n + 4),
+.callout[data-callout="srd-ficha"] td:nth-child(n + 9) {
+	background-color: var(--srd-banda1);
+}
+
+.callout[data-callout="srd-ficha"] td:nth-child(n + 5):nth-child(-n + 8) {
+	background-color: var(--srd-banda2);
+}
+
+/* Fantasy Statblocks con el diseño del compendio: la tabla de caracteristicas cabe en su tarjeta (siempre de
+   fondo claro, por eso los colores van fijos) */
+.statblock .srd-caracteristicas table {
+	width: 100%;
+	table-layout: fixed;
+	border-collapse: separate;
+	border-spacing: 0 2px;
+	margin: 0.2em 0;
+	font-size: 0.8em;
+	font-variant-numeric: tabular-nums;
+}
+
+.statblock .srd-caracteristicas th,
+.statblock .srd-caracteristicas td {
+	padding: 1px 2px;
+	border: none;
+	text-align: center;
+	background: transparent;
+	color: inherit;
+}
+
+.statblock .srd-caracteristicas th {
+	font-size: 0.8em;
+	font-weight: 600;
+	opacity: 0.75;
+}
+
+.statblock .srd-caracteristicas td:nth-child(-n + 4),
+.statblock .srd-caracteristicas td:nth-child(n + 9) {
+	background-color: rgba(128, 38, 22, 0.07);
+}
+
+.statblock .srd-caracteristicas td:nth-child(n + 5):nth-child(-n + 8) {
+	background-color: rgba(128, 38, 22, 0.14);
+}
+
+/* Vista del encuentro */
+.srd-encuentro h4 {
+	margin: 1.2em 0 0.4em;
+}
+
+.srd-encuentro h4:first-child {
+	margin-top: 0.2em;
+}
+
+.srd-filas {
+	display: flex;
+	flex-direction: column;
+	gap: 4px;
+}
+
+.srd-fila {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	min-width: 0;
+}
+
+.srd-usar-it {
+	cursor: pointer;
+	margin-bottom: 4px;
+}
+
+.srd-jugadores .srd-nombre {
+	flex-direction: row;
+}
+
+.srd-numero {
+	width: 4em;
+}
+
+.srd-texto {
+	color: var(--text-muted);
+}
+
+.srd-fila select {
+	flex: 1 1 auto;
+	min-width: 0;
+}
+
+.srd-cantidad {
+	min-width: 1.6em;
+	text-align: center;
+	font-variant-numeric: tabular-nums;
+}
+
+.srd-nombre {
+	display: flex;
+	flex-direction: column;
+	flex: 1 1 auto;
+	min-width: 0;
+}
+
+.srd-nombre small {
+	color: var(--text-muted);
+}
+
+.srd-enlace {
+	cursor: pointer;
+}
+
+.srd-icono {
+	flex: 0 0 auto;
+}
+
+.srd-vacio {
+	color: var(--text-muted);
+	margin: 0.2em 0;
+}
+
+.srd-boton-texto {
+	margin-top: 6px;
+}
+
+.srd-encuentro > button.mod-cta {
+	margin-top: 8px;
+}
+
+.srd-presupuesto {
+	display: flex;
+	flex-direction: column;
+	gap: 2px;
+}
+
+.srd-banda {
+	display: flex;
+	justify-content: space-between;
+	padding: 3px 8px;
+	border-radius: var(--radius-s);
+}
+
+.srd-banda.is-active {
+	background-color: var(--background-modifier-hover);
+	font-weight: 600;
+}
+
+.srd-gasto {
+	margin-top: 4px;
+	font-weight: 600;
+}
+
+.srd-gasto.is-over,
+.srd-aviso {
+	color: var(--text-error);
+}
+
+.srd-cifra {
+	font-variant-numeric: tabular-nums;
+}
+
+.srd-barra {
+	position: relative;
+	height: 8px;
+	margin: 6px 8px;
+	border-radius: 4px;
+	background-color: var(--background-modifier-border);
+	overflow: hidden;
+}
+
+.srd-barra-relleno {
+	width: var(--srd-ancho, 0%);
+	height: 100%;
+	background-color: var(--interactive-accent);
+}
+
+.srd-barra-marca {
+	position: absolute;
+	top: 0;
+	left: var(--srd-pos, 0%);
+	width: 2px;
+	height: 100%;
+	background-color: var(--text-normal);
+	opacity: 0.6;
+}
+
+.srd-consejos {
+	margin: 0;
+	padding-left: 1.2em;
+}
+
+.srd-consejos li {
+	margin-bottom: 4px;
+}
+
+.srd-acciones {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 6px;
+	margin-top: 1.2em;
+}
+
+/* Importar y buscar */
+.srd-aviso-boton {
+	margin-top: 8px;
+}
+
+.srd-progreso {
+	width: 100%;
+}
+
+.srd-sugerencia-detalle {
+	display: block;
+	color: var(--text-muted);
+}

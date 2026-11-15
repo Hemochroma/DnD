@@ -4,8 +4,8 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-.obsidian
-.trash
+content\.obsidian
+content\.trash
 .quartz-cache
 private/
 .replit
@@ -13,8 +13,10 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
+content\0-DM Toolkit
+content\0-Notizen
 0-DM Toolkit
-0-Notizen
+0-Notizen   
 z_Example Notes
 z_Templates
 ZoomMap

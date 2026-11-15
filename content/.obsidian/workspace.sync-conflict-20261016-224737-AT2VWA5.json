@@ -1,0 +1,413 @@
+{
+  "main": {
+    "id": "35dc58889efc7af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaaf914b8309c1fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d947c683d2c252da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Compendium/Klassen/Paladin/Unterklassen/Schwur der Urahnen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Schwur der Urahnen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef2fa061dc384dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "776915f0f047e046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2911de48d50d504c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f7191f1a02d83b6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Wuda",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "6da38734e1b60552",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          },
+          {
+            "id": "2e6355ae312b2c82",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/DnD5e-SideScreen-2014.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DnD5e-SideScreen-2014"
+            }
+          },
+          {
+            "id": "f6ef017cc52d2e49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/DM Board.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DM Board"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5
+  },
+  "right": {
+    "id": "4376769ea3073bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "09384058bb1c4e72",
+        "type": "tabs",
+        "dimension": 78.0701754385965,
+        "children": [
+          {
+            "id": "01866bcbc2fd8a19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "505cdf32bf6b016b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/0-DM Toolkit/Home Embeds.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
+            }
+          },
+          {
+            "id": "e0476cfc571d360e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "734965fc2bb6a962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/0-DM Toolkit/Home Embeds.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          },
+          {
+            "id": "bb21e6fb9beae31a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "c8c0bd3a84d4d5f1",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {},
+              "icon": "srt-ribbon",
+              "title": "Solo RPG Toolkit"
+            }
+          },
+          {
+            "id": "9f06b744419e5dab",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "78f62065b0218d76",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "3939dbe56020682d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "40a04a2cb55e71a4",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "e2bf4a1ee251e07f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "ee27dc731d491659",
+            "type": "leaf",
+            "state": {
+              "type": "modal-form-manage-forms-view",
+              "state": {},
+              "icon": "documents",
+              "title": "Manage forms"
+            }
+          },
+          {
+            "id": "2fb626726f74d769",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "9a25672ac6fb08a8",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "ae5e3049de2d758e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 14
+      },
+      {
+        "id": "97a25bef9fbe91cd",
+        "type": "tabs",
+        "dimension": 21.929824561403507,
+        "children": [
+          {
+            "id": "72681dd9efab2996",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {
+                "creatureId": null,
+                "creatureName": null
+              },
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 446.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-custom-frames:Open Obsidian Forum": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "helpmate:HelpMate": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "templater-obsidian:Templater": false,
+      "modalforms:Edit forms": false
+    }
+  },
+  "active": "d947c683d2c252da",
+  "lastOpenFiles": [
+    "1-Party/Unbenannt",
+    "3-Compendium/Klassen/Paladin/Unterklassen/~syncthing~Schwurbrecher.md.tmp",
+    "3-Compendium/Klassen/Barbar/Unterklassen/~syncthing~Berserker.md.tmp",
+    "3-Compendium/Klassen/Paladin/Unterklassen/Schwur des Ruhms.md",
+    "3-Compendium/Klassen/Paladin/Unterklassen/Schwur der Hingabe.md",
+    "3-Compendium/Klassen/Paladin/Unterklassen/Schwur der Krone.md",
+    "3-Compendium/Klassen/Paladin/Paladin.md",
+    "3-Compendium/Klassen/Mönch/Unterklassen/Weg des Schattens.md",
+    "3-Compendium/Klassen/Mönch/Unterklassen/Weg des betrunkenen Meisters.md",
+    "3-Compendium/Klassen/Mönch/Unterklassen/Weg der offenen Hand.md",
+    "3-Compendium/Klassen/Mönch/Unterklassen/Weg der vier Elemente.md",
+    "3-Compendium/Klassen/Kämpfer/Unterklassen/Samurai.md",
+    "3-Compendium/Klassen/Kämpfer/Unterklassen/Unheimlicher Ritter.md",
+    "3-Compendium/Klassen/Kämpfer/Unterklassen/Kampfmeister.md",
+    "3-Compendium/Klassen/Kämpfer/Unterklassen/Champion.md",
+    "3-Compendium/Klassen/Kämpfer/Unterklassen/Arkaner Bogenschütze.md",
+    "3-Compendium/Klassen/Kämpfer/Kämpfer.md",
+    "3-Compendium/Klassen/Druide/Unterklassen/Zirkel des Landes.md",
+    "3-Compendium/Klassen/Druide/Unterklassen/Zirkel des Mondes.md",
+    "3-Compendium/Klassen/Druide/Unterklassen/Zirkel der Sterne.md",
+    "3-Compendium/Klassen/Druide/Unterklassen/Zirkel der Sporen.md",
+    "3-Compendium/Klassen/Kleriker/Unterklassen/Dömäne des Todes.md",
+    "3-Compendium/Klassen/Kleriker/Unterklassen/Domäne des Wissens.md",
+    "3-Compendium/Klassen/Kleriker/Unterklassen/Domäne des Sturms.md",
+    "3-Compendium/Klassen/Kleriker/Unterklassen/Dömäne des Lichtes.md",
+    "3-Compendium/Klassen/Kleriker/Unterklassen/Domäne des Lebens.md",
+    "3-Compendium/Klassen/Kleriker/Unterklassen/Domäne des Krieges.md",
+    "3-Compendium/Klassen/Kleriker/Unterklassen/Domäne der Täuschung.md",
+    "3-Compendium/Klassen/Artificer/Untitled.base",
+    "z_Assets/classes/Bard/College_Of_Glamour.png",
+    "z_Assets/classes/Bard/College_Of_Valour.png",
+    "z_Assets/classes/Bard/College_Of_Swords.png",
+    "z_Assets/classes/Bard/College_Of_Lore.png",
+    "z_Assets/classes/Barbarian/Wildheart.png",
+    "z_Assets/classes/Barbarian/WildMagic.png",
+    "z_Assets/classes/Barbarian/Giant.png",
+    "z_Assets/classes/Barbarian/Berserker.png",
+    "z_Assets/classes/Barbarian/Berserker.webp",
+    "z_Assets/classes/Barbarian/Barbarian.png",
+    "z_Assets/classes/Wizard",
+    "z_Assets/classes/Warlock",
+    "z_Assets/classes/Sorcerer",
+    "z_Assets/classes/Rogue",
+    "z_Assets/classes/Ranger",
+    "z_Assets/classes/Paladin",
+    "z_Assets/classes/Monk",
+    "3-Compendium/Klassen/Canvas.canvas",
+    "0-Notizen/Ablauf  Quelle im Koniferenhain.canvas",
+    "3-Compendium/3-Compendium.canvas",
+    "3-Compendium/Monster/Monster von A-Z/Monster von A-Z.canvas",
+    "0-Scratch Notes/Untitled.canvas",
+    "0-Scratch Notes/MoC - Canvas Home Page.canvas",
+    "Untitled.canvas"
+  ]
+}

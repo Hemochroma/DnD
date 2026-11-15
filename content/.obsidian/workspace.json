@@ -11,14 +11,10 @@
             "id": "15e0170f3732c5d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Sessions/Die Götter von Morgen/2026.11.15 - Session 4.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026.11.15 - Session 4"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -299,8 +295,8 @@
   },
   "active": "15e0170f3732c5d5",
   "lastOpenFiles": [
-    "1-Sessions/Die Götter von Morgen/2026.10.31 - Session 3.md",
     "1-Sessions/Die Götter von Morgen/2026.11.15 - Session 4.md",
+    "1-Sessions/Die Götter von Morgen/2026.10.31 - Session 3.md",
     "3-Compendium/Lizenz.md",
     "3-Compendium/Start.md",
     "0-Notizen/Kampagnen Ideensammlung/Story Events.md",
