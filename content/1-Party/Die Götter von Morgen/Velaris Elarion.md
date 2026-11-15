@@ -1,13 +1,18 @@
 ---
+level: 3
+hp: 27
+ac: 13
+modifier: 5
+class: Schurke
 tags:
   - Category/Player
-typ: "Humanoide, gesinnungslos"
-gruppe: "Spieler"
+typ: Humanoide, gesinnungslos
+gruppe: Spieler
 statblock: true
-layout: "Compendio SRD 2024 (Deutsch)"
-name: "Velaris"
-type: "Humanoide, gesinnungslos"
-speed: "9 m"
+layout: Compendio SRD 2024 (Deutsch)
+name: Velaris
+type: Humanoide, gesinnungslos
+speed: 9 m
 stats:
   - 10
   - 10
@@ -15,16 +20,20 @@ stats:
   - 10
   - 10
   - 10
-senses: "Dunkelsicht 18 m, Passive Wahrnehmung 13"
-languages: "common"
+senses: Dunkelsicht 18 m, Passive Wahrnehmung 13
+languages: Gemeine
 traits:
-  - name: "Spezies"
-    desc: "[[3-Compendium/Charaktere/Spezies/Elf#Trance|Trance]], [[3-Compendium/Charaktere/Spezies/Elf#Feenblut|Feenblut]], [[3-Compendium/Charaktere/Spezies/Elf#Scharfe Sinne|Scharfe Sinne]]"
-  - name: "Klasse"
+  - name: Spezies
+    desc: "[[3-Compendium/Charaktere/Spezies/Elf#Feenblut|Feenblut]], [[3-Compendium/Charaktere/Spezies/Elf#Scharfe Sinne|Scharfe Sinne]], [[3-Compendium/Charaktere/Spezies/Elf#Trance|Trance]]"
+  - name: Klasse
+    desc: "[[Schurke#1. Stufe Hinterhältiger Angriff|Hinterhältiger Angriff]], [[Schurke#1. Stufe: Waffenbeherrschung|Waffenbeherschung]], [[Schurke#2. Stufe Raffinierte Aktion|Raffinierte Aktion]], [[Schurke#3. Stufe Zielsicher|Zielsicher]]"
+  - name: Unterklasse
     desc: ""
 actions:
-  - name: "Angriff"
-    desc: "*Nahkampfangriffswurf:* +5 (im Vorteil, wenn das Ziel vom Ankheg [[3-Compendium/Zustände/Gepackt|gepackt]] wurde), Reichweite 1,5 m. *Treffer:* 10 (2W6+3) Hiebschaden plus 3 (1W6) Säureschaden. Wenn das Ziel eine Kreatur von höchstens großer Größe ist, wird es gepackt (Flucht-SG 13)."
+  - name: Nahkampfangriff
+    desc: "*Angriffswurf:* +5 (im Vorteil, wenn das Ziel noch nicht in diesem Kampf agiert hat), Reichweite 1,5 m. *Treffer:* 1W6+GES Hiebschaden plus 2W6 Hinterhältiger Angriff (wenn im Vorteil, 1/Runde)"
+  - name: Fernkampfangriff
+    desc: "*Angriffswurf:* +5 (im Vorteil, wenn das Ziel noch nicht in diesem Kampf agiert hat), Reichweite 18 m. *Treffer:* 1W8+GES Stichschaden plus 2W6 Hinterhältiger Angriff (wenn im Vorteil, 1/Runde)"
 image: "[[Velaris Elarion.png]]"
 ---
 

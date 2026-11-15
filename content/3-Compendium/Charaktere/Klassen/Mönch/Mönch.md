@@ -22,7 +22,7 @@ image: "[[Monk_logo.png]]"
 >
 > **Anfangsausrüstung:** *Wähle A oder B aus:* (A) Speer, fünf Dolche, Handwerkszeug oder Musikinstrument (im Rahmen von „Übung im Umgang mit Werkzeug“ oben ausgewählt), Entdeckerausrüstung und 11 GM oder (B) 50 GM
 
-**Mönchsmerkmale**
+## Mönchsmerkmale
 
 | Stufe | Übungsbonus | Klassenmerkmale | Kampfkünste | Fokuspunkte | Ungerüstete Bewegung |
 | --- | --- | --- | --- | --- | --- |
@@ -52,16 +52,16 @@ image: "[[Monk_logo.png]]"
 ### Als Charakter der 1. Stufe
 
 - Du erhältst alle Merkmale in der Tabelle „Hauptmerkmale des Mönchs“.
-- Du erhältst die Merkmale der 1. Mönchsstufe, die in der Tabelle „Mönchsmerkmale“ aufgeführt sind.
+- Du erhältst die Merkmale der 1. Mönchsstufe, die in der Tabelle „[[Mönch#Mönchsmerkmale|Mönchsmerkmale]]" aufgeführt sind.
 
 ### Als Charakter mit Klassenkombination
 
 - Du erhältst das Merkmal Trefferpunktewürfel aus der Tabelle „Hauptmerkmale des Mönchs“.
-- Du erhältst die Merkmale der 1. Mönchsstufe, die in der Tabelle „Mönchsmerkmale“ aufgeführt sind.
+- Du erhältst die Merkmale der 1. Mönchsstufe, die in der Tabelle „[[Mönch#Mönchsmerkmale|Mönchsmerkmale]]" aufgeführt sind.
 
 ## Klassenmerkmale des Mönchs
 
-Als Mönch erhältst du auf den angegebenen Mönchsstufen folgende Klassenmerkmale. Diese Merkmale sind in der Tabelle „Mönchsmerkmale“ aufgeführt.
+Als Mönch erhältst du auf den angegebenen Mönchsstufen folgende Klassenmerkmale. Diese Merkmale sind in der Tabelle „[[Mönch#Mönchsmerkmale|Mönchsmerkmale]]" aufgeführt.
 
 ### 1. Stufe: Kampfkünste
 
@@ -72,7 +72,7 @@ Deine Vertrautheit mit Kampfkünsten lässt dich folgende Kampfstile mit waffenl
 
 **Waffenloser Bonusangriff:** Du kannst als Bonusaktion einen waffenlosen Angriff ausführen.
 
-**Kampfkünste-Würfel:** Bei waffenlosen Angriffen oder im Kampf mit Mönchswaffen kannst du mit 1W6 statt mit dem normalen Schadenswürfel würfeln. Dieser Würfel verändert sich auf höheren Mönchsstufen, wie in der Spalte „Kampfkünste“ der Tabelle „Mönchsmerkmale“ aufgeführt.
+**Kampfkünste-Würfel:** Bei waffenlosen Angriffen oder im Kampf mit Mönchswaffen kannst du mit 1W6 statt mit dem normalen Schadenswürfel würfeln. Dieser Würfel verändert sich auf höheren Mönchsstufen, wie in der Spalte „Kampfkünste“ der Tabelle „[[Mönch#Mönchsmerkmale|Mönchsmerkmale]]" aufgeführt.
 
 **Geschickte Angriffe:** Du kannst für deine Angriffs- und Schadenswürfe mit waffenlosen Angriffen oder Mönchswaffen deinen Geschicklichkeitsmodifikator statt des Stärkemodifikators verwenden. Außerdem kannst du, wenn du die Packen- oder die Stoßen-Option deines waffenlosen Angriffs verwendest, deinen Geschicklichkeitsmodifikator statt des Stärkemodifikators verwenden, um den Rettungswurf-SG zu bestimmen.
 
@@ -82,7 +82,7 @@ Solange du weder Rüstung noch Schild trägst, entspricht deine Basis-Rüstungsk
 
 ### 2. Stufe: Mönchsfokus
 
-Dein Fokus und deine Vertrautheit mit Kampfkünsten gestatten dir, eine Quelle außergewöhnlicher Energie in dir selbst zu nutzen. Diese Energie wird durch Fokuspunkte repräsentiert. Deine Mönchsstufe bestimmt die Anzahl deiner Punkte, die in der Spalte „Fokuspunkte“ der Tabelle „Mönchsmerkmale“ aufgeführt sind.
+Dein Fokus und deine Vertrautheit mit Kampfkünsten gestatten dir, eine Quelle außergewöhnlicher Energie in dir selbst zu nutzen. Diese Energie wird durch Fokuspunkte repräsentiert. Deine Mönchsstufe bestimmt die Anzahl deiner Punkte, die in der Spalte „Fokuspunkte“ der Tabelle „[[Mönch#Mönchsmerkmale|Mönchsmerkmale]]" aufgeführt sind.
 
 Du kannst diese Punkte verbrauchen, um bestimmte Mönchsmerkmale einzusetzen oder zu verstärken. Zu Beginn kennst du drei solche Merkmale: Geduldige Verteidigung, Schlaghagel und Windschritt (jeweils unten beschrieben).
 
@@ -92,13 +92,13 @@ Manche Merkmale, die Fokuspunkte verwenden, erfordern, dass das Ziel einen Rettu
 
 **Schlaghagel:** Du kannst 1 Fokuspunkt verbrauchen, um zwei waffenlose Angriffe als Bonusaktion auszuführen.
 
-**Geduldige Verteidigung:** Du kannst die Rückzug-Aktion als Bonusaktion ausführen. Alternativ kannst du 1 Fokuspunkt verbrauchen, um sowohl die Rückzug- als auch die Ausweichaktion als Bonusaktion auszuführen.
+**Geduldige Verteidigung:** Du kannst die [[Rückzug (Aktion)]] als Bonusaktion ausführen. Alternativ kannst du 1 Fokuspunkt verbrauchen, um sowohl die Rückzug- als auch die Ausweichaktion als Bonusaktion auszuführen.
 
-**Windschritt:** Du kannst die Spurt-Aktion als Bonusaktion ausführen. Alternativ kannst du 1 Fokuspunkt verbrauchen, um sowohl die Rückzug- als auch die Spurt-Aktion als Bonusaktion auszuführen, und deine Sprungdistanz ist in diesem Zug verdoppelt.
+**Windschritt:** Du kannst die [[Spurt (Aktion)]] als Bonusaktion ausführen. Alternativ kannst du 1 Fokuspunkt verbrauchen, um sowohl die Rückzug- als auch die Spurt-Aktion als Bonusaktion auszuführen, und deine Sprungdistanz ist in diesem Zug verdoppelt.
 
 ### 2. Stufe: Ungerüstete Bewegung
 
-Deine Bewegungsrate erhöht sich um drei Meter, sofern du weder Rüstung noch Schild trägst. Dieser Bonus erhöht sich, wenn du bestimmte Mönchsstufen erreichst, wie in der Tabelle „Mönchsmerkmale“ angegeben.
+Deine Bewegungsrate erhöht sich um drei Meter, sofern du weder Rüstung noch Schild trägst. Dieser Bonus erhöht sich, wenn du bestimmte Mönchsstufen erreichst, wie in der Tabelle „[[Mönch#Mönchsmerkmale|Mönchsmerkmale]]" angegeben.
 
 ### 2. Stufe: Unglaublicher Stoffwechsel
 

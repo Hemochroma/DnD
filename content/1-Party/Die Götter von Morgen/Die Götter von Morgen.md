@@ -21,8 +21,8 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "1-Party/Placeholder"
         - file.hasTag("Category/Player")
+        - file.folder == "1-Party/Die Götter von Morgen"
     order:
       - file.name
       - level

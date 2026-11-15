@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Compendium/Magische Gegenstände/Magische Gegenstände.md",
-                "mode": "preview",
-                "source": false
+                "file": "3-Compendium/Kreaturen/LoZ/Stalfos.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Magische Gegenstände"
+              "title": "Stalfos"
             }
           }
         ]
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Party.md",
+            "file": "3-Compendium/Kreaturen/Homebrew/Schwarm.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -165,32 +165,12 @@
         "state": {
           "type": "initiative-tracker-view",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "initiative-tracker-view"
-        }
-      },
-      {
-        "id": "15bf80e199921a6d",
-        "type": "leaf",
-        "state": {
-          "type": "DICE_ROLLER_VIEW",
-          "state": {},
-          "icon": "lucide-ghost",
-          "title": "DICE_ROLLER_VIEW"
-        }
-      },
-      {
-        "id": "b45527f8ff1687e2",
-        "type": "leaf",
-        "state": {
-          "type": "initiative-tracker-view",
-          "state": {},
           "icon": "initiative-tracker",
           "title": "Initiative Tracker"
         }
       },
       {
-        "id": "9203a0a0292172d6",
+        "id": "3a3cdca119dcece9",
         "type": "leaf",
         "state": {
           "type": "DICE_ROLLER_VIEW",
@@ -200,7 +180,7 @@
         }
       }
     ],
-    "currentTab": 5
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,14 +201,32 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "templater-obsidian:Templater": false,
-      "modalforms:Edit forms": false,
-      "compendio-srd:Begegnung öffnen": false
+      "modalforms:Edit forms": false
     }
   },
   "active": "98ecb8516f960793",
   "lastOpenFiles": [
-    "3-Compendium/Magische Gegenstände/Ring des Schwimmens.md",
+    "3-Compendium/Kreaturen/Homebrew/Schwarm.md",
+    "3-Compendium/Kreaturen/LoZ/Stalfos.md",
+    "0-DM Toolkit/Hit-Dice Calculator.md",
+    "0-DM Toolkit/Kurze & Lange Rast.md",
+    "3-Compendium/Kreaturen/SRD/Piranhaschwarm.md",
+    "3-Compendium/Kreaturen/Kreaturen.md",
+    "3-Compendium/Kreaturen/SRD/Piranha.md",
+    "3-Compendium/Kreaturen/SRD/Frosch.md",
+    "3-Compendium/Kreaturen/SRD/Oktopus.md",
+    "3-Compendium/Kreaturen/LoZ/Dodongo.md",
+    "3-Compendium/Kreaturen/LoZ/Remort.md",
+    "3-Compendium/3-Compendium.md",
+    "3-Compendium/Kreaturen/Homebrew",
+    "2-Kampagne/2-Kampagne.md",
+    "2-Kampagne/NPC/NPC.md",
+    "0-Notizen/Kampagnen Ideensammlung/Story Events.md",
+    "0-Notizen/Kampagnen Ideensammlung/Story Informations.md",
+    "2-Kampagne/NPC/Thrall.md",
+    "0-Notizen/Random Dungeon.md",
     "3-Compendium/Magische Gegenstände/Magische Gegenstände.md",
+    "3-Compendium/Magische Gegenstände/Ring des Schwimmens.md",
     "3-Compendium/Magische Gegenstände/Flugbesen.md",
     "Compendio SRD/Deutsch/Kreaturen/Dachs.md",
     "Compendio SRD/Deutsch/Kreaturen/Kreaturen.md",
@@ -236,24 +234,6 @@
     "Compendio SRD/Deutsch/Start.md",
     "3-Compendium/Monster/Monster von A-Z/Azer/Azer-Wächter.md",
     "Compendio SRD/Deutsch/Compendio SRD 2024 (Deutsch).json",
-    "Compendio SRD/Deutsch/Lizenz.md",
-    "Compendio SRD/Deutsch/Charaktere/Charaktere.md",
-    "Compendio SRD/Deutsch/Fallen/Fallen.md",
-    "Compendio SRD/Deutsch/Gifte/Gifte.md",
-    "Compendio SRD/Deutsch/Glossar/Glossar.md",
-    "Compendio SRD/Deutsch/Regeln/Regeln.md",
-    "Compendio SRD/Deutsch/Zustände/Zustände.md",
-    "Compendio SRD/Deutsch/Magische Gegenstände/Magische Gegenstände.md",
-    "Compendio SRD/Deutsch/Zauber/Zauber.md",
-    "Compendio SRD/Deutsch/Ausrüstung/Rüstungen/Schild.md",
-    "Compendio SRD/Deutsch/Ausrüstung/Rüstungen/Ritterrüstung.md",
-    "Compendio SRD/Deutsch/Ausrüstung/Rüstungen/Schienenpanzer.md",
-    "Compendio SRD/Deutsch/Ausrüstung/Rüstungen/Kettenpanzer.md",
-    "Compendio SRD/Deutsch/Ausrüstung/Rüstungen/Ringpanzer.md",
-    "Compendio SRD/Deutsch/Ausrüstung/Rüstungen/Plattenpanzer.md",
-    "Compendio SRD/Deutsch/Ausrüstung/Rüstungen/Brustplatte.md",
-    "Compendio SRD/Deutsch/Ausrüstung/Rüstungen/Schuppenpanzer.md",
-    "Compendio SRD/Deutsch/Ausrüstung/Rüstungen/Kettenhemd.md",
     "Compendio SRD/Deutsch/Ausrüstung/Rüstungen",
     "Compendio SRD/Deutsch/Ausrüstung/Waffen",
     "Compendio SRD/Deutsch/Ausrüstung/Abenteurerausrüstung",
@@ -262,7 +242,6 @@
     "Compendio SRD/Deutsch/Charaktere/Talente",
     "Compendio SRD/Deutsch/Charaktere/Spezies",
     "Compendio SRD/Deutsch/Charaktere/Hintergründe",
-    "Compendio SRD/Deutsch/Charaktere/Unterklassen",
     "z_Assets/NPC/ilvara_summary.png",
     "z_Assets/NPC/Ilvara.png",
     "z_Assets/PC/Velaris Elarion.png",

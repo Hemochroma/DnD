@@ -14,7 +14,7 @@ Barbaren, die den Pfad des Berserkers beschreiten, nutzen ihren Kampfrausch prim
 
 ## 3. Stufe: Raserei
 
-Wenn du im Kampfrausch deinen Rücksichtslosen Angriff einsetzt, fügst du dem ersten Ziel, das du in deinem Zug mit einem stärkebasierten Angriff triffst, zusätzlichen Schaden zu. Ermittle den zusätzlichen Schaden, indem du mit einer Anzahl von W6 in Höhe deines Kampfrausch-Schadensbonus würfelst und ihre Summe hinzufügst. Der Schaden ist vom selben Typ wie jener der Waffe oder des waffenlosen Angriffs, die für den Angriff verwendet wurden.
+Wenn du im Kampfrausch deinen Rücksichtslosen Angriff einsetzt, fügst du dem ersten Ziel, das du in deinem Zug mit einem stärkebasierten Angriff triffst, zusätzlichen Schaden zu. Ermittle den zusätzlichen Schaden, indem du mit einer Anzahl von W6 in Höhe deines [[Barbar#Barbarenmerkmale|Kampfrausch-Schadensbonus]] würfelst und ihre Summe hinzufügst. Der Schaden ist vom selben Typ wie jener der Waffe oder des waffenlosen Angriffs, die für den Angriff verwendet wurden.
 
 ## 6. Stufe: Geistloser Kampfrausch
 

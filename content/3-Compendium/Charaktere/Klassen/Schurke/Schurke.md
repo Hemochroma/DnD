@@ -22,7 +22,7 @@ image: "[[Rogue_logo.png]]"
 >
 > **Anfangsausrüstung:** *Wähle A oder B aus:* (A) Lederrüstung, zwei Dolche, Kurzschwert, Kurzbogen, 20 Pfeile, Köcher, Diebeswerkzeug, Einbrecherausrüstung und 8 GM oder (B) 100 GM
 
-**Schurkenmerkmale**
+## Schurkenmerkmale
 
 | Stufe | Übungsbonus | Klassenmerkmale | Hinterhältiger Angriff |
 | --- | --- | --- | --- |
@@ -79,7 +79,7 @@ Du weißt, wie man die Ablenkung eines Gegners ausnutzt und subtil zuschlägt. E
 
 Es ist kein Vorteil beim Angriffswurf erforderlich, wenn mindestens einer deiner Verbündeten sich im Abstand von bis zu 1,5 Metern vom Ziel befindet, sofern der Verbündete nicht [[Kampfunfähig|kampfunfähig]] ist und du beim Angriffswurf nicht im Nachteil bist.
 
-Der zusätzliche Schaden wird erhöht, wenn du weitere Schurkenstufen erhältst, wie in der Spalte „Hinterhältiger Angriff“ der Tabelle „Schurkenmerkmale“ dargestellt.
+Der zusätzliche Schaden wird erhöht, wenn du weitere Schurkenstufen erhältst, wie in der Spalte „Hinterhältiger Angriff“ der Tabelle "[[Schurke#Schurkenmerkmale|Schurkenmerkmale]]“ dargestellt.
 
 ### 1. Stufe: Waffenbeherrschung
 

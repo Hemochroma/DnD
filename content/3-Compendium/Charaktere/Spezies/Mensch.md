@@ -12,8 +12,11 @@ tags:
 
 Als Mensch hast du diese besonderen Merkmale:
 
-**Einfallsreich:** Du erhältst Heldische Inspiration, wann immer du eine lange Rast beendest.
+### Einfallsreich
+Du erhältst Heldische Inspiration, wann immer du eine lange Rast beendest.
 
-**Geschickt:** Du bist in einer Fertigkeit deiner Wahl geübt.
+### Geschickt
+Du bist in einer Fertigkeit deiner Wahl geübt.
 
-**Vielseitig:** Du erhältst ein Herkunftstalent deiner Wahl (siehe „Talente“). Begabt wird empfohlen.
+### Vielseitig
+Du erhältst ein Herkunftstalent deiner Wahl (siehe „Talente“). Begabt wird empfohlen.

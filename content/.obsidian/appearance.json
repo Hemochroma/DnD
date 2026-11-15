@@ -14,5 +14,6 @@
     "Mermaid_Fix_Text_Clipping",
     "Modal Forms - TTRPG Tutorials style"
   ],
-  "baseFontSize": 15
+  "baseFontSize": 15,
+  "showRibbon": true
 }

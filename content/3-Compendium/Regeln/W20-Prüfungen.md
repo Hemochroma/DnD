@@ -4,7 +4,7 @@ tags:
   - "srd/regel"
 kapitel: "Die Spielregeln"
 ---
-
+## W20-Würfe
 Ist das Ergebnis einer Aktion ungewiss, so wird mit einem W20 über Erfolg oder Misserfolg entschieden. Solche Würfe heißen W20-Prüfungen. Es gibt drei Arten von ihnen: Attributswürfe, Rettungswürfe und Angriffswürfe. Sie werden in drei Schritten ausgeführt:
 
 **1. Würfle mit 1W20:** Ziel ist stets ein möglichst hohes Ergebnis. Wenn du beim Wurf im Vorteil oder im Nachteil bist (siehe weiter hinten unter „Die Spielregeln“), würfelst du mit zwei W20, verwendest jedoch nur das Ergebnis von einem der Würfel – das höhere, wenn du im Vorteil bist, und das niedrigere, wenn du im Nachteil bist.
@@ -27,14 +27,14 @@ Attributswürfe sind nach dem Attribut benannt, dessen Modifikator sie verwenden
 
 **Beispiele für Attributswürfe**
 
-| Attribut | Würfeln, um ... |
-| --- | --- |
-| Stärke | ... etwas zu heben, zu schieben, zu ziehen oder zu zerstören |
-| Geschicklichkeit | ... sich geschickt, rasch oder leise zu bewegen |
-| Konstitution | ... die normalen körperlichen Grenzen zu überwinden |
-| Intelligenz | ... zu überlegen oder sich zu erinnern |
-| Weisheit | ... Dinge in der Umgebung oder am Verhalten von Kreaturen zu bemerken |
-| Charisma | ... Kreaturen zu beeinflussen, zu unterhalten oder zu täuschen |
+| Attribut         | Würfeln, um ...                                                       |
+| ---------------- | --------------------------------------------------------------------- |
+| Stärke           | ... etwas zu heben, zu schieben, zu ziehen oder zu zerstören          |
+| Geschicklichkeit | ... sich geschickt, rasch oder leise zu bewegen                       |
+| Konstitution     | ... die normalen körperlichen Grenzen zu überwinden                   |
+| Intelligenz      | ... zu überlegen oder sich zu erinnern                                |
+| Weisheit         | ... Dinge in der Umgebung oder am Verhalten von Kreaturen zu bemerken |
+| Charisma         | ... Kreaturen zu beeinflussen, zu unterhalten oder zu täuschen        |
 
 ### Übungsbonus
 

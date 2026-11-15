@@ -20,7 +20,7 @@ image: "[[Barbarian_logo.png]]"
 >
 > **Anfangsausrüstung:** *Wähle A oder B aus:* (A) Zweihandaxt, vier Beile, Entdeckerausrüstung und 15 GM oder (B) 75 GM
 
-**Barbarenmerkmale**
+## Barbarenmerkmale
 
 | Stufe | Übungsbonus | Klassenmerkmale                                           | Kampfrausch-Anzahl | Kampfrausch-Schaden | Waffenbeherrschung |
 | ----- | ----------- | --------------------------------------------------------- | ------------------ | ------------------- | ------------------ |
@@ -71,7 +71,7 @@ Solange dein Kampfrausch aktiv ist, gelten für ihn folgende Regeln:
 
 **Schadensresistenz:** Du bist gegen Hieb-, Stich- und Wuchtschaden resistent.
 
-**Kampfrausch-Schaden:** Wenn du einen Angriff ausführst, der Stärke erfordert – entweder mit einer Waffe oder als waffenlosen Angriff –, und dem Ziel Schaden zufügst, erhältst du einen Bonus auf den Schaden, der sich erhöht, wenn du Barbarenstufen hinzugewinnst. Dies ist in der Spalte „Kampfrausch-Schaden“ der Tabelle „Barbarenmerkmale“ aufgeführt.
+**Kampfrausch-Schaden:** Wenn du einen Angriff ausführst, der Stärke erfordert – entweder mit einer Waffe oder als waffenlosen Angriff –, und dem Ziel Schaden zufügst, erhältst du einen Bonus auf den Schaden, der sich erhöht, wenn du Barbarenstufen hinzugewinnst. Dies ist in der Spalte „Kampfrausch-Schaden“ der Tabelle „[[Barbar#Barbarenmerkmale|Barbarenmerkmale]]“ aufgeführt.
 
 **Stärkevorteil:** Du bist bei Stärkewürfen und Stärkerettungswürfen im Vorteil.
 

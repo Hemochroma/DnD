@@ -1,13 +1,16 @@
 ---
+level: 3
+hp: 33
+ac: 15
+modifier: 2
 tags:
   - Category/Player
-typ: "Humanoide, gesinnungslos"
-gruppe: "Spieler"
+gruppe: Spieler
 statblock: true
-layout: "Compendio SRD 2024 (Deutsch)"
-name: "Elora"
-type: "Humanoide, gesinnungslos"
-speed: "9 m"
+layout: Compendio SRD 2024 (Deutsch)
+name: Elora
+type: Humanoide, gesinnungslos
+speed: 9 m
 stats:
   - 10
   - 10
@@ -15,15 +18,27 @@ stats:
   - 10
   - 10
   - 10
-senses: "Passive Wahrnehmung 13"
-languages: "common"
+senses: Dunkelsicht 18 m, Passive Wahrnehmung 13
+languages: Gemeine
 traits:
-  - name: "**Elfische Abstammung 1. Stufe**"
-    desc: "<br>Deine Bewegungsrate ist auf 10,5 Meter erhöht.<br>Außerdem kennst du den Zaubertrick _[[Druidenkunst]]_."
+  - name: Zäh
+    desc: Plus zwei Trefferpunktemaximum pro Stufenaufstieg
 actions:
-  - name: "Angriff"
-    desc: "*Nahkampfangriffswurf:* +5 (im Vorteil, wenn das Ziel vom Ankheg [[3-Compendium/Zustände/Gepackt|gepackt]] wurde), Reichweite 1,5 m. *Treffer:* 10 (2W6+3) Hiebschaden plus 3 (1W6) Säureschaden. Wenn das Ziel eine Kreatur von höchstens großer Größe ist, wird es gepackt (Flucht-SG 13)."
-image: "[[Velaris Elarion.png]]"
+  - name: Waffenloser Angriff
+    desc: "*Nahkampfangriffswurf:* +5, Reichweite 1,5 m. *Treffer:* **1W6+GES** Hiebschaden."
+bonus_actions:
+  - name: Schlaghagel (1 Fokuspunkt)
+    desc: "*2 Nahkampfangriffswürfe:* +5, Reichweite 1,5 m. *Treffer:* **1W6+GES** Hiebschaden, plus ein effekt: [[Krieger der Offenen Hand#Verdattern|Verdattern]], [[Krieger der Offenen Hand#Stoßen|Stoßen]] oder [[Krieger der Offenen Hand#Umstoßen|Umstoßen]]"
+  - name: Waffenloser Bonusangriff
+    desc: "*Nahkampfangriffswurf:* +5, Reichweite 1,5 m. *Treffer:* **1W6+GES** Hiebschaden."
+  - name: Geduldige Verteidigung
+    desc: Du kannst [[Rückzug (Aktion)|Rückzug]] ausführen.<br>**1 Fokuspunkt:** Zusätzlich kannst du [[Ausweichen (Aktion)|Ausweichen]] ausführen
+  - name: "[[Mönch]]"
+    desc: Du kannst [[Spurt (Aktion)|Spurt]] ausführen.<br>**1 Fokuspunkt:** Du kannst zusätzlich [[Rückzug (Aktion)|Rückzug]] ausführen und dein Sprungreichweite ist in diesem Zug verdoppelt.
+reactions:
+  - name: "[[Mönch#3. Stufe Angriffe umleiten|Angriffe umleiten]]"
+    desc: Verringere den Schaden, bei einem Angriffswurf der dich trifft und dir Hieb-, Stich- oder Wuchtschaden zufügt, um **1W10 + GES + Mönchsstufe**. <br>**Schaden auf 0 reduziert & 1 Fokuspunkt:** Das Ziel muss ein Geschciklichkeitsrettungswurf bestehen, ansonsten erleidet es **2W6+GES**.
+image: "[[Elora.png]]"
 ---
 
 

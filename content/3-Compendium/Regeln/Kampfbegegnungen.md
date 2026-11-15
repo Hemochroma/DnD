@@ -71,7 +71,7 @@ Jede Kreatur hat einen EP-Wert im Wertekasten. Wenn du deiner Kampfbegegnung ein
 
 **Beispiel 2:** Eine Begegnung von mittlerer Schwierigkeit für fünf Charaktere der Stufe 3 hat ein EP-Budget von 225 × 5, also insgesamt 1.125 EP. Damit könntest du eine der folgenden Begegnungen gestalten:
 
-- 2 **[[3-Compendium/Kreaturen/Druide|Druide]]** (jeweils 450 EP) und 9 **[[Blutmücke|Blutmücken]]** (jeweils 25 EP), insgesamt 1.125 EP
+- 2 **[[3-Compendium/Kreaturen/SRD/Druide|Druide]]** (jeweils 450 EP) und 9 **[[Blutmücke|Blutmücken]]** (jeweils 25 EP), insgesamt 1.125 EP
 - 1 **[[Gruftschrecken|Gruftschrecken]]** (700 EP), 1 **Streitross- Skelett** (100 EP) und 6 **[[Skelett|Skelette]]** (jeweils 50 EP), insgesamt 1.100 EP
 
 **Beispiel 3:** Eine Begegnung von hoher Schwierigkeit für sechs Charaktere der Stufe 15 hat ein EP-Budget von 7.800 × 6, also insgesamt 46.800 EP. Damit könntest du diese Begegnung gestalten:

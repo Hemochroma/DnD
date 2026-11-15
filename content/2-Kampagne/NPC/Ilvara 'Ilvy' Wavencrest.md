@@ -1,11 +1,33 @@
 ---
-image: "[[Ilvara.png]]"
+level: 3
+hp: 24
+ac: 15
+modifier: 3
 tags:
   - Category/NPC
-ac: "15"
-hp: 24
-level: 2
-modifier: 1
+statblock: true
+layout: Compendio SRD 2024 (Deutsch)
+name: Ilvy
+type: Humanoide, gesinnungslos
+speed: 9 m
+stats:
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+senses: Passive Wahrnehmung 13
+languages: common
+traits:
+  - name: Spezies
+    desc: ""
+  - name: Klasse
+    desc: ""
+actions:
+  - name: Angriff
+    desc: ""
+image: "[[Ilvara.png]]"
 ---
 > [!infobox]
 > # Ilvara 'Ilvy' Wavencrest

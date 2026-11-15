@@ -19,7 +19,7 @@ PlayerKnownLanguages:
 faction_standing:
   Faction Name 1: 1
   Faction Name 3: 3
-char_race: Human
+char_race: Elf
 char_class:
 char_gender: Male
 char_status: Alive
@@ -44,7 +44,7 @@ siblings:
 obsidianUIMode: preview
 MyContainer:
 MyCategory:
-image: "Template_Player_Placeholder.png"
+image: Template_Player_Placeholder.png
 ---
 
 <%*
@@ -169,18 +169,18 @@ This is the persons description.
 
 %% MODIFY OPTIONS IN SETTINGS > COMMUNITY PLUGINS > META-BIND > EDIT TEMPLATES > template-name %%
 
-| Stat     | Value                        |
-| -------- | ---------------------------- |
-| Status   | `INPUT[template-person-status][:char_status]`                             |
-| Race     | `INPUT[template-person-race][:char_race]`                            |
-| Class    | `INPUT[template-person-class][:char_class]`                              |
-| Level    | `INPUT[number:level]`        |
-| Gender   | `INPUT[template-person-gender][:char_gender]`|
-| Age      | `INPUT[template-person-age-range][:char_age]`                              |
-| HP       | `INPUT[number:hp]`           |
-| Max HP   | `INPUT[number:max_hp]` |
-| AC       | `INPUT[number:ac]`           |
-| Modifier | `INPUT[number:modifier]`     |
+| Stat     | Value                                         |
+| -------- | --------------------------------------------- |
+| Status   | `INPUT[template-person-status][:char_status]` |
+| Race     | `INPUT[template-person-race][:char_race]`     |
+| Class    | `INPUT[template-person-class][:char_class]`   |
+| Level    | `INPUT[number:level]`                         |
+| Gender   | `INPUT[template-person-gender][:char_gender]` |
+| Age      | `INPUT[template-person-age-range][:char_age]` |
+| HP       | `INPUT[number:hp]`                            |
+| Max HP   | `INPUT[number:max_hp]`                        |
+| AC       | `INPUT[number:ac]`                            |
+| Modifier | `INPUT[number:modifier]`                      |
 
 
 # GM Notes

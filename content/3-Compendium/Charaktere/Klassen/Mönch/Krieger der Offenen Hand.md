@@ -16,11 +16,14 @@ Krieger der Offenen Hand sind Meister des waffenlosen Kampfs. Sie erlernen Techn
 
 Jedes Mal, wenn du eine Kreatur mit einem durch Schlaghagel gewährten Angriff triffst, kannst du einen der folgenden Effekte auf das Ziel wirken:
 
-**Verdattern:** Das Ziel kann bis zum Beginn seines nächsten Zugs keine Gelegenheitsangriffe ausführen.
+#### Verdattern
+Das Ziel kann bis zum Beginn seines nächsten Zugs keine Gelegenheitsangriffe ausführen.
 
-**Stoßen:** Das Ziel muss einen Stärkerettungswurf bestehen, oder es wird bis zu 4,5 Meter weit von dir weggestoßen.
+#### Stoßen
+Das Ziel muss einen Stärkerettungswurf bestehen, oder es wird bis zu 4,5 Meter weit von dir weggestoßen.
 
-**Umstoßen:** Das Ziel muss einen Geschicklichkeitsrettungswurf bestehen, oder es wird umgestoßen.
+#### Umstoßen
+Das Ziel muss einen Geschicklichkeitsrettungswurf bestehen, oder es wird umgestoßen.
 
 ## 6. Stufe: Unversehrtheit des Körpers
 

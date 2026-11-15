@@ -48,6 +48,10 @@
     "Rettungswürfe": "multitext",
     "Rüstung": "multitext",
     "Waffen": "multitext",
-    "Spezies": "multitext"
+    "Spezies": "multitext",
+    "amount": "number",
+    "Hitdice": "text",
+    "Average": "number",
+    "MaxDices": "number"
   }
 }
