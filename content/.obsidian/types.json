@@ -52,6 +52,7 @@
     "amount": "number",
     "Hitdice": "text",
     "Average": "number",
-    "MaxDices": "number"
+    "MaxDices": "number",
+    "description": "text"
   }
 }

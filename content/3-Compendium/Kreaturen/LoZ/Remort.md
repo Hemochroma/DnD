@@ -28,9 +28,7 @@ actions:
 bonus_actions:
 - name: "Erstarren:"
   desc: "Jede Kreatur im Kegel von 9 Metern, die den Remort sehen kann, muss einen **Weisheitsrettungswurf SG 12** bestehen. <br>*Misserfolg:* Die Kreatur ist bis zum Beginn ihres nächsten Zuges **[[Festgesetzt]]**. Eine Kreatur, die den Rettungswurf erfolgreich besteht oder das erstarren beendet, ist bis zum Ende des nächsten Zuges des Remorts immun gegen Erstarren.<br>Solange sich mindestens eine Kreatur innerhalb des Kegels befindet, erhöht sich die Bewegungsrate des Remorts bis zum Ende seines Zuges um 6 Meter."
-description:
-- name: ""
-  desc: "Lass dich von ihm nicht entdecken, sonst verflucht er dich und du kannst dich nicht mehr von der Stelle bewegen! Aber wenn man es positiv sehen will: Besonders stark ist er nicht. Wenn er dich festhällt, solltest du dich durch heftige Bewegung befreien können!"
+description: "Lass dich von ihm nicht entdecken, sonst verflucht er dich und du kannst dich nicht mehr von der Stelle bewegen! Aber wenn man es positiv sehen will: Besonders stark ist er nicht. Wenn er dich festhällt, solltest du dich durch heftige Bewegung befreien können!"
 ---
 
 

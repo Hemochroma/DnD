@@ -11,10 +11,14 @@
             "id": "15e0170f3732c5d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3-Compendium/Kreaturen/LoZ/Remort.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Remort"
             }
           }
         ]
@@ -295,6 +299,9 @@
   },
   "active": "15e0170f3732c5d5",
   "lastOpenFiles": [
+    "3-Compendium/Kreaturen/LoZ/Dodongo.md",
+    "3-Compendium/Kreaturen/LoZ/Eisenprinz.md",
+    "3-Compendium/Kreaturen/Homebrew/Schwarm.md",
     "1-Sessions/Die Götter von Morgen/2026.11.15 - Session 4.md",
     "1-Sessions/Die Götter von Morgen/2026.10.31 - Session 3.md",
     "3-Compendium/Lizenz.md",
@@ -326,10 +333,7 @@
     "1-Party/Die Götter von Morgen/Rika Blutaxt.md",
     "1-Party/Die Götter von Morgen/Velaris Elarion.md",
     "3-Compendium/Kreaturen/Kreaturen.md",
-    "0-DM Toolkit/DnD5e-DM Screen.md",
-    "0-DM Toolkit/DnD 5e-DM Sidescreen.md",
     "0-DM Toolkit/Battle Flowchart.canvas",
-    "3-Compendium/Regeln/Kampf.md",
     "z_Templates/Bases Templates/Bases - Recently Modified Template Content.base",
     "3-Compendium/Kreaturen/LoZ",
     "3-Compendium/Kreaturen/~syncthing~Kreaturen.md.tmp",
