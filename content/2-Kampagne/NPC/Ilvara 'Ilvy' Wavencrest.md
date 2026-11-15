@@ -1,8 +1,8 @@
 ---
 level: 3
 hp: 24
-ac: 15
-modifier: 3
+ac: 14
+modifier: 2
 tags:
   - Category/NPC
 statblock: true

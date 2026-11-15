@@ -1,8 +1,8 @@
 ---
 level: 3
-hp: 27
-ac: 13
-modifier: 5
+hp: 21
+ac: 15
+modifier: 3
 class: Schurke
 tags:
   - Category/Player

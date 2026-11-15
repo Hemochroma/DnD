@@ -1,6 +1,6 @@
 ---
 level: 3
-hp: 33
+hp: 31
 ac: 15
 modifier: 2
 tags:
