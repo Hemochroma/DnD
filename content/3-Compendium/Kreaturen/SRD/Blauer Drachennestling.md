@@ -70,17 +70,20 @@ type: Mittelgroßer Drache (chromatisch), rechtschaffen böse
 - **TP:** 65 (10d8+20)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m, Fliegen 18 m, Graben 4,5 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 17 | +3 | +3 | **GES** | 10 | +0 | +2 | **KON** | 15 | +2 | +2 |
-| **INT** | 12 | +1 | +1 | **WEI** | 11 | +0 | +2 | **CHA** | 15 | +2 | +2 |
-
 - **Rettungswürfe**: Heimlichkeit +2, Wahrnehmung +4
 - **Immunitäten:** Blitz
 - **Sinne:** Blindsicht 3 m, Dunkelsicht 18 m; Passive Wahrnehmung 14
 - **Sprachen:** Drakonisch
 - **HG:** 3 (EP 700; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 17 | +3 | +3 |
+| **GES** | 10 | +0 | +2 |
+| **KON** | 15 | +2 | +2 |
+| **INT** | 12 | +1 | +1 |
+| **WEI** | 11 | +0 | +2 |
+| **CHA** | 15 | +2 | +2 |
 
 
 

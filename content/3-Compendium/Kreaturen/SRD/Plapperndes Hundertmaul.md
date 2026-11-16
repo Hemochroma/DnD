@@ -84,16 +84,19 @@ type: Mittelgroße Aberration, chaotisch neutral
 - **TP:** 52 (7d8+21)
 - **Initiative:** -1
 - **Geschwindigkeit:** 6 m, Schwimmen 6 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 10 | +0 | +0 | **GES** | 8 | -1 | -1 | **KON** | 16 | +3 | +3 |
-| **INT** | 3 | -4 | -4 | **WEI** | 10 | +0 | +0 | **CHA** | 6 | -2 | -2 |
-
 - **Immunitäten:** Liegend
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 10
 - **Sprachen:** −
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 10 | +0 | +0 |
+| **GES** | 8 | -1 | -1 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 3 | -4 | -4 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 6 | -2 | -2 |
 
 
 ## Talente

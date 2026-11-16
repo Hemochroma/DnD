@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Compendium/Kreaturen/LoZ/Eisenprinz.md",
-                "mode": "source",
+                "file": "3-Compendium/Kreaturen/SRD/Aboleth.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Eisenprinz"
+              "title": "Aboleth"
             }
           }
         ]
@@ -234,9 +234,19 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "fc40f18b3509fc6f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       },
       {
         "id": "af7753d8c1118319",
@@ -298,6 +308,7 @@
   },
   "active": "15e0170f3732c5d5",
   "lastOpenFiles": [
+    "3-Compendium/Kreaturen/LoZ/Eisenprinz.md",
     "3-Compendium/Kreaturen/SRD/Azer-Wächter.md",
     "3-Compendium/Kreaturen/SRD/Ausgewachsener roter Drache.md",
     "3-Compendium/Kreaturen/SRD/Ausgewachsener schwarzer Drache.md",
@@ -320,7 +331,6 @@
     "3-Compendium/Kreaturen/SRD/Allosaurus.md",
     "3-Compendium/Kreaturen/SRD/Aboleth.md",
     "3-Compendium/Kreaturen/LoZ/Remort.md",
-    "3-Compendium/Kreaturen/LoZ/Eisenprinz.md",
     "3-Compendium/Kreaturen/LoZ/Dodongo.md",
     "3-Compendium/Kreaturen/SRD/Adeliger.md",
     "1-Party/Die Götter von Morgen/Rika Blutaxt.md",

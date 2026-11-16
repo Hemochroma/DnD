@@ -123,17 +123,20 @@ type: Großes celestisches Wesen, rechtschaffen neutral
 - **TP:** 199 (19d10+95)
 - **Initiative:** +12
 - **Geschwindigkeit:** 12 m, Fliegen 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 22 | +6 | +6 | **GES** | 10 | +0 | +6 | **KON** | 20 | +5 | +16 |
-| **INT** | 16 | +3 | +12 | **WEI** | 23 | +6 | +18 | **CHA** | 18 | +4 | +4 |
-
 - **Rettungswürfe**: Arkane Kunde +9, Religion +15, Wahrnehmung +12
 - **Immunitäten:** Psychisch
 - **Sinne:** Wahrer Blick 36 m; Passive Wahrnehmung 22
 - **Sprachen:** Celestisch, Gemeinsprache
 - **HG:** 17 (EP 18.000 oder 20.000 im Hort; ÜB +6)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 22 | +6 | +6 |
+| **GES** | 10 | +0 | +6 |
+| **KON** | 20 | +5 | +16 |
+| **INT** | 16 | +3 | +12 |
+| **WEI** | 23 | +6 | +18 |
+| **CHA** | 18 | +4 | +4 |
 
 
 ## Talente

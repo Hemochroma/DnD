@@ -74,16 +74,19 @@ type: Kleiner oder mittelgroßer Humanoide (Kleriker), neutral
 - **TP:** 11 (2d8+2)
 - **Initiative:** +0
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 14 | +2 | +2 | **GES** | 10 | +0 | +0 | **KON** | 12 | +1 | +1 |
-| **INT** | 10 | +0 | +0 | **WEI** | 14 | +2 | +2 | **CHA** | 11 | +0 | +0 |
-
 - **Rettungswürfe**: Heilkunde +4, Religion +2
 - **Sinne:** Passive Wahrnehmung 12
 - **Sprachen:** Gemeinsprache
 - **HG:** 1/4 (EP 50; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 14 | +2 | +2 |
+| **GES** | 10 | +0 | +0 |
+| **KON** | 12 | +1 | +1 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 14 | +2 | +2 |
+| **CHA** | 11 | +0 | +0 |
 
 
 

@@ -83,15 +83,18 @@ type: Mittelgroßes Feenwesen, chaotisch böse
 - **TP:** 52 (7d8+21)
 - **Initiative:** +1
 - **Geschwindigkeit:** 9 m, Schwimmen 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 16 | +3 | +3 | **GES** | 13 | +1 | +1 | **KON** | 16 | +3 | +3 |
-| **INT** | 12 | +1 | +1 | **WEI** | 12 | +1 | +1 | **CHA** | 13 | +1 | +1 |
-
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 11
 - **Sprachen:** Gemeinsprache, Riesisch, Urtümlich (Aqual)
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 16 | +3 | +3 |
+| **GES** | 13 | +1 | +1 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 12 | +1 | +1 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 13 | +1 | +1 |
 
 
 ## Talente

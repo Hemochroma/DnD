@@ -73,16 +73,19 @@ type: Gigantische Monstrosität, gesinnungslos
 - **TP:** 248 (16d20+80)
 - **Initiative:** +8
 - **Geschwindigkeit:** 6 m, Fliegen 36 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 28 | +9 | +9 | **GES** | 10 | +0 | +4 | **KON** | 20 | +5 | +5 |
-| **INT** | 3 | -4 | -4 | **WEI** | 10 | +0 | +4 | **CHA** | 9 | -1 | -1 |
-
 - **Rettungswürfe**: Wahrnehmung +8
 - **Sinne:** Passive Wahrnehmung 18
 - **Sprachen:** −
 - **HG:** 11 (EP 7.200; ÜB +4)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 28 | +9 | +9 |
+| **GES** | 10 | +0 | +4 |
+| **KON** | 20 | +5 | +5 |
+| **INT** | 3 | -4 | -4 |
+| **WEI** | 10 | +0 | +4 |
+| **CHA** | 9 | -1 | -1 |
 
 
 

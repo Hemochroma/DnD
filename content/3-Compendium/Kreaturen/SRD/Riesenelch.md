@@ -65,16 +65,19 @@ type: Riesiges celestisches Wesen, neutral gut
 - **TP:** 42 (5d12+10)
 - **Initiative:** +6
 - **Geschwindigkeit:** 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 19 | +4 | +10 | **GES** | 18 | +4 | +10 | **KON** | 14 | +2 | +2 |
-| **INT** | 7 | -2 | -2 | **WEI** | 14 | +2 | +2 | **CHA** | 10 | +0 | +0 |
-
 - **Rettungswürfe**: Wahrnehmung +4
 - **Sinne:** Dunkelsicht 27 m; Passive Wahrnehmung 14
 - **Sprachen:** Celestisch; versteht Elfisch, Gemeinsprache und Sylvanisch, kann sie jedoch nicht sprechen
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 19 | +4 | +10 |
+| **GES** | 18 | +4 | +10 |
+| **KON** | 14 | +2 | +2 |
+| **INT** | 7 | -2 | -2 |
+| **WEI** | 14 | +2 | +2 |
+| **CHA** | 10 | +0 | +0 |
 
 
 

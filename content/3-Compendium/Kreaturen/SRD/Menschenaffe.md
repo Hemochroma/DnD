@@ -61,16 +61,19 @@ type: Mittelgroßes Tier, gesinnungslos
 - **TP:** 19 (3d8+6)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m, Klettern 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 16 | +3 | +3 | **GES** | 14 | +2 | +2 | **KON** | 14 | +2 | +2 |
-| **INT** | 6 | -2 | -2 | **WEI** | 12 | +1 | +1 | **CHA** | 7 | -2 | -2 |
-
 - **Rettungswürfe**: Athletik +5, Wahrnehmung +3
 - **Sinne:** Passive Wahrnehmung 13
 - **Sprachen:** −
 - **HG:** 1/2 (EP 100, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 16 | +3 | +3 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 14 | +2 | +2 |
+| **INT** | 6 | -2 | -2 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 7 | -2 | -2 |
 
 
 

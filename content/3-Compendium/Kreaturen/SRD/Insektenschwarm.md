@@ -70,16 +70,19 @@ type: Mittelgroßer Schwarm winziger Tiere, gesinnungslos
 - **TP:** 19 (3d8+6)
 - **Initiative:** +1
 - **Geschwindigkeit:** 6 m, Fliegen oder Klettern 6 m (nach Wahl des SL)
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 3 | -4 | -4 | **GES** | 13 | +1 | +1 | **KON** | 14 | +2 | +2 |
-| **INT** | 1 | -5 | -5 | **WEI** | 7 | -2 | -2 | **CHA** | 1 | -5 | -5 |
-
 - **Immunitäten:** Betäubt, Bezaubert, Festgesetzt, Gelähmt, Gepackt, Liegend, Verängstigt, Versteinert
 - **Sinne:** Blindsicht 9 m; Passive Wahrnehmung 8
 - **Sprachen:** −
 - **HG:** 1/2 (EP 100, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 3 | -4 | -4 |
+| **GES** | 13 | +1 | +1 |
+| **KON** | 14 | +2 | +2 |
+| **INT** | 1 | -5 | -5 |
+| **WEI** | 7 | -2 | -2 |
+| **CHA** | 1 | -5 | -5 |
 
 
 ## Talente

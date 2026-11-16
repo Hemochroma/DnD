@@ -85,16 +85,19 @@ type: Großer Elementar, neutral
 - **TP:** 114 (12d10+48)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m, Schwimmen 27 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 14 | +2 | +2 | **KON** | 18 | +4 | +4 |
-| **INT** | 5 | -3 | -3 | **WEI** | 10 | +0 | +0 | **CHA** | 8 | -1 | -1 |
-
 - **Immunitäten:** Gift
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 10
 - **Sprachen:** Urtümlich (Aqual)
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 18 | +4 | +4 |
+| **INT** | 5 | -3 | -3 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 8 | -1 | -1 |
 
 
 ## Talente

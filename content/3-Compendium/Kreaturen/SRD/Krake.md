@@ -123,17 +123,20 @@ type: Gigantische Monstrosität (Titan), chaotisch böse
 - **TP:** 481 (26d20+208)
 - **Initiative:** +14
 - **Geschwindigkeit:** 9 m, Schwimmen 36 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 30 | +10 | +27 | **GES** | 11 | +0 | +7 | **KON** | 26 | +8 | +23 |
-| **INT** | 22 | +6 | +6 | **WEI** | 18 | +4 | +15 | **CHA** | 20 | +5 | +5 |
-
 - **Rettungswürfe**: Geschichte +13, Wahrnehmung +11
 - **Immunitäten:** Blitz, Kälte
 - **Sinne:** Wahrer Blick 36 m; Passive Wahrnehmung 21
 - **Sprachen:** Versteht Abyssisch, Celestisch, Infernalisch und Urtümlich, kann jedoch nicht sprechen; Telepathie auf 36 m
 - **HG:** 23 (EP 50.000 oder 62.000 im Hort; ÜB +7)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 30 | +10 | +27 |
+| **GES** | 11 | +0 | +7 |
+| **KON** | 26 | +8 | +23 |
+| **INT** | 22 | +6 | +6 |
+| **WEI** | 18 | +4 | +15 |
+| **CHA** | 20 | +5 | +5 |
 
 
 ## Talente

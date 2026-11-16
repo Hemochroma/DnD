@@ -65,16 +65,19 @@ type: Kleiner oder mittelgroßer Humanoide, neutral
 - **TP:** 9 (2d8)
 - **Initiative:** +1
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 11 | +0 | +0 | **GES** | 12 | +1 | +1 | **KON** | 11 | +0 | +0 |
-| **INT** | 12 | +1 | +1 | **WEI** | 14 | +2 | +2 | **CHA** | 16 | +3 | +3 |
-
 - **Rettungswürfe**: Motiv erkennen +4, Täuschen +5, Überzeugen +5
 - **Sinne:** Passive Wahrnehmung 12
 - **Sprachen:** Gemeinsprache und zwei weitere Sprachen
 - **HG:** 1/8 (EP 25; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 11 | +0 | +0 |
+| **GES** | 12 | +1 | +1 |
+| **KON** | 11 | +0 | +0 |
+| **INT** | 12 | +1 | +1 |
+| **WEI** | 14 | +2 | +2 |
+| **CHA** | 16 | +3 | +3 |
 
 
 

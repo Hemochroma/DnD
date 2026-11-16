@@ -72,16 +72,19 @@ type: Kleiner oder mittelgroßer Humanoide, neutral
 - **TP:** 52 (8d8+16)
 - **Initiative:** +0
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 16 | +3 | +3 | **GES** | 11 | +0 | +0 | **KON** | 14 | +2 | +6 |
-| **INT** | 11 | +0 | +0 | **WEI** | 11 | +0 | +2 | **CHA** | 15 | +2 | +2 |
-
 - **Immunitäten:** Verängstigt
 - **Sinne:** Passive Wahrnehmung 10
 - **Sprachen:** Gemeinsprache und eine weitere Sprache
 - **HG:** 3 (EP 700; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 16 | +3 | +3 |
+| **GES** | 11 | +0 | +0 |
+| **KON** | 14 | +2 | +6 |
+| **INT** | 11 | +0 | +0 |
+| **WEI** | 11 | +0 | +2 |
+| **CHA** | 15 | +2 | +2 |
 
 
 

@@ -155,16 +155,19 @@ type: Kleiner oder mittelgroßer Untoter, rechtschaffen böse
 - **TP:** 195 (23d8+92)
 - **Initiative:** +14
 - **Geschwindigkeit:** 12 m, Klettern 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 18 | +4 | +13 | **KON** | 18 | +4 | +13 |
-| **INT** | 17 | +3 | +3 | **WEI** | 15 | +2 | +9 | **CHA** | 18 | +4 | +13 |
-
 - **Rettungswürfe**: Heimlichkeit +9, Wahrnehmung +7
 - **Sinne:** Dunkelsicht 36 m; Passive Wahrnehmung 17
 - **Sprachen:** Gemeinsprache und zwei weitere Sprachen
 - **HG:** 13 (EP 10.000 oder 11.500 im Hort; ÜB +5)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 18 | +4 | +13 |
+| **KON** | 18 | +4 | +13 |
+| **INT** | 17 | +3 | +3 |
+| **WEI** | 15 | +2 | +9 |
+| **CHA** | 18 | +4 | +13 |
 
 
 ## Talente

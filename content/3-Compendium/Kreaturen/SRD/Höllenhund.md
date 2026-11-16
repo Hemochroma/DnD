@@ -70,17 +70,20 @@ type: Mittelgroßer Unhold, rechtschaffen böse
 - **TP:** 58 (9d8+18)
 - **Initiative:** +1
 - **Geschwindigkeit:** 15 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 17 | +3 | +3 | **GES** | 12 | +1 | +1 | **KON** | 14 | +2 | +2 |
-| **INT** | 6 | -2 | -2 | **WEI** | 13 | +1 | +1 | **CHA** | 6 | -2 | -2 |
-
 - **Rettungswürfe**: Wahrnehmung +5
 - **Immunitäten:** Feuer
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 15
 - **Sprachen:** Versteht Infernalisch, kann jedoch nicht sprechen
 - **HG:** 3 (EP 700; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 17 | +3 | +3 |
+| **GES** | 12 | +1 | +1 |
+| **KON** | 14 | +2 | +2 |
+| **INT** | 6 | -2 | -2 |
+| **WEI** | 13 | +1 | +1 |
+| **CHA** | 6 | -2 | -2 |
 
 
 ## Talente

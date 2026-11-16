@@ -61,16 +61,19 @@ type: Großer Untoter, rechtschaffen böse
 - **TP:** 22 (3d10+6)
 - **Initiative:** +1
 - **Geschwindigkeit:** 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 12 | +1 | +1 | **KON** | 15 | +2 | +2 |
-| **INT** | 2 | -4 | -4 | **WEI** | 8 | -1 | -1 | **CHA** | 5 | -3 | -3 |
-
 - **Immunitäten:** Gift
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 9
 - **Sprachen:** −
 - **HG:** 1/2 (EP 100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 12 | +1 | +1 |
+| **KON** | 15 | +2 | +2 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 8 | -1 | -1 |
+| **CHA** | 5 | -3 | -3 |
 
 
 

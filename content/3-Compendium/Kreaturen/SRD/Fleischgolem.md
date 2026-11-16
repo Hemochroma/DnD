@@ -88,16 +88,19 @@ type: Mittelgroßes Konstrukt, neutral
 - **TP:** 127 (15d8+60)
 - **Initiative:** -1
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 19 | +4 | +4 | **GES** | 9 | -1 | -1 | **KON** | 18 | +4 | +4 |
-| **INT** | 6 | -2 | -2 | **WEI** | 10 | +0 | +0 | **CHA** | 5 | -3 | -3 |
-
 - **Immunitäten:** Blitz, Gift
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 10
 - **Sprachen:** Versteht Gemeinsprache und eine weitere Sprache, kann jedoch nicht sprechen
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 19 | +4 | +4 |
+| **GES** | 9 | -1 | -1 |
+| **KON** | 18 | +4 | +4 |
+| **INT** | 6 | -2 | -2 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 5 | -3 | -3 |
 
 
 ## Talente

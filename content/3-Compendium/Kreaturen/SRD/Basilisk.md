@@ -63,15 +63,18 @@ type: Mittelgroße Monstrosität, gesinnungslos
 - **TP:** 52 (8d8+16)
 - **Initiative:** -1
 - **Geschwindigkeit:** 6 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 16 | +3 | +3 | **GES** | 8 | -1 | -1 | **KON** | 15 | +2 | +2 |
-| **INT** | 2 | -4 | -4 | **WEI** | 8 | -1 | -1 | **CHA** | 7 | -2 | -2 |
-
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 9
 - **Sprachen:** −
 - **HG:** 3 (EP 700; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 16 | +3 | +3 |
+| **GES** | 8 | -1 | -1 |
+| **KON** | 15 | +2 | +2 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 8 | -1 | -1 |
+| **CHA** | 7 | -2 | -2 |
 
 
 

@@ -73,16 +73,19 @@ type: Großer Elementar, neutral
 - **TP:** 147 (14d10+70)
 - **Initiative:** -1
 - **Geschwindigkeit:** 9 m, Graben 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 20 | +5 | +5 | **GES** | 8 | -1 | -1 | **KON** | 20 | +5 | +5 |
-| **INT** | 5 | -3 | -3 | **WEI** | 10 | +0 | +0 | **CHA** | 5 | -3 | -3 |
-
 - **Immunitäten:** Gift
 - **Sinne:** Dunkelsicht 18 m, Erschütterungssinn 18 m; Passive Wahrnehmung 10
 - **Sprachen:** Urtümlich (Terral)
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 20 | +5 | +5 |
+| **GES** | 8 | -1 | -1 |
+| **KON** | 20 | +5 | +5 |
+| **INT** | 5 | -3 | -3 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 5 | -3 | -3 |
 
 
 ## Talente

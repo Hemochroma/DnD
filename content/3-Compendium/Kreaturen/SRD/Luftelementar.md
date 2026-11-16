@@ -75,16 +75,19 @@ type: Großer Elementar, neutral
 - **TP:** 90 (12d10+24)
 - **Initiative:** +5
 - **Geschwindigkeit:** 3 m, Fliegen 27 m (Schweben)
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 14 | +2 | +2 | **GES** | 20 | +5 | +5 | **KON** | 14 | +2 | +2 |
-| **INT** | 6 | -2 | -2 | **WEI** | 10 | +0 | +0 | **CHA** | 6 | -2 | -2 |
-
 - **Immunitäten:** Gift, Schall
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 10
 - **Sprachen:** Urtümlich (Aural)
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 14 | +2 | +2 |
+| **GES** | 20 | +5 | +5 |
+| **KON** | 14 | +2 | +2 |
+| **INT** | 6 | -2 | -2 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 6 | -2 | -2 |
 
 
 ## Talente

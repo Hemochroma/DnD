@@ -56,16 +56,19 @@ type: Kleines Tier, gesinnungslos
 - **TP:** 4 (1d6+1)
 - **Initiative:** +2
 - **Geschwindigkeit:** 3 m, Fliegen 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 6 | -2 | -2 | **GES** | 15 | +2 | +2 | **KON** | 12 | +1 | +1 |
-| **INT** | 2 | -4 | -4 | **WEI** | 14 | +2 | +2 | **CHA** | 7 | -2 | -2 |
-
 - **Rettungswürfe**: Wahrnehmung +6
 - **Sinne:** Passive Wahrnehmung 16
 - **Sprachen:** −
 - **HG:** 0 (EP 10, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 6 | -2 | -2 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 12 | +1 | +1 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 14 | +2 | +2 |
+| **CHA** | 7 | -2 | -2 |
 
 
 

@@ -62,15 +62,18 @@ type: Winzige Monstrosität, gesinnungslos
 - **TP:** 5 (2d4)
 - **Initiative:** +3
 - **Geschwindigkeit:** 3 m, Fliegen 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 4 | -3 | -3 | **GES** | 16 | +3 | +3 | **KON** | 11 | +0 | +0 |
-| **INT** | 2 | -4 | -4 | **WEI** | 8 | -1 | -1 | **CHA** | 6 | -2 | -2 |
-
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 9
 - **Sprachen:** −
 - **HG:** 1/8 (EP 25; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 4 | -3 | -3 |
+| **GES** | 16 | +3 | +3 |
+| **KON** | 11 | +0 | +0 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 8 | -1 | -1 |
+| **CHA** | 6 | -2 | -2 |
 
 
 

@@ -74,16 +74,19 @@ type: Kleines Feenwesen (Goblinoide), chaotisch neutral
 - **TP:** 21 (6d6)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 10 | +0 | +0 | **GES** | 15 | +2 | +2 | **KON** | 10 | +0 | +0 |
-| **INT** | 10 | +0 | +0 | **WEI** | 8 | -1 | -1 | **CHA** | 10 | +0 | +0 |
-
 - **Rettungswürfe**: Heimlichkeit +6
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 9
 - **Sprachen:** Gemeinsprache, Goblinisch
 - **HG:** 1 (EP 200; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 10 | +0 | +0 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 10 | +0 | +0 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 8 | -1 | -1 |
+| **CHA** | 10 | +0 | +0 |
 
 
 

@@ -62,15 +62,18 @@ type: Kleiner oder mittelgroßer Humanoide, neutral
 - **TP:** 32 (5d8+10)
 - **Initiative:** +1
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 15 | +2 | +2 | **GES** | 12 | +1 | +1 | **KON** | 14 | +2 | +2 |
-| **INT** | 10 | +0 | +0 | **WEI** | 10 | +0 | +0 | **CHA** | 11 | +0 | +0 |
-
 - **Sinne:** Passive Wahrnehmung 10
 - **Sprachen:** Gemeinsprache
 - **HG:** 1/2 (EP 100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 15 | +2 | +2 |
+| **GES** | 12 | +1 | +1 |
+| **KON** | 14 | +2 | +2 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 11 | +0 | +0 |
 
 
 ## Talente

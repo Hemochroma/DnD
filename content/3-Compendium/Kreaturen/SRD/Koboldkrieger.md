@@ -63,15 +63,18 @@ type: Kleiner Drache, neutral
 - **TP:** 7 (3d6-3)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 7 | -2 | -2 | **GES** | 15 | +2 | +2 | **KON** | 9 | -1 | -1 |
-| **INT** | 8 | -1 | -1 | **WEI** | 7 | -2 | -2 | **CHA** | 8 | -1 | -1 |
-
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 8
 - **Sprachen:** Drakonisch, Gemeinsprache
 - **HG:** 1/8 (EP 25; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 7 | -2 | -2 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 9 | -1 | -1 |
+| **INT** | 8 | -1 | -1 |
+| **WEI** | 7 | -2 | -2 |
+| **CHA** | 8 | -1 | -1 |
 
 
 ## Talente

@@ -76,16 +76,19 @@ type: Große Monstrosität, gesinnungslos
 - **TP:** 45 (7d10+7)
 - **Initiative:** +3
 - **Geschwindigkeit:** 9 m, Klettern 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 15 | +2 | +2 | **GES** | 16 | +3 | +3 | **KON** | 12 | +1 | +1 |
-| **INT** | 6 | -2 | -2 | **WEI** | 10 | +0 | +0 | **CHA** | 6 | -2 | -2 |
-
 - **Rettungswürfe**: Heimlichkeit +7
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 10
 - **Sprachen:** −
 - **HG:** 3 (EP 700; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 15 | +2 | +2 |
+| **GES** | 16 | +3 | +3 |
+| **KON** | 12 | +1 | +1 |
+| **INT** | 6 | -2 | -2 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 6 | -2 | -2 |
 
 
 ## Talente

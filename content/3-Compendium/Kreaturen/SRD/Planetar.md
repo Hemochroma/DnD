@@ -101,17 +101,20 @@ type: Großes celestisches Wesen (Engel), rechtschaffen gut
 - **TP:** 262 (21d10+147)
 - **Initiative:** +10
 - **Geschwindigkeit:** 12 m, Fliegen 36 m (Schweben)
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 24 | +7 | +19 | **GES** | 20 | +5 | +5 | **KON** | 24 | +7 | +19 |
-| **INT** | 19 | +4 | +4 | **WEI** | 22 | +6 | +17 | **CHA** | 25 | +7 | +19 |
-
 - **Rettungswürfe**: Wahrnehmung +11
 - **Immunitäten:** Bezaubert, Erschöpft, Verängstigt
 - **Sinne:** Wahrer Blick 36 m; Passive Wahrnehmung 21
 - **Sprachen:** Alle; Telepathie auf 36 m
 - **HG:** 16 (EP 15.000; ÜB +5)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 24 | +7 | +19 |
+| **GES** | 20 | +5 | +5 |
+| **KON** | 24 | +7 | +19 |
+| **INT** | 19 | +4 | +4 |
+| **WEI** | 22 | +6 | +17 |
+| **CHA** | 25 | +7 | +19 |
 
 
 ## Talente

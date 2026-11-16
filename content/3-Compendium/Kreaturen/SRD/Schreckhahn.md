@@ -61,16 +61,19 @@ type: Kleine Monstrosität, gesinnungslos
 - **TP:** 22 (5d6+5)
 - **Initiative:** +1
 - **Geschwindigkeit:** 6 m, Fliegen 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 6 | -2 | -2 | **GES** | 12 | +1 | +1 | **KON** | 12 | +1 | +1 |
-| **INT** | 2 | -4 | -4 | **WEI** | 13 | +1 | +1 | **CHA** | 5 | -3 | -3 |
-
 - **Immunitäten:** Versteinert
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 11
 - **Sprachen:** −
 - **HG:** 1/2 (EP 100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 6 | -2 | -2 |
+| **GES** | 12 | +1 | +1 |
+| **KON** | 12 | +1 | +1 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 13 | +1 | +1 |
+| **CHA** | 5 | -3 | -3 |
 
 
 

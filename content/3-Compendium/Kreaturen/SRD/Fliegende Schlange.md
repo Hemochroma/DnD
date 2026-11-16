@@ -58,15 +58,18 @@ type: Winzige Monstrosität, gesinnungslos
 - **TP:** 5 (2d4)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m, Fliegen 18 m, Schwimmen 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 4 | -3 | -3 | **GES** | 15 | +2 | +2 | **KON** | 11 | +0 | +0 |
-| **INT** | 2 | -4 | -4 | **WEI** | 12 | +1 | +1 | **CHA** | 5 | -3 | -3 |
-
 - **Sinne:** Blindsicht 3 m; Passive Wahrnehmung 11
 - **Sprachen:** −
 - **HG:** 1/8 (EP 25, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 4 | -3 | -3 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 11 | +0 | +0 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 5 | -3 | -3 |
 
 
 ## Talente

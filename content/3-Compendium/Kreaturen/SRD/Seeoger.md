@@ -68,15 +68,18 @@ type: Große Monstrosität, chaotisch böse
 - **TP:** 45 (6d10+12)
 - **Initiative:** +2
 - **Geschwindigkeit:** 3 m, Schwimmen 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 15 | +2 | +2 | **KON** | 15 | +2 | +2 |
-| **INT** | 8 | -1 | -1 | **WEI** | 10 | +0 | +0 | **CHA** | 9 | -1 | -1 |
-
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 10
 - **Sprachen:** Abyssisch, Urtümlich (Aqual)
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 15 | +2 | +2 |
+| **INT** | 8 | -1 | -1 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 9 | -1 | -1 |
 
 
 ## Talente

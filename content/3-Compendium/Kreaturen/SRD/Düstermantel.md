@@ -77,16 +77,19 @@ type: Kleine Aberration, gesinnungslos
 - **TP:** 22 (5d6+5)
 - **Initiative:** +3
 - **Geschwindigkeit:** 3 m, Fliegen 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 16 | +3 | +3 | **GES** | 12 | +1 | +1 | **KON** | 13 | +1 | +1 |
-| **INT** | 2 | -4 | -4 | **WEI** | 10 | +0 | +0 | **CHA** | 5 | -3 | -3 |
-
 - **Rettungswürfe**: Heimlichkeit +3
 - **Sinne:** Blindsicht 18 m; Passive Wahrnehmung 10
 - **Sprachen:** −
 - **HG:** 1/2 (EP 100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 16 | +3 | +3 |
+| **GES** | 12 | +1 | +1 |
+| **KON** | 13 | +1 | +1 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 5 | -3 | -3 |
 
 
 

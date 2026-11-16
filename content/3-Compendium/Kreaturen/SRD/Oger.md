@@ -58,15 +58,18 @@ type: Großer Riese, chaotisch böse
 - **TP:** 68 (8d10+24)
 - **Initiative:** -1
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 19 | +4 | +4 | **GES** | 8 | -1 | -1 | **KON** | 16 | +3 | +3 |
-| **INT** | 5 | -3 | -3 | **WEI** | 7 | -2 | -2 | **CHA** | 7 | -2 | -2 |
-
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 8
 - **Sprachen:** Gemeinsprache, Riesisch
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 19 | +4 | +4 |
+| **GES** | 8 | -1 | -1 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 5 | -3 | -3 |
+| **WEI** | 7 | -2 | -2 |
+| **CHA** | 7 | -2 | -2 |
 
 
 

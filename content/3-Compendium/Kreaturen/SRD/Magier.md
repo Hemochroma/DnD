@@ -88,16 +88,19 @@ type: Kleiner oder mittelgroßer Humanoide (Magier), neutral
 - **TP:** 81 (18d8)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 9 | -1 | -1 | **GES** | 14 | +2 | +2 | **KON** | 11 | +0 | +0 |
-| **INT** | 17 | +3 | +9 | **WEI** | 12 | +1 | +5 | **CHA** | 11 | +0 | +0 |
-
 - **Rettungswürfe**: Arkane Kunde +6, Geschichte +6, Wahrnehmung +4
 - **Sinne:** Passive Wahrnehmung 14
 - **Sprachen:** Gemeinsprache und drei weitere Sprachen
 - **HG:** 6 (EP 2.300; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 9 | -1 | -1 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 11 | +0 | +0 |
+| **INT** | 17 | +3 | +9 |
+| **WEI** | 12 | +1 | +5 |
+| **CHA** | 11 | +0 | +0 |
 
 
 

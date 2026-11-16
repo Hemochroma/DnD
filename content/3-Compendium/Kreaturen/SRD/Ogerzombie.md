@@ -65,16 +65,19 @@ type: Großer Untoter, neutral böse
 - **TP:** 85 (9d10+36)
 - **Initiative:** -2
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 19 | +4 | +4 | **GES** | 6 | -2 | -2 | **KON** | 18 | +4 | +4 |
-| **INT** | 3 | -4 | -4 | **WEI** | 6 | -2 | -2 | **CHA** | 5 | -3 | -3 |
-
 - **Immunitäten:** Gift
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 8
 - **Sprachen:** Versteht Gemeinsprache und Riesisch, kann jedoch nicht sprechen
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 19 | +4 | +4 |
+| **GES** | 6 | -2 | -2 |
+| **KON** | 18 | +4 | +4 |
+| **INT** | 3 | -4 | -4 |
+| **WEI** | 6 | -2 | -2 |
+| **CHA** | 5 | -3 | -3 |
 
 
 ## Talente

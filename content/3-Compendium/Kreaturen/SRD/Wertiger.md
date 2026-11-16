@@ -80,16 +80,19 @@ type: Kleine oder mittelgroße Monstrosität (Lykanthrop), neutral
 - **TP:** 120 (16d8+48)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m, 12 m (nur in Tigergestalt)
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 17 | +3 | +3 | **GES** | 15 | +2 | +2 | **KON** | 16 | +3 | +3 |
-| **INT** | 10 | +0 | +0 | **WEI** | 13 | +1 | +1 | **CHA** | 11 | +0 | +0 |
-
 - **Rettungswürfe**: Heimlichkeit +4, Wahrnehmung +5
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 15
 - **Sprachen:** Gemeinsprache (kann in Tigergestalt nicht sprechen)
 - **HG:** 4 (EP 1.100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 17 | +3 | +3 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 13 | +1 | +1 |
+| **CHA** | 11 | +0 | +0 |
 
 
 

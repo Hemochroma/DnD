@@ -83,16 +83,19 @@ type: Mittelgroße Monstrosität, neutral böse
 - **TP:** 44 (8d8+8)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m, Klettern 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 14 | +2 | +2 | **GES** | 15 | +2 | +2 | **KON** | 13 | +1 | +1 |
-| **INT** | 7 | -2 | -2 | **WEI** | 12 | +1 | +1 | **CHA** | 8 | -1 | -1 |
-
 - **Rettungswürfe**: Heimlichkeit +4, Überlebenskunst +3, Wahrnehmung +3
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 13
 - **Sprachen:** −
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 14 | +2 | +2 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 13 | +1 | +1 |
+| **INT** | 7 | -2 | -2 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 8 | -1 | -1 |
 
 
 ## Talente

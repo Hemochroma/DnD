@@ -77,17 +77,20 @@ type: Mittelgroßer Drache (metallisch), rechtschaffen gut
 - **TP:** 39 (6d8+12)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m, Fliegen 18 m, Schwimmen 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 17 | +3 | +3 | **GES** | 10 | +0 | +2 | **KON** | 15 | +2 | +2 |
-| **INT** | 12 | +1 | +1 | **WEI** | 11 | +0 | +2 | **CHA** | 15 | +2 | +2 |
-
 - **Rettungswürfe**: Heimlichkeit +2, Wahrnehmung +4
 - **Immunitäten:** Blitz
 - **Sinne:** Blindsicht 3 m, Dunkelsicht 18 m; Passive Wahrnehmung 14
 - **Sprachen:** Drakonisch
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 17 | +3 | +3 |
+| **GES** | 10 | +0 | +2 |
+| **KON** | 15 | +2 | +2 |
+| **INT** | 12 | +1 | +1 |
+| **WEI** | 11 | +0 | +2 |
+| **CHA** | 15 | +2 | +2 |
 
 
 ## Talente

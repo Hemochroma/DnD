@@ -54,15 +54,18 @@ type: Winziges Tier, gesinnungslos
 - **TP:** 5 (2d4)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m, Schwimmen 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 2 | -4 | -4 | **GES** | 15 | +2 | +2 | **KON** | 11 | +0 | +0 |
-| **INT** | 1 | -5 | -5 | **WEI** | 10 | +0 | +0 | **CHA** | 3 | -4 | -4 |
-
 - **Sinne:** Blindsicht 3 m; Passive Wahrnehmung 10
 - **Sprachen:** −
 - **HG:** 1/8 (EP 25, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 2 | -4 | -4 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 11 | +0 | +0 |
+| **INT** | 1 | -5 | -5 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 3 | -4 | -4 |
 
 
 

@@ -104,17 +104,20 @@ type: Großer Unhold (Teufel), rechtschaffen böse
 - **TP:** 337 (27d10+189)
 - **Initiative:** +14
 - **Geschwindigkeit:** 9 m, Fliegen 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 26 | +8 | +8 | **GES** | 14 | +2 | +10 | **KON** | 24 | +7 | +7 |
-| **INT** | 22 | +6 | +6 | **WEI** | 18 | +4 | +14 | **CHA** | 24 | +7 | +7 |
-
 - **Rettungswürfe**: Überzeugen +19, Wahrnehmung +10
 - **Immunitäten:** Feuer, Gift
 - **Sinne:** Wahrer Blick 36 m; Passive Wahrnehmung 20
 - **Sprachen:** Infernalisch; Telepathie auf 36 m
 - **HG:** 20 (EP 25.000; ÜB +6)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 26 | +8 | +8 |
+| **GES** | 14 | +2 | +10 |
+| **KON** | 24 | +7 | +7 |
+| **INT** | 22 | +6 | +6 |
+| **WEI** | 18 | +4 | +14 |
+| **CHA** | 24 | +7 | +7 |
 
 
 ## Talente

@@ -71,16 +71,19 @@ type: Großes Konstrukt, gesinnungslos
 - **TP:** 27 (5d10)
 - **Initiative:** +4
 - **Geschwindigkeit:** 3 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 17 | +3 | +3 | **GES** | 14 | +2 | +2 | **KON** | 10 | +0 | +0 |
-| **INT** | 1 | -5 | -5 | **WEI** | 3 | -4 | -4 | **CHA** | 1 | -5 | -5 |
-
 - **Immunitäten:** Gift, Psychisch
 - **Sinne:** Blindsicht 18 m; Passive Wahrnehmung 6
 - **Sprachen:** −
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 17 | +3 | +3 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 10 | +0 | +0 |
+| **INT** | 1 | -5 | -5 |
+| **WEI** | 3 | -4 | -4 |
+| **CHA** | 1 | -5 | -5 |
 
 
 

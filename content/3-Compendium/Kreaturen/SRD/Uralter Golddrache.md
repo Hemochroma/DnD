@@ -121,17 +121,20 @@ type: Gigantischer Drache (metallisch), rechtschaffen gut
 - **TP:** 546 (28d20+252)
 - **Initiative:** +16
 - **Geschwindigkeit:** 12 m, Fliegen 24 m, Schwimmen 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 30 | +10 | +10 | **GES** | 14 | +2 | +11 | **KON** | 29 | +9 | +9 |
-| **INT** | 18 | +4 | +4 | **WEI** | 17 | +3 | +13 | **CHA** | 28 | +9 | +9 |
-
 - **Rettungswürfe**: Heimlichkeit +9, Motiv erkennen +10, Überzeugen +16, Wahrnehmung +17
 - **Immunitäten:** Feuer
 - **Sinne:** Blindsicht 18 m, Dunkelsicht 36 m; Passive Wahrnehmung 27
 - **Sprachen:** Drakonisch, Gemeinsprache
 - **HG:** 24 (EP 62.000 oder 75.000 im Hort; ÜB +7)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 30 | +10 | +10 |
+| **GES** | 14 | +2 | +11 |
+| **KON** | 29 | +9 | +9 |
+| **INT** | 18 | +4 | +4 |
+| **WEI** | 17 | +3 | +13 |
+| **CHA** | 28 | +9 | +9 |
 
 
 ## Talente

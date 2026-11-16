@@ -133,17 +133,20 @@ type: Gigantische Monstrosität (Titan), gesinnungslos
 - **TP:** 697 (34d20+340)
 - **Initiative:** +18
 - **Geschwindigkeit:** 18 m, Graben 12 m, Klettern 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 30 | +10 | +10 | **GES** | 11 | +0 | +9 | **KON** | 30 | +10 | +10 |
-| **INT** | 3 | -4 | +1 | **WEI** | 11 | +0 | +9 | **CHA** | 11 | +0 | +9 |
-
 - **Rettungswürfe**: Wahrnehmung +9
 - **Immunitäten:** Feuer, Gift
 - **Sinne:** Blindsicht 36 m; Passive Wahrnehmung 19
 - **Sprachen:** −
 - **HG:** 30 (EP 155.000; ÜB +9)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 30 | +10 | +10 |
+| **GES** | 11 | +0 | +9 |
+| **KON** | 30 | +10 | +10 |
+| **INT** | 3 | -4 | +1 |
+| **WEI** | 11 | +0 | +9 |
+| **CHA** | 11 | +0 | +9 |
 
 
 ## Talente

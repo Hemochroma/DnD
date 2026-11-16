@@ -71,15 +71,18 @@ type: Großes Tier, gesinnungslos
 - **TP:** 39 (6d10+6)
 - **Initiative:** +1
 - **Geschwindigkeit:** 9 m, Schwimmen 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 15 | +2 | +2 | **GES** | 13 | +1 | +1 | **KON** | 13 | +1 | +1 |
-| **INT** | 2 | -4 | -4 | **WEI** | 10 | +0 | +0 | **CHA** | 3 | -4 | -4 |
-
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 10
 - **Sprachen:** −
 - **HG:** 1 (EP 200, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 15 | +2 | +2 |
+| **GES** | 13 | +1 | +1 |
+| **KON** | 13 | +1 | +1 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 3 | -4 | -4 |
 
 
 ## Talente

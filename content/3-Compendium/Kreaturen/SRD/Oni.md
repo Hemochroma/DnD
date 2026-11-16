@@ -94,16 +94,19 @@ type: Großer Unhold, rechtschaffen böse
 - **TP:** 119 (14d10+42)
 - **Initiative:** +0
 - **Geschwindigkeit:** 9 m, Fliegen 9 m (Schweben)
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 19 | +4 | +4 | **GES** | 11 | +0 | +3 | **KON** | 16 | +3 | +9 |
-| **INT** | 14 | +2 | +2 | **WEI** | 12 | +1 | +5 | **CHA** | 15 | +2 | +7 |
-
 - **Rettungswürfe**: Arkane Kunde +5, Täuschen +8, Wahrnehmung +4
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 14
 - **Sprachen:** Gemeinsprache, Riesisch
 - **HG:** 7 (EP 2.900; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 19 | +4 | +4 |
+| **GES** | 11 | +0 | +3 |
+| **KON** | 16 | +3 | +9 |
+| **INT** | 14 | +2 | +2 |
+| **WEI** | 12 | +1 | +5 |
+| **CHA** | 15 | +2 | +7 |
 
 
 ## Talente

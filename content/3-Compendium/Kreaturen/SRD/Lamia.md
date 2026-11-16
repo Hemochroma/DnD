@@ -82,16 +82,19 @@ type: Großer Unhold, chaotisch böse
 - **TP:** 97 (13d10+26)
 - **Initiative:** +1
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 16 | +3 | +3 | **GES** | 13 | +1 | +1 | **KON** | 15 | +2 | +2 |
-| **INT** | 14 | +2 | +2 | **WEI** | 15 | +2 | +2 | **CHA** | 16 | +3 | +3 |
-
 - **Rettungswürfe**: Heimlichkeit +5, Motiv erkennen +4, Täuschen +7
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 12
 - **Sprachen:** Abyssisch, Gemeinsprache
 - **HG:** 4 (EP 1.100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 16 | +3 | +3 |
+| **GES** | 13 | +1 | +1 |
+| **KON** | 15 | +2 | +2 |
+| **INT** | 14 | +2 | +2 |
+| **WEI** | 15 | +2 | +2 |
+| **CHA** | 16 | +3 | +3 |
 
 
 

@@ -78,16 +78,19 @@ type: Riesiger Riese, neutral
 - **TP:** 126 (11d12+55)
 - **Initiative:** +5
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 23 | +6 | +6 | **GES** | 15 | +2 | +7 | **KON** | 20 | +5 | +13 |
-| **INT** | 10 | +0 | +0 | **WEI** | 12 | +1 | +5 | **CHA** | 9 | -1 | -1 |
-
 - **Rettungswürfe**: Athletik +12, Heimlichkeit +5, Wahrnehmung +4
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 14
 - **Sprachen:** Riesisch
 - **HG:** 7 (EP 2.900; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 23 | +6 | +6 |
+| **GES** | 15 | +2 | +7 |
+| **KON** | 20 | +5 | +13 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 12 | +1 | +5 |
+| **CHA** | 9 | -1 | -1 |
 
 
 

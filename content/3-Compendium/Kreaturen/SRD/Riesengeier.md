@@ -63,16 +63,19 @@ type: Große Monstrosität, neutral böse
 - **TP:** 25 (3d10+9)
 - **Initiative:** +0
 - **Geschwindigkeit:** 3 m, Fliegen 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 15 | +2 | +2 | **GES** | 10 | +0 | +0 | **KON** | 16 | +3 | +3 |
-| **INT** | 6 | -2 | -2 | **WEI** | 12 | +1 | +1 | **CHA** | 7 | -2 | -2 |
-
 - **Rettungswürfe**: Wahrnehmung +3
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 13
 - **Sprachen:** Versteht Gemeinsprache, kann jedoch nicht sprechen
 - **HG:** 1 (EP 200, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 15 | +2 | +2 |
+| **GES** | 10 | +0 | +0 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 6 | -2 | -2 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 7 | -2 | -2 |
 
 
 ## Talente

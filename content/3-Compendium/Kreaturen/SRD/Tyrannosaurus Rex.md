@@ -68,16 +68,19 @@ type: Riesiges Tier (Dinosaurier), gesinnungslos
 - **TP:** 136 (13d12+52)
 - **Initiative:** +3
 - **Geschwindigkeit:** 15 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 25 | +7 | +17 | **GES** | 10 | +0 | +0 | **KON** | 19 | +4 | +4 |
-| **INT** | 2 | -4 | -4 | **WEI** | 12 | +1 | +5 | **CHA** | 9 | -1 | -1 |
-
 - **Rettungswürfe**: Wahrnehmung +4
 - **Sinne:** Passive Wahrnehmung 14
 - **Sprachen:** −
 - **HG:** 8 (EP 3.900; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 25 | +7 | +17 |
+| **GES** | 10 | +0 | +0 |
+| **KON** | 19 | +4 | +4 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 12 | +1 | +5 |
+| **CHA** | 9 | -1 | -1 |
 
 
 

@@ -68,16 +68,19 @@ type: Kleiner Elementar, chaotisch neutral
 - **TP:** 13 (3d6+3)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 7 | -2 | -2 | **GES** | 15 | +2 | +2 | **KON** | 12 | +1 | +1 |
-| **INT** | 8 | -1 | -1 | **WEI** | 11 | +0 | +0 | **CHA** | 10 | +0 | +0 |
-
 - **Immunitäten:** Feuer
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 10
 - **Sprachen:** Urtümlich (Ignal)
 - **HG:** 1/2 (EP 100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 7 | -2 | -2 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 12 | +1 | +1 |
+| **INT** | 8 | -1 | -1 |
+| **WEI** | 11 | +0 | +0 |
+| **CHA** | 10 | +0 | +0 |
 
 
 ## Talente

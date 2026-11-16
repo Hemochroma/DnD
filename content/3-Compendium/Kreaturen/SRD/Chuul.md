@@ -77,17 +77,20 @@ type: Große Aberration, chaotisch böse
 - **TP:** 76 (9d10+27)
 - **Initiative:** +0
 - **Geschwindigkeit:** 9 m, Schwimmen 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 19 | +4 | +4 | **GES** | 10 | +0 | +0 | **KON** | 16 | +3 | +3 |
-| **INT** | 5 | -3 | -3 | **WEI** | 11 | +0 | +0 | **CHA** | 5 | -3 | -3 |
-
 - **Rettungswürfe**: Wahrnehmung +4
 - **Immunitäten:** Gift
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 14
 - **Sprachen:** Versteht Tiefensprache, kann jedoch nicht sprechen
 - **HG:** 4 (EP 1.100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 19 | +4 | +4 |
+| **GES** | 10 | +0 | +0 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 5 | -3 | -3 |
+| **WEI** | 11 | +0 | +0 |
+| **CHA** | 5 | -3 | -3 |
 
 
 ## Talente

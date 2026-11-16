@@ -56,15 +56,18 @@ type: Kleine Pflanze, neutral
 - **TP:** 10 (3d6)
 - **Initiative:** -1
 - **Geschwindigkeit:** 6 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 3 | -4 | -4 | **GES** | 8 | -1 | -1 | **KON** | 11 | +0 | +0 |
-| **INT** | 10 | +0 | +0 | **WEI** | 10 | +0 | +0 | **CHA** | 6 | -2 | -2 |
-
 - **Sinne:** Passive Wahrnehmung 10
 - **Sprachen:** Gemeinsprache und eine weitere Sprache
 - **HG:** 0 (EP 10, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 3 | -4 | -4 |
+| **GES** | 8 | -1 | -1 |
+| **KON** | 11 | +0 | +0 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 6 | -2 | -2 |
 
 
 

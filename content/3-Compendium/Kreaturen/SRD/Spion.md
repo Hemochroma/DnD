@@ -71,16 +71,19 @@ type: Kleiner oder mittelgroßer Humanoide, neutral
 - **TP:** 27 (6d8)
 - **Initiative:** +4
 - **Geschwindigkeit:** 9 m, Klettern 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 10 | +0 | +0 | **GES** | 15 | +2 | +2 | **KON** | 10 | +0 | +0 |
-| **INT** | 12 | +1 | +1 | **WEI** | 14 | +2 | +2 | **CHA** | 16 | +3 | +3 |
-
 - **Rettungswürfe**: Fingerfertigkeit +4, Heimlichkeit +6, Motiv erkennen +4, Nachforschungen +5, Täuschen +5, Wahrnehmung +6
 - **Sinne:** Passive Wahrnehmung 16
 - **Sprachen:** Gemeinsprache und eine weitere Sprache
 - **HG:** 1 (EP 200; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 10 | +0 | +0 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 10 | +0 | +0 |
+| **INT** | 12 | +1 | +1 |
+| **WEI** | 14 | +2 | +2 |
+| **CHA** | 16 | +3 | +3 |
 
 
 

@@ -70,17 +70,20 @@ type: Große Monstrosität, neutral böse
 - **TP:** 75 (10d10+20)
 - **Initiative:** +1
 - **Geschwindigkeit:** 15 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 13 | +1 | +1 | **KON** | 14 | +2 | +2 |
-| **INT** | 7 | -2 | -2 | **WEI** | 12 | +1 | +1 | **CHA** | 8 | -1 | -1 |
-
 - **Rettungswürfe**: Heimlichkeit +5, Wahrnehmung +5
 - **Immunitäten:** Kälte
 - **Sinne:** Passive Wahrnehmung 15
 - **Sprachen:** Gemeinsprache, Riesisch
 - **HG:** 3 (EP 700; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 13 | +1 | +1 |
+| **KON** | 14 | +2 | +2 |
+| **INT** | 7 | -2 | -2 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 8 | -1 | -1 |
 
 
 ## Talente

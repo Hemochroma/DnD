@@ -83,16 +83,19 @@ type: Riesiger Riese, neutral
 - **TP:** 200 (16d12+96)
 - **Initiative:** +4
 - **Geschwindigkeit:** 12 m, Fliegen 6 m (Schweben)
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 27 | +8 | +8 | **GES** | 10 | +0 | +0 | **KON** | 22 | +6 | +16 |
-| **INT** | 12 | +1 | +1 | **WEI** | 16 | +3 | +10 | **CHA** | 16 | +3 | +3 |
-
 - **Rettungswürfe**: Motiv erkennen +7, Wahrnehmung +11
 - **Sinne:** Passive Wahrnehmung 21
 - **Sprachen:** Gemeinsprache, Riesisch
 - **HG:** 9 (EP 5.000; ÜB +4)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 27 | +8 | +8 |
+| **GES** | 10 | +0 | +0 |
+| **KON** | 22 | +6 | +16 |
+| **INT** | 12 | +1 | +1 |
+| **WEI** | 16 | +3 | +10 |
+| **CHA** | 16 | +3 | +3 |
 
 
 

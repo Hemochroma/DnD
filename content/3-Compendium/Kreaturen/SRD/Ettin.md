@@ -70,17 +70,20 @@ type: Großer Riese, chaotisch böse
 - **TP:** 85 (10d10+30)
 - **Initiative:** -1
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 21 | +5 | +5 | **GES** | 8 | -1 | -1 | **KON** | 17 | +3 | +3 |
-| **INT** | 6 | -2 | -2 | **WEI** | 10 | +0 | +0 | **CHA** | 8 | -1 | -1 |
-
 - **Rettungswürfe**: Wahrnehmung +4
 - **Immunitäten:** Betäubt, Bewusstlos, Bezaubert, Blind, Taub, Verängstigt
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 14
 - **Sprachen:** Riesisch
 - **HG:** 4 (EP 1.100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 21 | +5 | +5 |
+| **GES** | 8 | -1 | -1 |
+| **KON** | 17 | +3 | +3 |
+| **INT** | 6 | -2 | -2 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 8 | -1 | -1 |
 
 
 

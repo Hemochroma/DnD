@@ -77,16 +77,19 @@ type: Mittelgroße Monstrosität, rechtschaffen böse
 - **TP:** 127 (17d8+51)
 - **Initiative:** +6
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 10 | +0 | +0 | **GES** | 17 | +3 | +3 | **KON** | 16 | +3 | +3 |
-| **INT** | 12 | +1 | +1 | **WEI** | 13 | +1 | +5 | **CHA** | 15 | +2 | +2 |
-
 - **Rettungswürfe**: Heimlichkeit +6, Täuschen +5, Wahrnehmung +4
 - **Sinne:** Dunkelsicht 45 m; Passive Wahrnehmung 14
 - **Sprachen:** Gemeinsprache und eine weitere Sprache
 - **HG:** 6 (EP 2.300; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 10 | +0 | +0 |
+| **GES** | 17 | +3 | +3 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 12 | +1 | +1 |
+| **WEI** | 13 | +1 | +5 |
+| **CHA** | 15 | +2 | +2 |
 
 
 

@@ -68,16 +68,19 @@ type: Mittelgroßes Feenwesen, chaotisch neutral
 - **TP:** 31 (7d8)
 - **Initiative:** +3
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 12 | +1 | +1 | **GES** | 16 | +3 | +3 | **KON** | 11 | +0 | +0 |
-| **INT** | 12 | +1 | +1 | **WEI** | 10 | +0 | +0 | **CHA** | 14 | +2 | +2 |
-
 - **Rettungswürfe**: Auftreten +6, Heimlichkeit +5, Wahrnehmung +2
 - **Sinne:** Passive Wahrnehmung 12
 - **Sprachen:** Elfisch, Gemeinsprache, Sylvanisch
 - **HG:** 1/2 (EP 100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 12 | +1 | +1 |
+| **GES** | 16 | +3 | +3 |
+| **KON** | 11 | +0 | +0 |
+| **INT** | 12 | +1 | +1 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 14 | +2 | +2 |
 
 
 ## Talente

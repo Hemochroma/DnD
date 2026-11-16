@@ -93,16 +93,19 @@ type: Mittelgroßes Feenwesen, neutral böse
 - **TP:** 82 (11d8+33)
 - **Initiative:** +1
 - **Geschwindigkeit:** 9 m, Schwimmen 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 12 | +1 | +1 | **KON** | 16 | +3 | +3 |
-| **INT** | 13 | +1 | +1 | **WEI** | 14 | +2 | +2 | **CHA** | 14 | +2 | +2 |
-
 - **Rettungswürfe**: Arkane Kunde +5, Heimlichkeit +3, Täuschen +4, Wahrnehmung +4
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 14
 - **Sprachen:** Elfisch, Gemeinsprache, Sylvanisch
 - **HG:** 3 (EP 700; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 12 | +1 | +1 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 13 | +1 | +1 |
+| **WEI** | 14 | +2 | +2 |
+| **CHA** | 14 | +2 | +2 |
 
 
 ## Talente

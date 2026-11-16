@@ -60,16 +60,19 @@ type: Mittelgroßes Tier, gesinnungslos
 - **TP:** 5 (1d8+1)
 - **Initiative:** +2
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 13 | +1 | +1 | **GES** | 14 | +2 | +2 | **KON** | 12 | +1 | +1 |
-| **INT** | 3 | -4 | -4 | **WEI** | 12 | +1 | +4 | **CHA** | 7 | -2 | -2 |
-
 - **Rettungswürfe**: Wahrnehmung +5
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 15
 - **Sprachen:** −
 - **HG:** 1/8 (EP 25, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 13 | +1 | +1 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 12 | +1 | +1 |
+| **INT** | 3 | -4 | -4 |
+| **WEI** | 12 | +1 | +4 |
+| **CHA** | 7 | -2 | -2 |
 
 
 

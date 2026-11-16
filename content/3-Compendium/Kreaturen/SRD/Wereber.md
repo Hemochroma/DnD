@@ -81,16 +81,19 @@ type: Kleine oder mittelgroße Monstrosität (Lykanthrop), neutral böse
 - **TP:** 97 (15d8+30)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m, 12 m (nur in Ebergestalt)
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 17 | +3 | +3 | **GES** | 10 | +0 | +0 | **KON** | 15 | +2 | +2 |
-| **INT** | 10 | +0 | +0 | **WEI** | 11 | +0 | +0 | **CHA** | 8 | -1 | -1 |
-
 - **Rettungswürfe**: Wahrnehmung +2
 - **Sinne:** Passive Wahrnehmung 12
 - **Sprachen:** Gemeinsprache (kann in Ebergestalt nicht sprechen)
 - **HG:** 4 (EP 1.100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 17 | +3 | +3 |
+| **GES** | 10 | +0 | +0 |
+| **KON** | 15 | +2 | +2 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 11 | +0 | +0 |
+| **CHA** | 8 | -1 | -1 |
 
 
 

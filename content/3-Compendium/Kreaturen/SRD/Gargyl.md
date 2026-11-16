@@ -66,17 +66,20 @@ type: Mittelgroßer Elementar, chaotisch böse
 - **TP:** 67 (9d8+27)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m, Fliegen 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 15 | +2 | +2 | **GES** | 11 | +0 | +0 | **KON** | 16 | +3 | +3 |
-| **INT** | 6 | -2 | -2 | **WEI** | 11 | +0 | +0 | **CHA** | 7 | -2 | -2 |
-
 - **Rettungswürfe**: Heimlichkeit +4
 - **Immunitäten:** Gift
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 10
 - **Sprachen:** Urtümlich (Terral)
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 15 | +2 | +2 |
+| **GES** | 11 | +0 | +0 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 6 | -2 | -2 |
+| **WEI** | 11 | +0 | +0 |
+| **CHA** | 7 | -2 | -2 |
 
 
 ## Talente

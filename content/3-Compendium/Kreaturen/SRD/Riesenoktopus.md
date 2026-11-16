@@ -71,16 +71,19 @@ type: Großes Tier, gesinnungslos
 - **TP:** 45 (7d10+7)
 - **Initiative:** +1
 - **Geschwindigkeit:** 3 m, Schwimmen 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 17 | +3 | +3 | **GES** | 13 | +1 | +1 | **KON** | 13 | +1 | +1 |
-| **INT** | 5 | -3 | -3 | **WEI** | 10 | +0 | +0 | **CHA** | 4 | -3 | -3 |
-
 - **Rettungswürfe**: Heimlichkeit +5, Wahrnehmung +4
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 14
 - **Sprachen:** −
 - **HG:** 1 (EP 200, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 17 | +3 | +3 |
+| **GES** | 13 | +1 | +1 |
+| **KON** | 13 | +1 | +1 |
+| **INT** | 5 | -3 | -3 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 4 | -3 | -3 |
 
 
 ## Talente

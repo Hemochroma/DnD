@@ -68,16 +68,19 @@ type: Großer Unhold, neutral böse
 - **TP:** 68 (8d10+24)
 - **Initiative:** +2
 - **Geschwindigkeit:** 18 m, Fliegen 27 m (Schweben)
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 15 | +2 | +2 | **KON** | 16 | +3 | +3 |
-| **INT** | 10 | +0 | +0 | **WEI** | 13 | +1 | +1 | **CHA** | 15 | +2 | +2 |
-
 - **Immunitäten:** Feuer
 - **Sinne:** Passive Wahrnehmung 11
 - **Sprachen:** Versteht Abyssisch, Gemeinsprache und Infernalisch, kann jedoch nicht sprechen
 - **HG:** 3 (EP 700; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 13 | +1 | +1 |
+| **CHA** | 15 | +2 | +2 |
 
 
 ## Talente

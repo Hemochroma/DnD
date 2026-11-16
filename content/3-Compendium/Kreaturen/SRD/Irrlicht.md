@@ -82,16 +82,19 @@ type: Winziger Untoter, chaotisch böse
 - **TP:** 27 (11d4)
 - **Initiative:** +9
 - **Geschwindigkeit:** 1,5 m, Fliegen 15 m (Schweben)
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 1 | -5 | -5 | **GES** | 28 | +9 | +9 | **KON** | 10 | +0 | +0 |
-| **INT** | 13 | +1 | +1 | **WEI** | 14 | +2 | +2 | **CHA** | 11 | +0 | +0 |
-
 - **Immunitäten:** Blitz, Gift
 - **Sinne:** Dunkelsicht 36 m; Passive Wahrnehmung 12
 - **Sprachen:** Gemeinsprache und eine weitere Sprache
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 1 | -5 | -5 |
+| **GES** | 28 | +9 | +9 |
+| **KON** | 10 | +0 | +0 |
+| **INT** | 13 | +1 | +1 |
+| **WEI** | 14 | +2 | +2 |
+| **CHA** | 11 | +0 | +0 |
 
 
 ## Talente

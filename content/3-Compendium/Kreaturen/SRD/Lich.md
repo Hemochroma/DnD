@@ -129,17 +129,20 @@ type: Mittelgroßer Untoter (Magier), neutral böse
 - **TP:** 315 (42d8+126)
 - **Initiative:** +17
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 11 | +0 | +0 | **GES** | 16 | +3 | +13 | **KON** | 16 | +3 | +13 |
-| **INT** | 21 | +5 | +17 | **WEI** | 14 | +2 | +11 | **CHA** | 16 | +3 | +3 |
-
 - **Rettungswürfe**: Arkane Kunde +19, Geschichte +12, Motiv erkennen +9, Wahrnehmung +9
 - **Immunitäten:** Gift, Nekrotisch
 - **Sinne:** Wahrer Blick 36 m; Passive Wahrnehmung 19
 - **Sprachen:** Alle
 - **HG:** 21 (EP 33.000 oder 41.000 im Hort; ÜB +7)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 11 | +0 | +0 |
+| **GES** | 16 | +3 | +13 |
+| **KON** | 16 | +3 | +13 |
+| **INT** | 21 | +5 | +17 |
+| **WEI** | 14 | +2 | +11 |
+| **CHA** | 16 | +3 | +3 |
 
 
 ## Talente

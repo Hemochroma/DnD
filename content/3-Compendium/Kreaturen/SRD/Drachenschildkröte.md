@@ -74,15 +74,18 @@ type: Gigantischer Drache, neutral
 - **TP:** 356 (23d20+115)
 - **Initiative:** +6
 - **Geschwindigkeit:** 6 m, Schwimmen 15 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 25 | +7 | +7 | **GES** | 10 | +0 | +0 | **KON** | 20 | +5 | +16 |
-| **INT** | 10 | +0 | +0 | **WEI** | 12 | +1 | +8 | **CHA** | 12 | +1 | +1 |
-
 - **Sinne:** Dunkelsicht 36 m; Passive Wahrnehmung 11
 - **Sprachen:** Drakonisch, Urtümlich (Aqual)
 - **HG:** 17 (EP 18.000; ÜB +6)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 25 | +7 | +7 |
+| **GES** | 10 | +0 | +0 |
+| **KON** | 20 | +5 | +16 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 12 | +1 | +8 |
+| **CHA** | 12 | +1 | +1 |
 
 
 ## Talente

@@ -63,16 +63,19 @@ type: Mittelgroßes Feenwesen, rechtschaffen gut
 - **TP:** 22 (4d8+4)
 - **Initiative:** +3
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 12 | +1 | +1 | **GES** | 17 | +3 | +3 | **KON** | 12 | +1 | +1 |
-| **INT** | 10 | +0 | +0 | **WEI** | 13 | +1 | +1 | **CHA** | 11 | +0 | +0 |
-
 - **Rettungswürfe**: Heimlichkeit +5, Wahrnehmung +5
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 15
 - **Sprachen:** Flimmerhundisch; versteht Elfisch und Sylvanisch, kann sie jedoch nicht sprechen
 - **HG:** 1/4 (EP 50, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 12 | +1 | +1 |
+| **GES** | 17 | +3 | +3 |
+| **KON** | 12 | +1 | +1 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 13 | +1 | +1 |
+| **CHA** | 11 | +0 | +0 |
 
 
 

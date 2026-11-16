@@ -132,17 +132,20 @@ type: Kleiner oder mittelgroßer Untoter (Kleriker), rechtschaffen böse
 - **TP:** 187 (25d8+75)
 - **Initiative:** +10
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 10 | +0 | +0 | **KON** | 17 | +3 | +3 |
-| **INT** | 11 | +0 | +5 | **WEI** | 19 | +4 | +13 | **CHA** | 16 | +3 | +3 |
-
 - **Rettungswürfe**: Geschichte +5, Religion +5, Wahrnehmung +9
 - **Immunitäten:** Gift, Nekrotisch
 - **Sinne:** Wahrer Blick 18 m; Passive Wahrnehmung 19
 - **Sprachen:** Gemeinsprache und drei weitere Sprachen
 - **HG:** 15 (EP 13.000 oder 15.000 im Hort; ÜB +5)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 10 | +0 | +0 |
+| **KON** | 17 | +3 | +3 |
+| **INT** | 11 | +0 | +5 |
+| **WEI** | 19 | +4 | +13 |
+| **CHA** | 16 | +3 | +3 |
 
 
 ## Talente

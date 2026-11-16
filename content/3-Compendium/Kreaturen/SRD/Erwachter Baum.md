@@ -56,15 +56,18 @@ type: Riesige Pflanze, neutral
 - **TP:** 59 (7d12+14)
 - **Initiative:** -2
 - **Geschwindigkeit:** 6 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 19 | +4 | +4 | **GES** | 6 | -2 | -2 | **KON** | 15 | +2 | +2 |
-| **INT** | 10 | +0 | +0 | **WEI** | 10 | +0 | +0 | **CHA** | 7 | -2 | -2 |
-
 - **Sinne:** Passive Wahrnehmung 10
 - **Sprachen:** Gemeinsprache und eine weitere Sprache
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 19 | +4 | +4 |
+| **GES** | 6 | -2 | -2 |
+| **KON** | 15 | +2 | +2 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 7 | -2 | -2 |
 
 
 

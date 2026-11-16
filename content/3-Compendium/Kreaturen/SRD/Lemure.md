@@ -66,16 +66,19 @@ type: Mittelgroßer Unhold (Teufel), rechtschaffen böse
 - **TP:** 9 (2d8)
 - **Initiative:** -3
 - **Geschwindigkeit:** 6 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 10 | +0 | +0 | **GES** | 5 | -3 | -3 | **KON** | 11 | +0 | +0 |
-| **INT** | 1 | -5 | -5 | **WEI** | 11 | +0 | +0 | **CHA** | 3 | -4 | -4 |
-
 - **Immunitäten:** Feuer, Gift
 - **Sinne:** Dunkelsicht 36 m (wird nicht durch magische Dunkelheit beeinträchtigt); Passive Wahrnehmung 10
 - **Sprachen:** Versteht Infernalisch, kann jedoch nicht sprechen
 - **HG:** 0 (EP 10; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 10 | +0 | +0 |
+| **GES** | 5 | -3 | -3 |
+| **KON** | 11 | +0 | +0 |
+| **INT** | 1 | -5 | -5 |
+| **WEI** | 11 | +0 | +0 |
+| **CHA** | 3 | -4 | -4 |
 
 
 ## Talente

@@ -60,16 +60,19 @@ type: Mittelgroßes Tier (Dinosaurier), gesinnungslos
 - **TP:** 13 (3d8)
 - **Initiative:** +2
 - **Geschwindigkeit:** 3 m, Fliegen 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 12 | +1 | +1 | **GES** | 15 | +2 | +2 | **KON** | 10 | +0 | +0 |
-| **INT** | 2 | -4 | -4 | **WEI** | 9 | -1 | -1 | **CHA** | 5 | -3 | -3 |
-
 - **Rettungswürfe**: Wahrnehmung +1
 - **Sinne:** Passive Wahrnehmung 11
 - **Sprachen:** −
 - **HG:** 1/4 (EP 50; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 12 | +1 | +1 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 10 | +0 | +0 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 9 | -1 | -1 |
+| **CHA** | 5 | -3 | -3 |
 
 
 ## Talente

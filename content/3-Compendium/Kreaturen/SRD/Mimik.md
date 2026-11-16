@@ -77,17 +77,20 @@ type: Mittelgroße Monstrosität, neutral
 - **TP:** 58 (9d8+18)
 - **Initiative:** +3
 - **Geschwindigkeit:** 6 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 17 | +3 | +3 | **GES** | 12 | +1 | +1 | **KON** | 15 | +2 | +2 |
-| **INT** | 5 | -3 | -3 | **WEI** | 13 | +1 | +1 | **CHA** | 8 | -1 | -1 |
-
 - **Rettungswürfe**: Heimlichkeit +5
 - **Immunitäten:** Säure
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 11
 - **Sprachen:** −
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 17 | +3 | +3 |
+| **GES** | 12 | +1 | +1 |
+| **KON** | 15 | +2 | +2 |
+| **INT** | 5 | -3 | -3 |
+| **WEI** | 13 | +1 | +1 |
+| **CHA** | 8 | -1 | -1 |
 
 
 ## Talente

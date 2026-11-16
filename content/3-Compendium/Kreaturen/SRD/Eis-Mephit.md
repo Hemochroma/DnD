@@ -74,17 +74,20 @@ type: Kleiner Elementar, neutral böse
 - **TP:** 21 (6d6)
 - **Initiative:** +1
 - **Geschwindigkeit:** 9 m, Fliegen 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 7 | -2 | -2 | **GES** | 13 | +1 | +1 | **KON** | 10 | +0 | +0 |
-| **INT** | 9 | -1 | -1 | **WEI** | 11 | +0 | +0 | **CHA** | 12 | +1 | +1 |
-
 - **Rettungswürfe**: Heimlichkeit +3, Wahrnehmung +2
 - **Immunitäten:** Gift, Kälte
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 12
 - **Sprachen:** Urtümlich (Aqual, Aural)
 - **HG:** 1/2 (EP 100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 7 | -2 | -2 |
+| **GES** | 13 | +1 | +1 |
+| **KON** | 10 | +0 | +0 |
+| **INT** | 9 | -1 | -1 |
+| **WEI** | 11 | +0 | +0 |
+| **CHA** | 12 | +1 | +1 |
 
 
 ## Talente

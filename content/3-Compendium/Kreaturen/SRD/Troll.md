@@ -76,16 +76,19 @@ type: Großer Riese, chaotisch böse
 - **TP:** 94 (9d10+45)
 - **Initiative:** +1
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 13 | +1 | +1 | **KON** | 20 | +5 | +5 |
-| **INT** | 7 | -2 | -2 | **WEI** | 9 | -1 | -1 | **CHA** | 7 | -2 | -2 |
-
 - **Rettungswürfe**: Wahrnehmung +5
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 15
 - **Sprachen:** Riesisch
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 13 | +1 | +1 |
+| **KON** | 20 | +5 | +5 |
+| **INT** | 7 | -2 | -2 |
+| **WEI** | 9 | -1 | -1 |
+| **CHA** | 7 | -2 | -2 |
 
 
 ## Talente

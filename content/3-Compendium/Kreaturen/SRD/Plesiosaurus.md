@@ -60,16 +60,19 @@ type: Großes Tier (Dinosaurier), gesinnungslos
 - **TP:** 68 (8d10+24)
 - **Initiative:** +2
 - **Geschwindigkeit:** 6 m, Schwimmen 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 15 | +2 | +2 | **KON** | 16 | +3 | +3 |
-| **INT** | 2 | -4 | -4 | **WEI** | 12 | +1 | +1 | **CHA** | 5 | -3 | -3 |
-
 - **Rettungswürfe**: Heimlichkeit +4, Wahrnehmung +3
 - **Sinne:** Passive Wahrnehmung 13
 - **Sprachen:** −
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 5 | -3 | -3 |
 
 
 ## Talente

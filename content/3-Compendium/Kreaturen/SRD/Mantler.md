@@ -88,17 +88,20 @@ type: Große Aberration, chaotisch neutral
 - **TP:** 91 (14d10+14)
 - **Initiative:** +5
 - **Geschwindigkeit:** 3 m, Fliegen 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 17 | +3 | +3 | **GES** | 15 | +2 | +2 | **KON** | 12 | +1 | +1 |
-| **INT** | 13 | +1 | +1 | **WEI** | 14 | +2 | +2 | **CHA** | 7 | -2 | -2 |
-
 - **Rettungswürfe**: Heimlichkeit +5
 - **Immunitäten:** Verängstigt
 - **Sinne:** Dunkelsicht 36 m; Passive Wahrnehmung 12
 - **Sprachen:** Gemeinsprache der Unterreiche, Tiefensprache
 - **HG:** 8 (EP 3.900; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 17 | +3 | +3 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 12 | +1 | +1 |
+| **INT** | 13 | +1 | +1 |
+| **WEI** | 14 | +2 | +2 |
+| **CHA** | 7 | -2 | -2 |
 
 
 ## Talente

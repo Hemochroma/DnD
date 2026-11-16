@@ -96,17 +96,20 @@ type: Riesiger Drache (chromatisch), chaotisch böse
 - **TP:** 200 (16d12+96)
 - **Initiative:** +10
 - **Geschwindigkeit:** 12 m, Fliegen 24 m, Graben 9 m, Schwimmen 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 22 | +6 | +6 | **GES** | 10 | +0 | +5 | **KON** | 22 | +6 | +6 |
-| **INT** | 8 | -1 | -1 | **WEI** | 12 | +1 | +7 | **CHA** | 12 | +1 | +1 |
-
 - **Rettungswürfe**: Heimlichkeit +5, Wahrnehmung +11
 - **Immunitäten:** Kälte
 - **Sinne:** Blindsicht 18 m, Dunkelsicht 36 m; Passive Wahrnehmung 21
 - **Sprachen:** Drakonisch, Gemeinsprache
 - **HG:** 13 (EP 10.000 oder 11.500 im Hort; ÜB +5)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 22 | +6 | +6 |
+| **GES** | 10 | +0 | +5 |
+| **KON** | 22 | +6 | +6 |
+| **INT** | 8 | -1 | -1 |
+| **WEI** | 12 | +1 | +7 |
+| **CHA** | 12 | +1 | +1 |
 
 
 ## Talente

@@ -65,16 +65,19 @@ type: Mittelgroßer Untoter, chaotisch böse
 - **TP:** 22 (5d8)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 13 | +1 | +1 | **GES** | 15 | +2 | +2 | **KON** | 10 | +0 | +0 |
-| **INT** | 7 | -2 | -2 | **WEI** | 10 | +0 | +0 | **CHA** | 6 | -2 | -2 |
-
 - **Immunitäten:** Gift
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 10
 - **Sprachen:** Gemeinsprache
 - **HG:** 1 (EP 200; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 13 | +1 | +1 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 10 | +0 | +0 |
+| **INT** | 7 | -2 | -2 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 6 | -2 | -2 |
 
 
 

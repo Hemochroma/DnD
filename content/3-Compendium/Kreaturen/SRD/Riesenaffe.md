@@ -71,16 +71,19 @@ type: Riesiges Tier, gesinnungslos
 - **TP:** 168 (16d12+64)
 - **Initiative:** +5
 - **Geschwindigkeit:** 12 m, Klettern 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 23 | +6 | +6 | **GES** | 14 | +2 | +2 | **KON** | 18 | +4 | +4 |
-| **INT** | 5 | -3 | -3 | **WEI** | 12 | +1 | +1 | **CHA** | 7 | -2 | -2 |
-
 - **Rettungswürfe**: Athletik +9, Überlebenskunst +4, Wahrnehmung +4
 - **Sinne:** Passive Wahrnehmung 14
 - **Sprachen:** −
 - **HG:** 7 (EP 2.900; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 23 | +6 | +6 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 18 | +4 | +4 |
+| **INT** | 5 | -3 | -3 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 7 | -2 | -2 |
 
 
 

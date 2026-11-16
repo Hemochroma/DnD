@@ -91,16 +91,19 @@ type: Großer Schlick, gesinnungslos
 - **TP:** 68 (8d10+24)
 - **Initiative:** -3
 - **Geschwindigkeit:** 6 m, Klettern 6 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 16 | +3 | +3 | **GES** | 5 | -3 | -3 | **KON** | 16 | +3 | +3 |
-| **INT** | 1 | -5 | -5 | **WEI** | 6 | -2 | -2 | **CHA** | 1 | -5 | -5 |
-
 - **Immunitäten:** Blitz, Hieb, Kälte, Säure
 - **Sinne:** Blindsicht 18 m; Passive Wahrnehmung 8
 - **Sprachen:** −
 - **HG:** 4 (EP 1.100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 16 | +3 | +3 |
+| **GES** | 5 | -3 | -3 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 1 | -5 | -5 |
+| **WEI** | 6 | -2 | -2 |
+| **CHA** | 1 | -5 | -5 |
 
 
 ## Talente

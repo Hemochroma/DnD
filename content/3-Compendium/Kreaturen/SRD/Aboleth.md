@@ -123,16 +123,19 @@ type: Große Aberration, rechtschaffen böse
 - **TP:** 150 (20d10+40)
 - **Initiative:** +7
 - **Geschwindigkeit:** 3 m, Schwimmen 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 21 | +5 | +5 | **GES** | 9 | -1 | +2 | **KON** | 15 | +2 | +8 |
-| **INT** | 18 | +4 | +12 | **WEI** | 15 | +2 | +8 | **CHA** | 18 | +4 | +4 |
-
 - **Rettungswürfe**: Geschichte +12, Wahrnehmung +10
 - **Sinne:** Dunkelsicht 36 m; Passive Wahrnehmung 20
 - **Sprachen:** Tiefensprache; Telepathie auf 36 m
 - **HG:** 10 (EP 5.900 oder 7.200 im Hort; ÜB +4)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 21 | +5 | +5 |
+| **GES** | 9 | -1 | +2 |
+| **KON** | 15 | +2 | +8 |
+| **INT** | 18 | +4 | +12 |
+| **WEI** | 15 | +2 | +8 |
+| **CHA** | 18 | +4 | +4 |
 
 
 ## Talente

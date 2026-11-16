@@ -83,17 +83,20 @@ type: Mittelgroßer Schlick, gesinnungslos
 - **TP:** 22 (3d8+9)
 - **Initiative:** -2
 - **Geschwindigkeit:** 3 m, Klettern 3 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 12 | +1 | +1 | **GES** | 6 | -2 | -2 | **KON** | 16 | +3 | +3 |
-| **INT** | 1 | -5 | -5 | **WEI** | 6 | -2 | -2 | **CHA** | 2 | -4 | -4 |
-
 - **Rettungswürfe**: Heimlichkeit +2
 - **Immunitäten:** Bezaubert, Blind, Erschöpft, Festgesetzt, Gepackt, Liegend, Taub, Verängstigt
 - **Sinne:** Blindsicht 18 m; Passive Wahrnehmung 8
 - **Sprachen:** −
 - **HG:** 1/2 (EP 100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 12 | +1 | +1 |
+| **GES** | 6 | -2 | -2 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 1 | -5 | -5 |
+| **WEI** | 6 | -2 | -2 |
+| **CHA** | 2 | -4 | -4 |
 
 
 ## Talente

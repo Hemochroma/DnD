@@ -71,16 +71,19 @@ type: Große Monstrosität, gesinnungslos
 - **TP:** 94 (9d10+45)
 - **Initiative:** +0
 - **Geschwindigkeit:** 12 m, Graben 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 19 | +4 | +4 | **GES** | 11 | +0 | +0 | **KON** | 21 | +5 | +5 |
-| **INT** | 2 | -4 | -4 | **WEI** | 10 | +0 | +0 | **CHA** | 5 | -3 | -3 |
-
 - **Rettungswürfe**: Wahrnehmung +6
 - **Sinne:** Dunkelsicht 18 m, Erschütterungssinn 36 m; Passive Wahrnehmung 16
 - **Sprachen:** −
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 19 | +4 | +4 |
+| **GES** | 11 | +0 | +0 |
+| **KON** | 21 | +5 | +5 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 5 | -3 | -3 |
 
 
 

@@ -81,16 +81,19 @@ type: Mittelgroßer Drache, neutral
 - **TP:** 105 (14d8+42)
 - **Initiative:** +5
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 19 | +4 | +4 | **GES** | 14 | +2 | +7 | **KON** | 16 | +3 | +3 |
-| **INT** | 10 | +0 | +0 | **WEI** | 15 | +2 | +7 | **CHA** | 14 | +2 | +2 |
-
 - **Rettungswürfe**: Athletik +7, Heimlichkeit +5, Wahrnehmung +5
 - **Sinne:** Blindsicht 3 m, Dunkelsicht 18 m; Passive Wahrnehmung 15
 - **Sprachen:** Drakonisch, Gemeinsprache
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 19 | +4 | +4 |
+| **GES** | 14 | +2 | +7 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 15 | +2 | +7 |
+| **CHA** | 14 | +2 | +2 |
 
 
 ## Talente

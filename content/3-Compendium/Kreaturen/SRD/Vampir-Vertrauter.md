@@ -80,17 +80,20 @@ type: Kleiner oder mittelgroßer Humanoide, neutral böse
 - **TP:** 65 (10d8+20)
 - **Initiative:** +5
 - **Geschwindigkeit:** 9 m, Klettern 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 17 | +3 | +3 | **GES** | 16 | +3 | +8 | **KON** | 15 | +2 | +2 |
-| **INT** | 10 | +0 | +0 | **WEI** | 10 | +0 | +2 | **CHA** | 14 | +2 | +2 |
-
 - **Rettungswürfe**: Heimlichkeit +7, Überzeugen +4, Wahrnehmung +4
 - **Immunitäten:** Bezaubert (außer durch Vampirmeister)
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 14
 - **Sprachen:** Gemeinsprache und eine weitere Sprache
 - **HG:** 3 (EP 700; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 17 | +3 | +3 |
+| **GES** | 16 | +3 | +8 |
+| **KON** | 15 | +2 | +2 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 10 | +0 | +2 |
+| **CHA** | 14 | +2 | +2 |
 
 
 ## Talente

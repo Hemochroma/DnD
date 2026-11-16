@@ -53,15 +53,18 @@ type: Großes Tier, gesinnungslos
 - **TP:** 22 (4d10)
 - **Initiative:** +3
 - **Geschwindigkeit:** 3 m, Fliegen 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 15 | +2 | +2 | **GES** | 16 | +3 | +3 | **KON** | 11 | +0 | +0 |
-| **INT** | 2 | -4 | -4 | **WEI** | 12 | +1 | +1 | **CHA** | 6 | -2 | -2 |
-
 - **Sinne:** Blindsicht 36 m; Passive Wahrnehmung 11
 - **Sprachen:** −
 - **HG:** 1/4 (EP 50, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 15 | +2 | +2 |
+| **GES** | 16 | +3 | +3 |
+| **KON** | 11 | +0 | +0 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 6 | -2 | -2 |
 
 
 

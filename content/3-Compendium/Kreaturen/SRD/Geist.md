@@ -107,16 +107,19 @@ type: Mittelgroßer Untoter, neutral
 - **TP:** 45 (10d8)
 - **Initiative:** +1
 - **Geschwindigkeit:** 1,5 m, Fliegen 12 m (Schweben)
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 7 | -2 | -2 | **GES** | 13 | +1 | +1 | **KON** | 10 | +0 | +0 |
-| **INT** | 10 | +0 | +0 | **WEI** | 12 | +1 | +1 | **CHA** | 17 | +3 | +3 |
-
 - **Immunitäten:** Nekrotisch, Gift
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 11
 - **Sprachen:** Gemeinsprache und eine weitere Sprache
 - **HG:** 4 (EP 1.100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 7 | -2 | -2 |
+| **GES** | 13 | +1 | +1 |
+| **KON** | 10 | +0 | +0 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 17 | +3 | +3 |
 
 
 ## Talente

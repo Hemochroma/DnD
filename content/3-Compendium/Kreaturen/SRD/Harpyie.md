@@ -69,15 +69,18 @@ type: Mittelgroße Monstrosität, chaotisch böse
 - **TP:** 38 (7d8+7)
 - **Initiative:** +1
 - **Geschwindigkeit:** 6 m, Fliegen 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 12 | +1 | +1 | **GES** | 13 | +1 | +1 | **KON** | 12 | +1 | +1 |
-| **INT** | 7 | -2 | -2 | **WEI** | 10 | +0 | +0 | **CHA** | 13 | +1 | +1 |
-
 - **Sinne:** Passive Wahrnehmung 10
 - **Sprachen:** Gemeinsprache
 - **HG:** 1 (EP 200; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 12 | +1 | +1 |
+| **GES** | 13 | +1 | +1 |
+| **KON** | 12 | +1 | +1 |
+| **INT** | 7 | -2 | -2 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 13 | +1 | +1 |
 
 
 

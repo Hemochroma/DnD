@@ -70,16 +70,19 @@ type: Winziges Feenwesen, neutral gut
 - **TP:** 10 (4d4)
 - **Initiative:** +4
 - **Geschwindigkeit:** 3 m, Fliegen 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 3 | -4 | -4 | **GES** | 18 | +4 | +4 | **KON** | 10 | +0 | +0 |
-| **INT** | 14 | +2 | +2 | **WEI** | 13 | +1 | +1 | **CHA** | 11 | +0 | +0 |
-
 - **Rettungswürfe**: Heimlichkeit +8, Wahrnehmung +3
 - **Sinne:** Passive Wahrnehmung 13
 - **Sprachen:** Elfisch, Gemeinsprache, Sylvanisch
 - **HG:** 1/4 (EP 50; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 3 | -4 | -4 |
+| **GES** | 18 | +4 | +4 |
+| **KON** | 10 | +0 | +0 |
+| **INT** | 14 | +2 | +2 |
+| **WEI** | 13 | +1 | +1 |
+| **CHA** | 11 | +0 | +0 |
 
 
 

@@ -63,16 +63,19 @@ type: Großes Tier, gesinnungslos
 - **TP:** 13 (2d10+2)
 - **Initiative:** +0
 - **Geschwindigkeit:** 6 m, Schwimmen 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 15 | +2 | +2 | **GES** | 10 | +0 | +0 | **KON** | 13 | +1 | +4 |
-| **INT** | 2 | -4 | -4 | **WEI** | 10 | +0 | +0 | **CHA** | 5 | -3 | -3 |
-
 - **Rettungswürfe**: Heimlichkeit +2
 - **Sinne:** Passive Wahrnehmung 10
 - **Sprachen:** −
 - **HG:** 1/2 (EP 100, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 15 | +2 | +2 |
+| **GES** | 10 | +0 | +0 |
+| **KON** | 13 | +1 | +4 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 5 | -3 | -3 |
 
 
 ## Talente

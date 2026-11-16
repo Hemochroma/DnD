@@ -57,16 +57,19 @@ type: Kleines Tier, gesinnungslos
 - **TP:** 3 (1d6)
 - **Initiative:** +2
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 8 | -1 | -1 | **GES** | 15 | +2 | +2 | **KON** | 11 | +0 | +0 |
-| **INT** | 3 | -4 | -4 | **WEI** | 12 | +1 | +1 | **CHA** | 6 | -2 | -2 |
-
 - **Rettungswürfe**: Heimlichkeit +4, Wahrnehmung +5
 - **Sinne:** Dunkelsicht 27 m; Passive Wahrnehmung 15
 - **Sprachen:** −
 - **HG:** 0 (EP 10, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 8 | -1 | -1 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 11 | +0 | +0 |
+| **INT** | 3 | -4 | -4 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 6 | -2 | -2 |
 
 
 

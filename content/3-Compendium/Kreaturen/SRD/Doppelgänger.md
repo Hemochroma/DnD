@@ -80,17 +80,20 @@ type: Mittelgroße Monstrosität, neutral
 - **TP:** 52 (8d8+16)
 - **Initiative:** +4
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 11 | +0 | +0 | **GES** | 18 | +4 | +4 | **KON** | 14 | +2 | +2 |
-| **INT** | 11 | +0 | +0 | **WEI** | 12 | +1 | +1 | **CHA** | 14 | +2 | +2 |
-
 - **Rettungswürfe**: Motiv erkennen +3, Täuschen +6
 - **Immunitäten:** Bezaubert
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 11
 - **Sprachen:** Gemeinsprache und drei weitere Sprachen
 - **HG:** 3 (EP 700; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 11 | +0 | +0 |
+| **GES** | 18 | +4 | +4 |
+| **KON** | 14 | +2 | +2 |
+| **INT** | 11 | +0 | +0 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 14 | +2 | +2 |
 
 
 

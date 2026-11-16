@@ -70,17 +70,20 @@ type: Mittelgroße Monstrosität, neutral böse
 - **TP:** 39 (6d8+12)
 - **Initiative:** +2
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 15 | +2 | +2 | **GES** | 14 | +2 | +2 | **KON** | 14 | +2 | +2 |
-| **INT** | 3 | -4 | -4 | **WEI** | 13 | +1 | +1 | **CHA** | 6 | -2 | -2 |
-
 - **Rettungswürfe**: Heimlichkeit +4, Wahrnehmung +5
 - **Immunitäten:** Betäubt, Bewusstlos, Bezaubert, Blind, Taub, Verängstigt
 - **Sinne:** Dunkelsicht 36 m; Passive Wahrnehmung 15
 - **Sprachen:** −
 - **HG:** 1 (EP 200; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 15 | +2 | +2 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 14 | +2 | +2 |
+| **INT** | 3 | -4 | -4 |
+| **WEI** | 13 | +1 | +1 |
+| **CHA** | 6 | -2 | -2 |
 
 
 

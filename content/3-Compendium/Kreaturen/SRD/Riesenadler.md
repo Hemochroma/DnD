@@ -61,16 +61,19 @@ type: Großes celestisches Wesen, neutral gut
 - **TP:** 26 (4d10+4)
 - **Initiative:** +3
 - **Geschwindigkeit:** 3 m, Fliegen 24 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 16 | +3 | +3 | **GES** | 17 | +3 | +3 | **KON** | 13 | +1 | +1 |
-| **INT** | 8 | -1 | -1 | **WEI** | 14 | +2 | +2 | **CHA** | 10 | +0 | +0 |
-
 - **Rettungswürfe**: Wahrnehmung +6
 - **Sinne:** Passive Wahrnehmung 16
 - **Sprachen:** Celestisch; versteht Gemeinsprache und Urtümlich (Aural), kann sie jedoch nicht sprechen
 - **HG:** 1 (EP 200, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 16 | +3 | +3 |
+| **GES** | 17 | +3 | +3 |
+| **KON** | 13 | +1 | +1 |
+| **INT** | 8 | -1 | -1 |
+| **WEI** | 14 | +2 | +2 |
+| **CHA** | 10 | +0 | +0 |
 
 
 

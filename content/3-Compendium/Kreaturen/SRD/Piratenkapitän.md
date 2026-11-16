@@ -82,16 +82,19 @@ type: Kleiner oder mittelgroßer Humanoide, neutral
 - **TP:** 84 (13d8+26)
 - **Initiative:** +7
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 10 | +0 | +3 | **GES** | 18 | +4 | +11 | **KON** | 14 | +2 | +2 |
-| **INT** | 10 | +0 | +0 | **WEI** | 14 | +2 | +7 | **CHA** | 17 | +3 | +9 |
-
 - **Rettungswürfe**: Akrobatik +7, Wahrnehmung +5
 - **Sinne:** Passive Wahrnehmung 15
 - **Sprachen:** Gemeinsprache und eine weitere Sprache
 - **HG:** 6 (EP 2.300; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 10 | +0 | +3 |
+| **GES** | 18 | +4 | +11 |
+| **KON** | 14 | +2 | +2 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 14 | +2 | +7 |
+| **CHA** | 17 | +3 | +9 |
 
 
 

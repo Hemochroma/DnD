@@ -114,16 +114,19 @@ type: Großer Elementar (Dschinn), neutral
 - **TP:** 218 (19d10+114)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m, Fliegen 27 m (Schweben)
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 21 | +5 | +5 | **GES** | 15 | +2 | +8 | **KON** | 22 | +6 | +6 |
-| **INT** | 15 | +2 | +2 | **WEI** | 16 | +3 | +10 | **CHA** | 20 | +5 | +5 |
-
 - **Immunitäten:** Blitz, Schall
 - **Sinne:** Dunkelsicht 36 m; Passive Wahrnehmung 13
 - **Sprachen:** Urtümlich (Aural)
 - **HG:** 11 (EP 7.200; ÜB +4)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 21 | +5 | +5 |
+| **GES** | 15 | +2 | +8 |
+| **KON** | 22 | +6 | +6 |
+| **INT** | 15 | +2 | +2 |
+| **WEI** | 16 | +3 | +10 |
+| **CHA** | 20 | +5 | +5 |
 
 
 ## Talente

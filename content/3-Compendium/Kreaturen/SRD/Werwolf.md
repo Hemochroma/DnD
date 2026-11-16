@@ -82,16 +82,19 @@ type: Kleine oder mittelgroße Monstrosität (Lykanthrop), chaotisch böse
 - **TP:** 71 (11d8+22)
 - **Initiative:** +4
 - **Geschwindigkeit:** 9 m, 12 m (nur in Wolfsgestalt)
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 16 | +3 | +3 | **GES** | 14 | +2 | +2 | **KON** | 14 | +2 | +2 |
-| **INT** | 10 | +0 | +0 | **WEI** | 11 | +0 | +0 | **CHA** | 10 | +0 | +0 |
-
 - **Rettungswürfe**: Heimlichkeit +4, Wahrnehmung +4
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 14
 - **Sprachen:** Gemeinsprache (kann in Wolfsgestalt nicht sprechen)
 - **HG:** 3 (EP 700; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 16 | +3 | +3 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 14 | +2 | +2 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 11 | +0 | +0 |
+| **CHA** | 10 | +0 | +0 |
 
 
 ## Talente

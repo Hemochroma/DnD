@@ -97,16 +97,19 @@ type: Kleiner oder mittelgroßer Untoter, neutral böse
 - **TP:** 90 (12d8+36)
 - **Initiative:** +3
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 16 | +3 | +3 | **GES** | 16 | +3 | +9 | **KON** | 16 | +3 | +3 |
-| **INT** | 11 | +0 | +0 | **WEI** | 10 | +0 | +3 | **CHA** | 12 | +1 | +1 |
-
 - **Rettungswürfe**: Heimlichkeit +6, Wahrnehmung +3
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 13
 - **Sprachen:** Gemeinsprache und eine weitere Sprache
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 16 | +3 | +3 |
+| **GES** | 16 | +3 | +9 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 11 | +0 | +0 |
+| **WEI** | 10 | +0 | +3 |
+| **CHA** | 12 | +1 | +1 |
 
 
 ## Talente

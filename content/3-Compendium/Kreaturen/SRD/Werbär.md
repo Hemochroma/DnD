@@ -77,16 +77,19 @@ type: Kleine oder mittelgroße Monstrosität (Lykanthrop), neutral gut
 - **TP:** 135 (18d8+54)
 - **Initiative:** +3
 - **Geschwindigkeit:** 9 m, 12 m (nur in Bärengestalt), Klettern 9 m (nur in Bärengestalt)
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 19 | +4 | +4 | **GES** | 10 | +0 | +0 | **KON** | 17 | +3 | +3 |
-| **INT** | 11 | +0 | +0 | **WEI** | 12 | +1 | +1 | **CHA** | 12 | +1 | +1 |
-
 - **Rettungswürfe**: Wahrnehmung +7
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 17
 - **Sprachen:** Gemeinsprache (kann in Bärengestalt nicht sprechen)
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 19 | +4 | +4 |
+| **GES** | 10 | +0 | +0 |
+| **KON** | 17 | +3 | +3 |
+| **INT** | 11 | +0 | +0 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 12 | +1 | +1 |
 
 
 

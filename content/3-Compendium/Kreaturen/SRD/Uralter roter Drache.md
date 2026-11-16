@@ -103,17 +103,20 @@ type: Gigantischer Drache (chromatisch), chaotisch böse
 - **TP:** 507 (26d20+234)
 - **Initiative:** +14
 - **Geschwindigkeit:** 12 m, Fliegen 24 m, Klettern 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 30 | +10 | +10 | **GES** | 10 | +0 | +7 | **KON** | 29 | +9 | +9 |
-| **INT** | 18 | +4 | +4 | **WEI** | 15 | +2 | +11 | **CHA** | 27 | +8 | +8 |
-
 - **Rettungswürfe**: Heimlichkeit +7, Wahrnehmung +16
 - **Immunitäten:** Feuer
 - **Sinne:** Blindsicht 18 m, Dunkelsicht 36 m; Passive Wahrnehmung 26
 - **Sprachen:** Drakonisch, Gemeinsprache
 - **HG:** 24 (EP 62.000 oder 75.000 im Hort; ÜB +7)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 30 | +10 | +10 |
+| **GES** | 10 | +0 | +7 |
+| **KON** | 29 | +9 | +9 |
+| **INT** | 18 | +4 | +4 |
+| **WEI** | 15 | +2 | +11 |
+| **CHA** | 27 | +8 | +8 |
 
 
 ## Talente

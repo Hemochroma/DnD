@@ -90,17 +90,20 @@ type: Riesige Monstrosität, neutral böse
 - **TP:** 168 (16d12+64)
 - **Initiative:** +3
 - **Geschwindigkeit:** 15 m, Klettern 15 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 23 | +6 | +6 | **GES** | 16 | +3 | +3 | **KON** | 18 | +4 | +4 |
-| **INT** | 7 | -2 | -2 | **WEI** | 14 | +2 | +2 | **CHA** | 12 | +1 | +1 |
-
 - **Rettungswürfe**: Heimlichkeit +7, Wahrnehmung +6
 - **Immunitäten:** Blitz
 - **Sinne:** Dunkelsicht 27 m; Passive Wahrnehmung 16
 - **Sprachen:** Drakonisch
 - **HG:** 11 (EP 7.200; ÜB +4)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 23 | +6 | +6 |
+| **GES** | 16 | +3 | +3 |
+| **KON** | 18 | +4 | +4 |
+| **INT** | 7 | -2 | -2 |
+| **WEI** | 14 | +2 | +2 |
+| **CHA** | 12 | +1 | +1 |
 
 
 

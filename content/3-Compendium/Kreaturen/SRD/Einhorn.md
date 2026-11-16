@@ -101,16 +101,19 @@ type: Großes celestisches Wesen, rechtschaffen gut
 - **TP:** 97 (13d10+26)
 - **Initiative:** +8
 - **Geschwindigkeit:** 15 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 14 | +2 | +2 | **KON** | 15 | +2 | +2 |
-| **INT** | 11 | +0 | +0 | **WEI** | 17 | +3 | +3 | **CHA** | 16 | +3 | +3 |
-
 - **Immunitäten:** Gift
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 13
 - **Sprachen:** Celestisch, Elfisch, Sylvanisch; Telepathie auf 36 m
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 15 | +2 | +2 |
+| **INT** | 11 | +0 | +0 |
+| **WEI** | 17 | +3 | +3 |
+| **CHA** | 16 | +3 | +3 |
 
 
 ## Talente

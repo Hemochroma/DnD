@@ -63,16 +63,19 @@ type: Großer Drache, gesinnungslos
 - **TP:** 127 (15d10+45)
 - **Initiative:** +0
 - **Geschwindigkeit:** 9 m, Fliegen 24 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 19 | +4 | +4 | **GES** | 10 | +0 | +0 | **KON** | 16 | +3 | +3 |
-| **INT** | 5 | -3 | -3 | **WEI** | 12 | +1 | +1 | **CHA** | 6 | -2 | -2 |
-
 - **Rettungswürfe**: Wahrnehmung +4
 - **Sinne:** Dunkelsicht 36 m; Passive Wahrnehmung 14
 - **Sprachen:** −
 - **HG:** 6 (EP 2.300; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 19 | +4 | +4 |
+| **GES** | 10 | +0 | +0 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 5 | -3 | -3 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 6 | -2 | -2 |
 
 
 

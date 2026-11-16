@@ -79,16 +79,19 @@ type: Kleiner oder mittelgroßer Humanoide (Druide), neutral
 - **TP:** 44 (8d8+8)
 - **Initiative:** +1
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 10 | +0 | +0 | **GES** | 12 | +1 | +1 | **KON** | 13 | +1 | +1 |
-| **INT** | 12 | +1 | +1 | **WEI** | 16 | +3 | +3 | **CHA** | 11 | +0 | +0 |
-
 - **Rettungswürfe**: Heilkunde +5, Naturkunde +3, Wahrnehmung +5
 - **Sinne:** Passive Wahrnehmung 15
 - **Sprachen:** Druidisch, Gemeinsprache, Sylvanisch
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 10 | +0 | +0 |
+| **GES** | 12 | +1 | +1 |
+| **KON** | 13 | +1 | +1 |
+| **INT** | 12 | +1 | +1 |
+| **WEI** | 16 | +3 | +3 |
+| **CHA** | 11 | +0 | +0 |
 
 
 

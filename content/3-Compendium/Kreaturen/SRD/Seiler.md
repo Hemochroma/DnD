@@ -79,16 +79,19 @@ type: Große Aberration, neutral böse
 - **TP:** 93 (11d10+33)
 - **Initiative:** +5
 - **Geschwindigkeit:** 3 m, Klettern 6 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 8 | -1 | -1 | **KON** | 17 | +3 | +3 |
-| **INT** | 7 | -2 | -2 | **WEI** | 16 | +3 | +3 | **CHA** | 6 | -2 | -2 |
-
 - **Rettungswürfe**: Heimlichkeit +5, Wahrnehmung +6
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 16
 - **Sprachen:** −
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 8 | -1 | -1 |
+| **KON** | 17 | +3 | +3 |
+| **INT** | 7 | -2 | -2 |
+| **WEI** | 16 | +3 | +3 |
+| **CHA** | 6 | -2 | -2 |
 
 
 ## Talente

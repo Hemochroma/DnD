@@ -94,17 +94,20 @@ type: Mittelgroßer Unhold, rechtschaffen böse
 - **TP:** 221 (26d8+104)
 - **Initiative:** +8
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 14 | +2 | +2 | **GES** | 17 | +3 | +3 | **KON** | 18 | +4 | +4 |
-| **INT** | 13 | +1 | +1 | **WEI** | 16 | +3 | +3 | **CHA** | 20 | +5 | +5 |
-
 - **Rettungswürfe**: Motiv erkennen +8, Täuschen +10, Wahrnehmung +8
 - **Immunitäten:** Bezaubert, Verängstigt
 - **Sinne:** Wahrer Blick 18 m; Passive Wahrnehmung 18
 - **Sprachen:** Gemeinsprache, Infernalisch
 - **HG:** 13 (EP 10.000; ÜB +5)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 14 | +2 | +2 |
+| **GES** | 17 | +3 | +3 |
+| **KON** | 18 | +4 | +4 |
+| **INT** | 13 | +1 | +1 |
+| **WEI** | 16 | +3 | +3 |
+| **CHA** | 20 | +5 | +5 |
 
 
 ## Talente

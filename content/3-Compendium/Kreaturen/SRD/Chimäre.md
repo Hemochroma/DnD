@@ -71,16 +71,19 @@ type: Große Monstrosität, chaotisch böse
 - **TP:** 114 (12d10+48)
 - **Initiative:** +0
 - **Geschwindigkeit:** 9 m, Fliegen 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 19 | +4 | +4 | **GES** | 11 | +0 | +0 | **KON** | 19 | +4 | +4 |
-| **INT** | 3 | -4 | -4 | **WEI** | 14 | +2 | +2 | **CHA** | 10 | +0 | +0 |
-
 - **Rettungswürfe**: Wahrnehmung +8
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 18
 - **Sprachen:** Versteht Drakonisch, kann jedoch nicht sprechen
 - **HG:** 6 (EP 2.300; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 19 | +4 | +4 |
+| **GES** | 11 | +0 | +0 |
+| **KON** | 19 | +4 | +4 |
+| **INT** | 3 | -4 | -4 |
+| **WEI** | 14 | +2 | +2 |
+| **CHA** | 10 | +0 | +0 |
 
 
 

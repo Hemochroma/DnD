@@ -57,15 +57,18 @@ type: Kleiner oder mittelgroßer Humanoide, neutral
 - **TP:** 11 (2d8+2)
 - **Initiative:** +1
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 11 | +0 | +0 | **GES** | 12 | +1 | +1 | **KON** | 12 | +1 | +1 |
-| **INT** | 10 | +0 | +0 | **WEI** | 10 | +0 | +0 | **CHA** | 10 | +0 | +0 |
-
 - **Sinne:** Passive Wahrnehmung 10
 - **Sprachen:** Diebessprache, Gemeinsprache
 - **HG:** 1/8 (EP 25; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 11 | +0 | +0 |
+| **GES** | 12 | +1 | +1 |
+| **KON** | 12 | +1 | +1 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 10 | +0 | +0 |
 
 
 

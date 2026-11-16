@@ -60,15 +60,18 @@ type: Mittelgroßes Tier, gesinnungslos
 - **TP:** 13 (2d8+4)
 - **Initiative:** +0
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 13 | +1 | +1 | **GES** | 11 | +0 | +0 | **KON** | 14 | +2 | +2 |
-| **INT** | 2 | -4 | -4 | **WEI** | 9 | -1 | -1 | **CHA** | 5 | -3 | -3 |
-
 - **Sinne:** Passive Wahrnehmung 9
 - **Sprachen:** −
 - **HG:** 1/4 (EP 50, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 13 | +1 | +1 |
+| **GES** | 11 | +0 | +0 |
+| **KON** | 14 | +2 | +2 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 9 | -1 | -1 |
+| **CHA** | 5 | -3 | -3 |
 
 
 ## Talente

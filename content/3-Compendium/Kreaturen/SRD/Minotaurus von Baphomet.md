@@ -65,16 +65,19 @@ type: Große Monstrosität, chaotisch böse
 - **TP:** 85 (10d10+30)
 - **Initiative:** +0
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 11 | +0 | +0 | **KON** | 16 | +3 | +3 |
-| **INT** | 6 | -2 | -2 | **WEI** | 16 | +3 | +3 | **CHA** | 9 | -1 | -1 |
-
 - **Rettungswürfe**: Überlebenskunst +7, Wahrnehmung +7
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 17
 - **Sprachen:** Abyssisch
 - **HG:** 3 (EP 700; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 11 | +0 | +0 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 6 | -2 | -2 |
+| **WEI** | 16 | +3 | +3 |
+| **CHA** | 9 | -1 | -1 |
 
 
 

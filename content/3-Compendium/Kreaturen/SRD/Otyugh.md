@@ -73,15 +73,18 @@ type: Große Aberration, neutral
 - **TP:** 104 (11d10+44)
 - **Initiative:** +0
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 16 | +3 | +3 | **GES** | 11 | +0 | +0 | **KON** | 19 | +4 | +11 |
-| **INT** | 6 | -2 | -2 | **WEI** | 13 | +1 | +1 | **CHA** | 6 | -2 | -2 |
-
 - **Sinne:** Dunkelsicht 36 m; Passive Wahrnehmung 11
 - **Sprachen:** Otyughisch; Telepathie auf 36 m (die Empfängerkreatur kann nicht telepathisch antworten)
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 16 | +3 | +3 |
+| **GES** | 11 | +0 | +0 |
+| **KON** | 19 | +4 | +11 |
+| **INT** | 6 | -2 | -2 |
+| **WEI** | 13 | +1 | +1 |
+| **CHA** | 6 | -2 | -2 |
 
 
 

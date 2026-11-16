@@ -79,17 +79,20 @@ type: Winziger Unhold (Dämon), chaotisch böse
 - **TP:** 25 (10d4)
 - **Initiative:** +3
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 5 | -3 | -3 | **GES** | 17 | +3 | +3 | **KON** | 10 | +0 | +0 |
-| **INT** | 7 | -2 | -2 | **WEI** | 10 | +0 | +0 | **CHA** | 10 | +0 | +0 |
-
 - **Rettungswürfe**: Heimlichkeit +5
 - **Immunitäten:** Gift, Vergiftet
 - **Sinne:** Dunkelsicht 36 m; Passive Wahrnehmung 10
 - **Sprachen:** Abyssisch, Gemeinsprache
 - **HG:** 1 (EP 200; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 5 | -3 | -3 |
+| **GES** | 17 | +3 | +3 |
+| **KON** | 10 | +0 | +0 |
+| **INT** | 7 | -2 | -2 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 10 | +0 | +0 |
 
 
 ## Talente

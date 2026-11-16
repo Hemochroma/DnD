@@ -88,16 +88,19 @@ type: Großer Unhold, chaotisch böse
 - **TP:** 135 (18d10+36)
 - **Initiative:** +3
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 17 | +3 | +9 | **KON** | 14 | +2 | +7 |
-| **INT** | 16 | +3 | +3 | **WEI** | 15 | +2 | +7 | **CHA** | 16 | +3 | +9 |
-
 - **Immunitäten:** Gift
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 12
 - **Sprachen:** Abyssisch, Gemeinsprache
 - **HG:** 8 (EP 3.900; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 17 | +3 | +9 |
+| **KON** | 14 | +2 | +7 |
+| **INT** | 16 | +3 | +3 |
+| **WEI** | 15 | +2 | +7 |
+| **CHA** | 16 | +3 | +9 |
 
 
 ## Talente

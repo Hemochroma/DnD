@@ -72,15 +72,18 @@ type: Riesige Pflanze, chaotisch gut
 - **TP:** 138 (12d12+60)
 - **Initiative:** +3
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 23 | +6 | +6 | **GES** | 8 | -1 | -1 | **KON** | 21 | +5 | +5 |
-| **INT** | 12 | +1 | +1 | **WEI** | 16 | +3 | +3 | **CHA** | 12 | +1 | +1 |
-
 - **Sinne:** Passive Wahrnehmung 13
 - **Sprachen:** Druidisch, Elfisch, Gemeinsprache, Sylvanisch
 - **HG:** 9 (EP 5.000; ÜB +4)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 23 | +6 | +6 |
+| **GES** | 8 | -1 | -1 |
+| **KON** | 21 | +5 | +5 |
+| **INT** | 12 | +1 | +1 |
+| **WEI** | 16 | +3 | +3 |
+| **CHA** | 12 | +1 | +1 |
 
 
 ## Talente

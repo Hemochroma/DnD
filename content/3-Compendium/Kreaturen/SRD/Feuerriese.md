@@ -73,17 +73,20 @@ type: Riesiger Riese, rechtschaffen böse
 - **TP:** 162 (13d12+78)
 - **Initiative:** +3
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 25 | +7 | +7 | **GES** | 9 | -1 | +2 | **KON** | 23 | +6 | +16 |
-| **INT** | 10 | +0 | +0 | **WEI** | 14 | +2 | +2 | **CHA** | 13 | +1 | +6 |
-
 - **Rettungswürfe**: Athletik +11, Wahrnehmung +6
 - **Immunitäten:** Feuer
 - **Sinne:** Passive Wahrnehmung 16
 - **Sprachen:** Riesisch
 - **HG:** 9 (EP 5.000; ÜB +4)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 25 | +7 | +7 |
+| **GES** | 9 | -1 | +2 |
+| **KON** | 23 | +6 | +16 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 14 | +2 | +2 |
+| **CHA** | 13 | +1 | +6 |
 
 
 

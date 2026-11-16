@@ -59,15 +59,18 @@ type: Große Monstrosität, rechtschaffen böse
 - **TP:** 68 (8d10+24)
 - **Initiative:** +3
 - **Geschwindigkeit:** 9 m, Fliegen 15 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 17 | +3 | +3 | **GES** | 16 | +3 | +3 | **KON** | 17 | +3 | +3 |
-| **INT** | 7 | -2 | -2 | **WEI** | 12 | +1 | +1 | **CHA** | 8 | -1 | -1 |
-
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 11
 - **Sprachen:** Gemeinsprache
 - **HG:** 3 (EP 700; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 17 | +3 | +3 |
+| **GES** | 16 | +3 | +3 |
+| **KON** | 17 | +3 | +3 |
+| **INT** | 7 | -2 | -2 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 8 | -1 | -1 |
 
 
 

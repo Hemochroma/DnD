@@ -77,16 +77,19 @@ type: Kleine oder mittelgroße Monstrosität (Lykanthrop), rechtschaffen böse
 - **TP:** 60 (11d8+11)
 - **Initiative:** +3
 - **Geschwindigkeit:** 9 m, Klettern 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 10 | +0 | +0 | **GES** | 16 | +3 | +3 | **KON** | 12 | +1 | +1 |
-| **INT** | 11 | +0 | +0 | **WEI** | 10 | +0 | +0 | **CHA** | 8 | -1 | -1 |
-
 - **Rettungswürfe**: Heimlichkeit +5, Wahrnehmung +4
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 14
 - **Sprachen:** Gemeinsprache (kann in Rattengestalt nicht sprechen)
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 10 | +0 | +0 |
+| **GES** | 16 | +3 | +3 |
+| **KON** | 12 | +1 | +1 |
+| **INT** | 11 | +0 | +0 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 8 | -1 | -1 |
 
 
 

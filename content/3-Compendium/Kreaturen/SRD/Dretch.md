@@ -64,16 +64,19 @@ type: Kleiner Unhold (Dämon), chaotisch böse
 - **TP:** 18 (4d6+4)
 - **Initiative:** +0
 - **Geschwindigkeit:** 6 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 12 | +1 | +1 | **GES** | 11 | +0 | +0 | **KON** | 12 | +1 | +1 |
-| **INT** | 5 | -3 | -3 | **WEI** | 8 | -1 | -1 | **CHA** | 3 | -4 | -4 |
-
 - **Immunitäten:** Gift
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 9
 - **Sprachen:** Abyssisch; Telepathie auf 18 m (nur mit Kreaturen, die Abyssisch verstehen)
 - **HG:** 1/4 (EP 50; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 12 | +1 | +1 |
+| **GES** | 11 | +0 | +0 |
+| **KON** | 12 | +1 | +1 |
+| **INT** | 5 | -3 | -3 |
+| **WEI** | 8 | -1 | -1 |
+| **CHA** | 3 | -4 | -4 |
 
 
 

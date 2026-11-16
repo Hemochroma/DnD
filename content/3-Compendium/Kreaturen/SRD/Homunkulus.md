@@ -69,16 +69,19 @@ type: Winziges Konstrukt, neutral
 - **TP:** 4 (1d4+2)
 - **Initiative:** +2
 - **Geschwindigkeit:** 6 m, Fliegen 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 4 | -3 | -3 | **GES** | 15 | +2 | +2 | **KON** | 14 | +2 | +2 |
-| **INT** | 10 | +0 | +0 | **WEI** | 10 | +0 | +2 | **CHA** | 7 | -2 | -2 |
-
 - **Immunitäten:** Gift
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 10
 - **Sprachen:** Versteht Gemeinsprache und eine weitere Sprache, kann jedoch nicht sprechen
 - **HG:** 0 (EP 10; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 4 | -3 | -3 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 14 | +2 | +2 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 10 | +0 | +2 |
+| **CHA** | 7 | -2 | -2 |
 
 
 ## Talente

@@ -70,16 +70,19 @@ type: Winziges celestisches Wesen, rechtschaffen gut
 - **TP:** 24 (7d4+7)
 - **Initiative:** +3
 - **Geschwindigkeit:** 6 m, Fliegen 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 6 | -2 | -2 | **GES** | 17 | +3 | +3 | **KON** | 13 | +1 | +1 |
-| **INT** | 15 | +2 | +2 | **WEI** | 12 | +1 | +1 | **CHA** | 11 | +0 | +0 |
-
 - **Rettungswürfe**: Arkane Kunde +4, Heimlichkeit +5, Religion +4
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 11
 - **Sprachen:** Celestisch, Gemeinsprache
 - **HG:** 1 (EP 200; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 6 | -2 | -2 |
+| **GES** | 17 | +3 | +3 |
+| **KON** | 13 | +1 | +1 |
+| **INT** | 15 | +2 | +2 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 11 | +0 | +0 |
 
 
 ## Talente

@@ -63,16 +63,19 @@ type: Große Monstrosität, gesinnungslos
 - **TP:** 26 (4d10+4)
 - **Initiative:** +1
 - **Geschwindigkeit:** 12 m, Fliegen 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 17 | +3 | +3 | **GES** | 13 | +1 | +1 | **KON** | 13 | +1 | +1 |
-| **INT** | 2 | -4 | -4 | **WEI** | 12 | +1 | +1 | **CHA** | 8 | -1 | -1 |
-
 - **Rettungswürfe**: Wahrnehmung +5
 - **Sinne:** Passive Wahrnehmung 15
 - **Sprachen:** −
 - **HG:** 1 (EP 200; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 17 | +3 | +3 |
+| **GES** | 13 | +1 | +1 |
+| **KON** | 13 | +1 | +1 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 8 | -1 | -1 |
 
 
 ## Talente

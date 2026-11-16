@@ -74,17 +74,20 @@ type: Mittelgroßer Drache (metallisch), chaotisch gut
 - **TP:** 22 (4d8+4)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m, Fliegen 18 m, Graben 4,5 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 15 | +2 | +2 | **GES** | 10 | +0 | +2 | **KON** | 13 | +1 | +1 |
-| **INT** | 10 | +0 | +0 | **WEI** | 11 | +0 | +2 | **CHA** | 13 | +1 | +1 |
-
 - **Rettungswürfe**: Heimlichkeit +2, Wahrnehmung +4
 - **Immunitäten:** Feuer
 - **Sinne:** Blindsicht 3 m, Dunkelsicht 18 m; Passive Wahrnehmung 14
 - **Sprachen:** Drakonisch
 - **HG:** 1 (EP 200; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 15 | +2 | +2 |
+| **GES** | 10 | +0 | +2 |
+| **KON** | 13 | +1 | +1 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 11 | +0 | +2 |
+| **CHA** | 13 | +1 | +1 |
 
 
 

@@ -63,16 +63,19 @@ type: Kleines Konstrukt, gesinnungslos
 - **TP:** 14 (4d6)
 - **Initiative:** +4
 - **Geschwindigkeit:** 1,5 m, Fliegen 15 m (Schweben)
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 12 | +1 | +1 | **GES** | 15 | +2 | +6 | **KON** | 11 | +0 | +0 |
-| **INT** | 1 | -5 | -5 | **WEI** | 5 | -3 | -3 | **CHA** | 1 | -5 | -5 |
-
 - **Immunitäten:** Gift, Psychisch
 - **Sinne:** Blindsicht 18 m; Passive Wahrnehmung 7
 - **Sprachen:** −
 - **HG:** 1/4 (EP 50; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 12 | +1 | +1 |
+| **GES** | 15 | +2 | +6 |
+| **KON** | 11 | +0 | +0 |
+| **INT** | 1 | -5 | -5 |
+| **WEI** | 5 | -3 | -3 |
+| **CHA** | 1 | -5 | -5 |
 
 
 

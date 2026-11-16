@@ -63,16 +63,19 @@ type: Mittelgroße Aberration, gesinnungslos
 - **TP:** 54 (12d8)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m, Klettern 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 14 | +2 | +2 | **GES** | 14 | +2 | +2 | **KON** | 11 | +0 | +0 |
-| **INT** | 3 | -4 | -4 | **WEI** | 14 | +2 | +2 | **CHA** | 5 | -3 | -3 |
-
 - **Rettungswürfe**: Heimlichkeit +4
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 12
 - **Sprachen:** −
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 14 | +2 | +2 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 11 | +0 | +0 |
+| **INT** | 3 | -4 | -4 |
+| **WEI** | 14 | +2 | +2 |
+| **CHA** | 5 | -3 | -3 |
 
 
 

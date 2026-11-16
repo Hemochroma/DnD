@@ -78,16 +78,19 @@ type: Kleiner oder mittelgroßer Untoter, neutral böse
 - **TP:** 67 (9d8+27)
 - **Initiative:** +3
 - **Geschwindigkeit:** 1,5 m, Fliegen 18 m (Schweben)
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 6 | -2 | -2 | **GES** | 16 | +3 | +3 | **KON** | 16 | +3 | +3 |
-| **INT** | 12 | +1 | +1 | **WEI** | 14 | +2 | +2 | **CHA** | 15 | +2 | +2 |
-
 - **Immunitäten:** Gift, Nekrotisch
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 12
 - **Sprachen:** Gemeinsprache und zwei weitere Sprachen
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 6 | -2 | -2 |
+| **GES** | 16 | +3 | +3 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 12 | +1 | +1 |
+| **WEI** | 14 | +2 | +2 |
+| **CHA** | 15 | +2 | +2 |
 
 
 ## Talente

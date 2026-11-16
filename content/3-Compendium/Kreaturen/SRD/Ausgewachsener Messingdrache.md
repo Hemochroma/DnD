@@ -117,17 +117,20 @@ type: Riesiger Drache (metallisch), chaotisch gut
 - **TP:** 172 (15d12+75)
 - **Initiative:** +10
 - **Geschwindigkeit:** 12 m, Fliegen 24 m, Graben 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 23 | +6 | +6 | **GES** | 10 | +0 | +5 | **KON** | 21 | +5 | +5 |
-| **INT** | 14 | +2 | +2 | **WEI** | 13 | +1 | +7 | **CHA** | 17 | +3 | +3 |
-
 - **Rettungswürfe**: Geschichte +7, Heimlichkeit +5, Überzeugen +8, Wahrnehmung +11
 - **Immunitäten:** Feuer
 - **Sinne:** Blindsicht 18 m, Dunkelsicht 36 m; Passive Wahrnehmung 21
 - **Sprachen:** Drakonisch, Gemeinsprache
 - **HG:** 13 (EP 10.000 oder 11.500 im Hort; ÜB +5)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 23 | +6 | +6 |
+| **GES** | 10 | +0 | +5 |
+| **KON** | 21 | +5 | +5 |
+| **INT** | 14 | +2 | +2 |
+| **WEI** | 13 | +1 | +7 |
+| **CHA** | 17 | +3 | +3 |
 
 
 ## Talente

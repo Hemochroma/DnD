@@ -76,16 +76,19 @@ type: Kleiner oder mittelgroßer Untoter, rechtschaffen böse
 - **TP:** 58 (9d8+18)
 - **Initiative:** -1
 - **Geschwindigkeit:** 6 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 16 | +3 | +3 | **GES** | 8 | -1 | -1 | **KON** | 15 | +2 | +2 |
-| **INT** | 6 | -2 | -2 | **WEI** | 12 | +1 | +4 | **CHA** | 12 | +1 | +1 |
-
 - **Immunitäten:** Gift, Nekrotisch
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 11
 - **Sprachen:** Gemeinsprache und zwei weitere Sprachen
 - **HG:** 3 (EP 700; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 16 | +3 | +3 |
+| **GES** | 8 | -1 | -1 |
+| **KON** | 15 | +2 | +2 |
+| **INT** | 6 | -2 | -2 |
+| **WEI** | 12 | +1 | +4 |
+| **CHA** | 12 | +1 | +1 |
 
 
 

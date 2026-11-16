@@ -78,16 +78,19 @@ type: Große Monstrosität, chaotisch böse
 - **TP:** 123 (13d10+52)
 - **Initiative:** +4
 - **Geschwindigkeit:** 9 m, Klettern 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 16 | +3 | +3 | **GES** | 19 | +4 | +4 | **KON** | 18 | +4 | +4 |
-| **INT** | 13 | +1 | +1 | **WEI** | 16 | +3 | +3 | **CHA** | 12 | +1 | +1 |
-
 - **Rettungswürfe**: Heimlichkeit +10, Wahrnehmung +6
 - **Sinne:** Dunkelsicht 36 m; Passive Wahrnehmung 16
 - **Sprachen:** Elfisch, Gemeinsprache der Unterreiche
 - **HG:** 6 (EP 2.300; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 16 | +3 | +3 |
+| **GES** | 19 | +4 | +4 |
+| **KON** | 18 | +4 | +4 |
+| **INT** | 13 | +1 | +1 |
+| **WEI** | 16 | +3 | +3 |
+| **CHA** | 12 | +1 | +1 |
 
 
 ## Talente

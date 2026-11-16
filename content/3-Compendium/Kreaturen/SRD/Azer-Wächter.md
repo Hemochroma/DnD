@@ -68,16 +68,19 @@ type: Mittelgroßer Elementar, rechtschaffen neutral
 - **TP:** 39 (6d8+12)
 - **Initiative:** +1
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 17 | +3 | +3 | **GES** | 12 | +1 | +1 | **KON** | 15 | +2 | +6 |
-| **INT** | 12 | +1 | +1 | **WEI** | 13 | +1 | +1 | **CHA** | 10 | +0 | +0 |
-
 - **Immunitäten:** Feuer, Gift
 - **Sinne:** Passive Wahrnehmung 11
 - **Sprachen:** Urtümlich (Ignal)
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 17 | +3 | +3 |
+| **GES** | 12 | +1 | +1 |
+| **KON** | 15 | +2 | +6 |
+| **INT** | 12 | +1 | +1 |
+| **WEI** | 13 | +1 | +1 |
+| **CHA** | 10 | +0 | +0 |
 
 
 ## Talente

@@ -78,16 +78,19 @@ type: Kleiner oder mittelgroßer Humanoide, neutral
 - **TP:** 44 (8d8+8)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 11 | +0 | +0 | **GES** | 14 | +2 | +2 | **KON** | 12 | +1 | +1 |
-| **INT** | 10 | +0 | +0 | **WEI** | 14 | +2 | +6 | **CHA** | 13 | +1 | +1 |
-
 - **Rettungswürfe**: Religion +2, Täuschen +3, Überzeugen +3
 - **Sinne:** Passive Wahrnehmung 12
 - **Sprachen:** Gemeinsprache
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 11 | +0 | +0 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 12 | +1 | +1 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 14 | +2 | +6 |
+| **CHA** | 13 | +1 | +1 |
 
 
 

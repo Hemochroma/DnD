@@ -66,16 +66,19 @@ type: Kleiner oder mittelgroßer Humanoide, neutral
 - **TP:** 16 (3d8+3)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 11 | +0 | +0 | **GES** | 14 | +2 | +2 | **KON** | 12 | +1 | +1 |
-| **INT** | 11 | +0 | +0 | **WEI** | 13 | +1 | +1 | **CHA** | 11 | +0 | +0 |
-
 - **Rettungswürfe**: Heimlichkeit +6, Naturkunde +4, Überlebenskunst +5, Wahrnehmung +5
 - **Sinne:** Passive Wahrnehmung 15
 - **Sprachen:** Gemeinsprache und eine weitere Sprache
 - **HG:** 1/2 (EP 100, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 11 | +0 | +0 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 12 | +1 | +1 |
+| **INT** | 11 | +0 | +0 |
+| **WEI** | 13 | +1 | +1 |
+| **CHA** | 11 | +0 | +0 |
 
 
 

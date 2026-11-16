@@ -80,17 +80,20 @@ type: Große Pflanze, gesinnungslos
 - **TP:** 110 (13d10+39)
 - **Initiative:** -1
 - **Geschwindigkeit:** 9 m, Schwimmen 6 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 8 | -1 | -1 | **KON** | 16 | +3 | +3 |
-| **INT** | 5 | -3 | -3 | **WEI** | 10 | +0 | +0 | **CHA** | 5 | -3 | -3 |
-
 - **Rettungswürfe**: Heimlichkeit +3
 - **Immunitäten:** Blitz
 - **Sinne:** Blindsicht 18 m; Passive Wahrnehmung 10
 - **Sprachen:** −
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 8 | -1 | -1 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 5 | -3 | -3 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 5 | -3 | -3 |
 
 
 ## Talente

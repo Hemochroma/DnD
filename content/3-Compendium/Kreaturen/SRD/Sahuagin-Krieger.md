@@ -74,16 +74,19 @@ type: Mittelgroßer Unhold, rechtschaffen böse
 - **TP:** 22 (4d8+4)
 - **Initiative:** +0
 - **Geschwindigkeit:** 9 m, Schwimmen 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 13 | +1 | +1 | **GES** | 11 | +0 | +0 | **KON** | 12 | +1 | +1 |
-| **INT** | 12 | +1 | +1 | **WEI** | 13 | +1 | +1 | **CHA** | 9 | -1 | -1 |
-
 - **Rettungswürfe**: Wahrnehmung +5
 - **Sinne:** Dunkelsicht 36 m; Passive Wahrnehmung 15
 - **Sprachen:** Sahuaginisch
 - **HG:** 1/2 (EP 100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 13 | +1 | +1 |
+| **GES** | 11 | +0 | +0 |
+| **KON** | 12 | +1 | +1 |
+| **INT** | 12 | +1 | +1 |
+| **WEI** | 13 | +1 | +1 |
+| **CHA** | 9 | -1 | -1 |
 
 
 ## Talente

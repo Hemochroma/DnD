@@ -77,17 +77,20 @@ type: Riesiger Riese, neutral böse
 - **TP:** 149 (13d12+65)
 - **Initiative:** +2
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 23 | +6 | +6 | **GES** | 9 | -1 | -1 | **KON** | 21 | +5 | +13 |
-| **INT** | 9 | -1 | -1 | **WEI** | 10 | +0 | +3 | **CHA** | 12 | +1 | +5 |
-
 - **Rettungswürfe**: Athletik +9, Wahrnehmung +3
 - **Immunitäten:** Kälte
 - **Sinne:** Passive Wahrnehmung 13
 - **Sprachen:** Riesisch
 - **HG:** 8 (EP 3.900; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 23 | +6 | +6 |
+| **GES** | 9 | -1 | -1 |
+| **KON** | 21 | +5 | +13 |
+| **INT** | 9 | -1 | -1 |
+| **WEI** | 10 | +0 | +3 |
+| **CHA** | 12 | +1 | +5 |
 
 
 

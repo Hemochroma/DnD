@@ -71,16 +71,19 @@ type: Winziger Drache, neutral gut
 - **TP:** 10 (3d4+3)
 - **Initiative:** +2
 - **Geschwindigkeit:** 4,5 m, Fliegen 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 6 | -2 | -2 | **GES** | 15 | +2 | +2 | **KON** | 13 | +1 | +1 |
-| **INT** | 10 | +0 | +0 | **WEI** | 12 | +1 | +1 | **CHA** | 10 | +0 | +0 |
-
 - **Rettungswürfe**: Heimlichkeit +4, Wahrnehmung +5
 - **Sinne:** Blindsicht 3 m, Dunkelsicht 18 m; Passive Wahrnehmung 15
 - **Sprachen:** Versteht Drakonisch und Gemeinsprache, kann jedoch nicht sprechen
 - **HG:** 1/4 (EP 50; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 6 | -2 | -2 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 13 | +1 | +1 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 10 | +0 | +0 |
 
 
 ## Talente

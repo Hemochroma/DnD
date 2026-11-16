@@ -76,17 +76,20 @@ type: Riesige Monstrosität, gesinnungslos
 - **TP:** 184 (16d12+80)
 - **Initiative:** +4
 - **Geschwindigkeit:** 12 m, Schwimmen 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 20 | +5 | +5 | **GES** | 12 | +1 | +1 | **KON** | 20 | +5 | +5 |
-| **INT** | 2 | -4 | -4 | **WEI** | 10 | +0 | +0 | **CHA** | 7 | -2 | -2 |
-
 - **Rettungswürfe**: Wahrnehmung +6
 - **Immunitäten:** Betäubt, Bewusstlos, Bezaubert, Blind, Taub, Verängstigt
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 16
 - **Sprachen:** −
 - **HG:** 8 (EP 3.900; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 20 | +5 | +5 |
+| **GES** | 12 | +1 | +1 |
+| **KON** | 20 | +5 | +5 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 7 | -2 | -2 |
 
 
 ## Talente

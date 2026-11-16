@@ -65,15 +65,18 @@ type: Große Monstrosität, gesinnungslos
 - **TP:** 45 (6d10+12)
 - **Initiative:** +0
 - **Geschwindigkeit:** 9 m, Graben 3 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 17 | +3 | +3 | **GES** | 11 | +0 | +0 | **KON** | 14 | +2 | +2 |
-| **INT** | 1 | -5 | -5 | **WEI** | 13 | +1 | +1 | **CHA** | 6 | -2 | -2 |
-
 - **Sinne:** Dunkelsicht 18 m, Erschütterungssinn 18 m; Passive Wahrnehmung 11
 - **Sprachen:** −
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 17 | +3 | +3 |
+| **GES** | 11 | +0 | +0 |
+| **KON** | 14 | +2 | +2 |
+| **INT** | 1 | -5 | -5 |
+| **WEI** | 13 | +1 | +1 |
+| **CHA** | 6 | -2 | -2 |
 
 
 ## Talente

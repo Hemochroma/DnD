@@ -78,17 +78,20 @@ type: Winziger Unhold (Teufel), rechtschaffen böse
 - **TP:** 21 (6d4+6)
 - **Initiative:** +3
 - **Geschwindigkeit:** 6 m, Fliegen 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 6 | -2 | -2 | **GES** | 17 | +3 | +3 | **KON** | 13 | +1 | +1 |
-| **INT** | 11 | +0 | +0 | **WEI** | 12 | +1 | +1 | **CHA** | 14 | +2 | +2 |
-
 - **Rettungswürfe**: Heimlichkeit +5, Motiv erkennen +3, Täuschen +4
 - **Immunitäten:** Feuer, Gift
 - **Sinne:** Dunkelsicht 36 m (wird nicht durch magische Dunkelheit beeinträchtigt); Passive Wahrnehmung 11
 - **Sprachen:** Gemeinsprache, Infernalisch
 - **HG:** 1 (EP 200; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 6 | -2 | -2 |
+| **GES** | 17 | +3 | +3 |
+| **KON** | 13 | +1 | +1 |
+| **INT** | 11 | +0 | +0 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 14 | +2 | +2 |
 
 
 ## Talente

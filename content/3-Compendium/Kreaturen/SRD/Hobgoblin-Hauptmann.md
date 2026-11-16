@@ -68,15 +68,18 @@ type: Mittelgroßes Feenwesen (Goblinoide), rechtschaffen böse
 - **TP:** 58 (9d8+18)
 - **Initiative:** +4
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 15 | +2 | +2 | **GES** | 14 | +2 | +2 | **KON** | 14 | +2 | +2 |
-| **INT** | 12 | +1 | +1 | **WEI** | 10 | +0 | +0 | **CHA** | 13 | +1 | +1 |
-
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 10
 - **Sprachen:** Gemeinsprache, Goblinisch
 - **HG:** 3 (EP 700; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 15 | +2 | +2 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 14 | +2 | +2 |
+| **INT** | 12 | +1 | +1 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 13 | +1 | +1 |
 
 
 ## Talente

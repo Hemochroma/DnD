@@ -71,16 +71,19 @@ type: Großes Feenwesen, neutral gut
 - **TP:** 45 (6d10+12)
 - **Initiative:** +2
 - **Geschwindigkeit:** 15 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 14 | +2 | +2 | **KON** | 14 | +2 | +2 |
-| **INT** | 9 | -1 | -1 | **WEI** | 13 | +1 | +1 | **CHA** | 11 | +0 | +0 |
-
 - **Rettungswürfe**: Athletik +6, Wahrnehmung +3
 - **Sinne:** Passive Wahrnehmung 13
 - **Sprachen:** Elfisch, Sylvanisch
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 14 | +2 | +2 |
+| **INT** | 9 | -1 | -1 |
+| **WEI** | 13 | +1 | +1 |
+| **CHA** | 11 | +0 | +0 |
 
 
 

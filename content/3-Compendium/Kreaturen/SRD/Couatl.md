@@ -92,16 +92,19 @@ type: Mittelgroßes celestisches Wesen, rechtschaffen gut
 - **TP:** 60 (8d8+24)
 - **Initiative:** +5
 - **Geschwindigkeit:** 9 m, Fliegen 27 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 16 | +3 | +3 | **GES** | 20 | +5 | +5 | **KON** | 17 | +3 | +8 |
-| **INT** | 18 | +4 | +4 | **WEI** | 20 | +5 | +12 | **CHA** | 18 | +4 | +4 |
-
 - **Immunitäten:** Gleißend, Psychisch
 - **Sinne:** Wahrer Blick 36 m; Passive Wahrnehmung 15
 - **Sprachen:** Alle; Telepathie auf 36 m
 - **HG:** 4 (EP 1.100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 16 | +3 | +3 |
+| **GES** | 20 | +5 | +5 |
+| **KON** | 17 | +3 | +8 |
+| **INT** | 18 | +4 | +4 |
+| **WEI** | 20 | +5 | +12 |
+| **CHA** | 18 | +4 | +4 |
 
 
 ## Talente

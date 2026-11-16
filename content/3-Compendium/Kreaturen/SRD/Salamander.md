@@ -72,16 +72,19 @@ type: Großer Elementar, neutral böse
 - **TP:** 90 (12d10+24)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m, Klettern 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 14 | +2 | +2 | **KON** | 15 | +2 | +2 |
-| **INT** | 11 | +0 | +0 | **WEI** | 10 | +0 | +0 | **CHA** | 12 | +1 | +1 |
-
 - **Immunitäten:** Feuer
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 10
 - **Sprachen:** Urtümlich (Ignal)
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 15 | +2 | +2 |
+| **INT** | 11 | +0 | +0 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 12 | +1 | +1 |
 
 
 ## Talente

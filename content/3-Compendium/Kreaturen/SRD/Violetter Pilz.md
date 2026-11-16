@@ -60,16 +60,19 @@ type: Mittelgroße Pflanze, gesinnungslos
 - **TP:** 18 (4d8)
 - **Initiative:** -5
 - **Geschwindigkeit:** 1,5 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 3 | -4 | -4 | **GES** | 1 | -5 | -5 | **KON** | 10 | +0 | +0 |
-| **INT** | 1 | -5 | -5 | **WEI** | 3 | -4 | -4 | **CHA** | 1 | -5 | -5 |
-
 - **Immunitäten:** Bezaubert, Blind, Taub, Verängstigt
 - **Sinne:** Blindsicht 9 m; Passive Wahrnehmung 6
 - **Sprachen:** −
 - **HG:** 1/4 (EP 50; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 3 | -4 | -4 |
+| **GES** | 1 | -5 | -5 |
+| **KON** | 10 | +0 | +0 |
+| **INT** | 1 | -5 | -5 |
+| **WEI** | 3 | -4 | -4 |
+| **CHA** | 1 | -5 | -5 |
 
 
 

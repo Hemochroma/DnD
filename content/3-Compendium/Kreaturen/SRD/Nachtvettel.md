@@ -120,17 +120,20 @@ type: Mittelgroßer Unhold, neutral böse
 - **TP:** 112 (15d8+45)
 - **Initiative:** +5
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 15 | +2 | +2 | **KON** | 16 | +3 | +3 |
-| **INT** | 16 | +3 | +3 | **WEI** | 14 | +2 | +2 | **CHA** | 16 | +3 | +3 |
-
 - **Rettungswürfe**: Heimlichkeit +5, Motiv erkennen +5, Täuschen +6, Wahrnehmung +5
 - **Immunitäten:** Bezaubert
 - **Sinne:** Dunkelsicht 36 m; Passive Wahrnehmung 15
 - **Sprachen:** Abyssisch, Gemeinsprache, Infernalisch, Urtümlich
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 15 | +2 | +2 |
+| **KON** | 16 | +3 | +3 |
+| **INT** | 16 | +3 | +3 |
+| **WEI** | 14 | +2 | +2 |
+| **CHA** | 16 | +3 | +3 |
 
 
 ## Talente

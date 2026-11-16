@@ -65,15 +65,18 @@ type: Kleiner Riese, chaotisch böse
 - **TP:** 14 (4d6)
 - **Initiative:** +1
 - **Geschwindigkeit:** 6 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 12 | +1 | +1 | **KON** | 10 | +0 | +0 |
-| **INT** | 1 | -5 | -5 | **WEI** | 9 | -1 | -1 | **CHA** | 1 | -5 | -5 |
-
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 9
 - **Sprachen:** −
 - **HG:** 1/2 (EP 100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 12 | +1 | +1 |
+| **KON** | 10 | +0 | +0 |
+| **INT** | 1 | -5 | -5 |
+| **WEI** | 9 | -1 | -1 |
+| **CHA** | 1 | -5 | -5 |
 
 
 ## Talente

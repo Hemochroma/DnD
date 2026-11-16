@@ -64,16 +64,19 @@ type: Großes celestisches Wesen, chaotisch gut
 - **TP:** 59 (7d10+21)
 - **Initiative:** +2
 - **Geschwindigkeit:** 18 m, Fliegen 27 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 18 | +4 | +4 | **GES** | 15 | +2 | +6 | **KON** | 16 | +3 | +8 |
-| **INT** | 10 | +0 | +0 | **WEI** | 15 | +2 | +6 | **CHA** | 13 | +1 | +4 |
-
 - **Rettungswürfe**: Wahrnehmung +6
 - **Sinne:** Passive Wahrnehmung 16
 - **Sprachen:** Versteht Celestisch, Elfisch, Gemeinsprache und Sylvanisch, kann jedoch nicht sprechen
 - **HG:** 2 (EP 450; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 18 | +4 | +4 |
+| **GES** | 15 | +2 | +6 |
+| **KON** | 16 | +3 | +8 |
+| **INT** | 10 | +0 | +0 |
+| **WEI** | 15 | +2 | +6 |
+| **CHA** | 13 | +1 | +4 |
 
 
 

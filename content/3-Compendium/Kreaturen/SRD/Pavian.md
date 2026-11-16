@@ -58,15 +58,18 @@ type: Kleines Tier, gesinnungslos
 - **TP:** 3 (1d6)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m, Klettern 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 8 | -1 | -1 | **GES** | 14 | +2 | +2 | **KON** | 11 | +0 | +0 |
-| **INT** | 4 | -3 | -3 | **WEI** | 12 | +1 | +1 | **CHA** | 6 | -2 | -2 |
-
 - **Sinne:** Passive Wahrnehmung 11
 - **Sprachen:** −
 - **HG:** 0 (EP 10, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 8 | -1 | -1 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 11 | +0 | +0 |
+| **INT** | 4 | -3 | -3 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 6 | -2 | -2 |
 
 
 ## Talente

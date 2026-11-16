@@ -92,17 +92,20 @@ type: Riesiger Riese, chaotisch gut
 - **TP:** 230 (20d12+100)
 - **Initiative:** +7
 - **Geschwindigkeit:** 15 m, Fliegen 7,5 m (Schweben), Schwimmen 15 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 29 | +9 | +23 | **GES** | 14 | +2 | +2 | **KON** | 20 | +5 | +15 |
-| **INT** | 16 | +3 | +3 | **WEI** | 20 | +5 | +15 | **CHA** | 18 | +4 | +13 |
-
 - **Rettungswürfe**: Arkane Kunde +8, Athletik +14, Geschichte +8, Wahrnehmung +10
 - **Immunitäten:** Blitz, Schall
 - **Sinne:** Dunkelsicht 36 m, Wahrer Blick 9 m; Passive Wahrnehmung 20
 - **Sprachen:** Gemeinsprache, Riesisch
 - **HG:** 13 (EP 10.000; ÜB +5)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 29 | +9 | +23 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 20 | +5 | +15 |
+| **INT** | 16 | +3 | +3 |
+| **WEI** | 20 | +5 | +15 |
+| **CHA** | 18 | +4 | +13 |
 
 
 ## Talente

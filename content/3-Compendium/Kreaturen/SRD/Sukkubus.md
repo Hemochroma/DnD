@@ -86,16 +86,19 @@ type: Mittelgroßer Unhold, neutral böse
 - **TP:** 71 (13d8+13)
 - **Initiative:** +3
 - **Geschwindigkeit:** 9 m, Fliegen 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 8 | -1 | -1 | **GES** | 17 | +3 | +3 | **KON** | 13 | +1 | +1 |
-| **INT** | 15 | +2 | +2 | **WEI** | 12 | +1 | +1 | **CHA** | 20 | +5 | +5 |
-
 - **Rettungswürfe**: Heimlichkeit +7, Motiv erkennen +5, Täuschen +9, Überzeugen +9, Wahrnehmung +5
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 15
 - **Sprachen:** Abyssisch, Gemeinsprache, Infernalisch; Telepathie auf 18 m
 - **HG:** 4 (EP 1.100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 8 | -1 | -1 |
+| **GES** | 17 | +3 | +3 |
+| **KON** | 13 | +1 | +1 |
+| **INT** | 15 | +2 | +2 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 20 | +5 | +5 |
 
 
 ## Talente

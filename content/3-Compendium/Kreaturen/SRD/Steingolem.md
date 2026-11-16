@@ -76,16 +76,19 @@ type: Großes Konstrukt, gesinnungslos
 - **TP:** 220 (21d10+105)
 - **Initiative:** +3
 - **Geschwindigkeit:** 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 22 | +6 | +6 | **GES** | 9 | -1 | -1 | **KON** | 20 | +5 | +5 |
-| **INT** | 3 | -4 | -4 | **WEI** | 11 | +0 | +0 | **CHA** | 1 | -5 | -5 |
-
 - **Immunitäten:** Gift, Psychisch
 - **Sinne:** Dunkelsicht 36 m; Passive Wahrnehmung 10
 - **Sprachen:** Versteht Gemeinsprache und zwei weitere Sprachen, kann jedoch nicht sprechen
 - **HG:** 10 (EP 5.900; ÜB +4)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 22 | +6 | +6 |
+| **GES** | 9 | -1 | -1 |
+| **KON** | 20 | +5 | +5 |
+| **INT** | 3 | -4 | -4 |
+| **WEI** | 11 | +0 | +0 |
+| **CHA** | 1 | -5 | -5 |
 
 
 ## Talente

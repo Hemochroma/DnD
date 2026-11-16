@@ -59,16 +59,19 @@ type: Großes Feenwesen, neutral böse
 - **TP:** 26 (4d10+4)
 - **Initiative:** +1
 - **Geschwindigkeit:** 15 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 16 | +3 | +3 | **GES** | 13 | +1 | +1 | **KON** | 13 | +1 | +1 |
-| **INT** | 7 | -2 | -2 | **WEI** | 11 | +0 | +0 | **CHA** | 8 | -1 | -1 |
-
 - **Rettungswürfe**: Wahrnehmung +4
 - **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 14
 - **Sprachen:** Goblinisch, Worgisch
 - **HG:** 1/2 (EP 100; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 16 | +3 | +3 |
+| **GES** | 13 | +1 | +1 |
+| **KON** | 13 | +1 | +1 |
+| **INT** | 7 | -2 | -2 |
+| **WEI** | 11 | +0 | +0 |
+| **CHA** | 8 | -1 | -1 |
 
 
 

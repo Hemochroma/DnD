@@ -60,16 +60,19 @@ type: Mittelgroße Aberration, neutral böse
 - **TP:** 11 (2d8+2)
 - **Initiative:** +1
 - **Geschwindigkeit:** 9 m, Klettern 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 16 | +3 | +3 | **GES** | 12 | +1 | +1 | **KON** | 12 | +1 | +1 |
-| **INT** | 9 | -1 | -1 | **WEI** | 8 | -1 | -1 | **CHA** | 6 | -2 | -2 |
-
 - **Rettungswürfe**: Athletik +5, Heimlichkeit +5, Wahrnehmung +3
 - **Sinne:** Blindsicht 9 m; Passive Wahrnehmung 13
 - **Sprachen:** −
 - **HG:** 1/4 (EP 50; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 16 | +3 | +3 |
+| **GES** | 12 | +1 | +1 |
+| **KON** | 12 | +1 | +1 |
+| **INT** | 9 | -1 | -1 |
+| **WEI** | 8 | -1 | -1 |
+| **CHA** | 6 | -2 | -2 |
 
 
 

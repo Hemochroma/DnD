@@ -61,16 +61,19 @@ type: Winziges Tier, gesinnungslos
 - **TP:** 1 (1d4-1)
 - **Initiative:** +1
 - **Geschwindigkeit:** 1,5 m, Fliegen 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 3 | -4 | -4 | **GES** | 13 | +1 | +1 | **KON** | 8 | -1 | -1 |
-| **INT** | 2 | -4 | -4 | **WEI** | 12 | +1 | +1 | **CHA** | 7 | -2 | -2 |
-
 - **Rettungswürfe**: Heimlichkeit +5, Wahrnehmung +5
 - **Sinne:** Dunkelsicht 36 m; Passive Wahrnehmung 15
 - **Sprachen:** −
 - **HG:** 0 (EP 10, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 3 | -4 | -4 |
+| **GES** | 13 | +1 | +1 |
+| **KON** | 8 | -1 | -1 |
+| **INT** | 2 | -4 | -4 |
+| **WEI** | 12 | +1 | +1 |
+| **CHA** | 7 | -2 | -2 |
 
 
 ## Talente

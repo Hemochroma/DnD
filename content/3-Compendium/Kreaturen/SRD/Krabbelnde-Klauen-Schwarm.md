@@ -72,16 +72,19 @@ type: Mittelgroßer Schwarm winziger Untoter, neutral böse
 - **TP:** 49 (11d8)
 - **Initiative:** +2
 - **Geschwindigkeit:** 9 m, Klettern 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 14 | +2 | +2 | **GES** | 14 | +2 | +2 | **KON** | 11 | +0 | +0 |
-| **INT** | 5 | -3 | -3 | **WEI** | 10 | +0 | +0 | **CHA** | 4 | -3 | -3 |
-
 - **Immunitäten:** Gift, Nekrotisch
 - **Sinne:** Blindsicht 9 m; Passive Wahrnehmung 10
 - **Sprachen:** Versteht Gemeinsprache, kann jedoch nicht sprechen
 - **HG:** 3 (EP 700; ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 14 | +2 | +2 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 11 | +0 | +0 |
+| **INT** | 5 | -3 | -3 |
+| **WEI** | 10 | +0 | +0 |
+| **CHA** | 4 | -3 | -3 |
 
 
 ## Talente

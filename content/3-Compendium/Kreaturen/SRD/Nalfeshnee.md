@@ -91,16 +91,19 @@ type: Großer Unhold (Dämon), chaotisch böse
 - **TP:** 184 (16d10+96)
 - **Initiative:** +5
 - **Geschwindigkeit:** 6 m, Fliegen 9 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 21 | +5 | +5 | **GES** | 10 | +0 | +0 | **KON** | 22 | +6 | +17 |
-| **INT** | 19 | +4 | +13 | **WEI** | 12 | +1 | +7 | **CHA** | 15 | +2 | +9 |
-
 - **Immunitäten:** Gift
 - **Sinne:** Wahrer Blick 36 m; Passive Wahrnehmung 11
 - **Sprachen:** Abyssisch; Telepathie auf 36 m
 - **HG:** 13 (EP 10.000; ÜB +5)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 21 | +5 | +5 |
+| **GES** | 10 | +0 | +0 |
+| **KON** | 22 | +6 | +17 |
+| **INT** | 19 | +4 | +13 |
+| **WEI** | 12 | +1 | +7 |
+| **CHA** | 15 | +2 | +9 |
 
 
 ## Talente

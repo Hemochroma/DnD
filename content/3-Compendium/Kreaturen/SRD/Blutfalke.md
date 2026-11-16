@@ -62,16 +62,19 @@ type: Kleines Tier, gesinnungslos
 - **TP:** 7 (2d6)
 - **Initiative:** +2
 - **Geschwindigkeit:** 3 m, Fliegen 18 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 6 | -2 | -2 | **GES** | 14 | +2 | +2 | **KON** | 10 | +0 | +0 |
-| **INT** | 3 | -4 | -4 | **WEI** | 14 | +2 | +2 | **CHA** | 5 | -3 | -3 |
-
 - **Rettungswürfe**: Wahrnehmung +6
 - **Sinne:** Passive Wahrnehmung 16
 - **Sprachen:** −
 - **HG:** 1/8 (EP 25, ÜB +2)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 6 | -2 | -2 |
+| **GES** | 14 | +2 | +2 |
+| **KON** | 10 | +0 | +0 |
+| **INT** | 3 | -4 | -4 |
+| **WEI** | 14 | +2 | +2 |
+| **CHA** | 5 | -3 | -3 |
 
 
 ## Talente

@@ -65,16 +65,19 @@ type: Riesiger Riese, chaotisch böse
 - **TP:** 105 (10d12+40)
 - **Initiative:** +2
 - **Geschwindigkeit:** 12 m
-
-|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
-|--|--|-----|----|--|--|-----|----|--|--|-----|----|
-| **STÄ** | 21 | +5 | +5 | **GES** | 8 | -1 | -1 | **KON** | 19 | +4 | +4 |
-| **INT** | 5 | -3 | -3 | **WEI** | 9 | -1 | -1 | **CHA** | 6 | -2 | -2 |
-
 - **Rettungswürfe**: Wahrnehmung +2
 - **Sinne:** Passive Wahrnehmung 12
 - **Sprachen:** Riesisch
 - **HG:** 5 (EP 1.800; ÜB +3)
+
+|||Mod|RW|
+|:--:|:--:|:-----:|:----:|
+| **STÄ** | 21 | +5 | +5 |
+| **GES** | 8 | -1 | -1 |
+| **KON** | 19 | +4 | +4 |
+| **INT** | 5 | -3 | -3 |
+| **WEI** | 9 | -1 | -1 |
+| **CHA** | 6 | -2 | -2 |
 
 
 
