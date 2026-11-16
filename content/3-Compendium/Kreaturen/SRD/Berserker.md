@@ -1,73 +1,82 @@
 ---
-srd: "criatura/berserker"
-tags:
-  - "srd/kreatur"
-source: SRD
-typ: "Kleiner oder mittelgroßer Humanoide, neutral"
-gruppe: "Berserker"
-hg: "2"
-ep: 450
-rk: 13
-tp: 67
-initiative: 1
-statblock: true
-layout: "Compendio SRD 2024 (Deutsch)"
-name: "Berserker"
-type: "Kleiner oder mittelgroßer Humanoide, neutral"
 ac: 13
-hp: 67
-hit_dice: "9d8+27"
-modifier: 1
-speed: "9 m"
-stats:
-  - 16
-  - 12
-  - 17
-  - 9
-  - 11
-  - 9
-initiative_text: "+1 (11)"
-hp_text: "67 (9W8+27)"
-stats_table: "|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Stä** | 16 | +3 | +3 | **Ges** | 12 | +1 | +1 | **Kon** | 17 | +3 | +3 |\n| **Int** | 9 | −1 | −1 | **Wei** | 11 | +0 | +0 | **Cha** | 9 | −1 | −1 |"
-gear: "Fellrüstung, Zweihandaxt"
-cr_text: "2 (EP 450; ÜB +2)"
-senses: "Passive Wahrnehmung 10"
-languages: "Gemeinsprache"
-cr: 2
-traits:
-  - name: "Blutige Raserei:"
-    desc: "Wenn der Berserker blutig ist, ist er bei Angriffswürfen und Rettungswürfen im Vorteil."
 actions:
-  - name: "Zweihandaxt:"
-    desc: "*Nahkampfangriffswurf:* +5, Reichweite 1,5 m. *Treffer:* 9 (1W12+3) Hiebschaden."
+- desc: '*Nahkampfangriffswurf:* +5, Reichweite 1,5 m. *Treffer:* 9 (1W12+3) Hiebschaden.'
+  name: 'Zweihandaxt:'
+cr: 2
+cr_text: 2 (EP 450; ÜB +2)
+ep: 450
+gear: Fellrüstung, Zweihandaxt
+gruppe: Berserker
+hg: '2'
+hit_dice: 9d8+27
+hp: 67
+hp_text: 67 (9W8+27)
+initiative: 1
+initiative_text: +1 (11)
+languages: Gemeinsprache
+layout: Compendio SRD 2024 (Deutsch)
+modifier: 1
+name: Berserker
+rk: 13
+senses: Passive Wahrnehmung 10
+source: SRD
+speed: 9 m
+srd: criatura/berserker
+statblock: true
+stats:
+- 16
+- 12
+- 17
+- 9
+- 11
+- 9
+stats_table: '|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
+
+  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+  | **Stä** | 16 | +3 | +3 | **Ges** | 12 | +1 | +1 | **Kon** | 17 | +3 | +3 |
+
+  | **Int** | 9 | −1 | −1 | **Wei** | 11 | +0 | +0 | **Cha** | 9 | −1 | −1 |'
+tags:
+- srd/kreatur
+tp: 67
+traits:
+- desc: Wenn der Berserker blutig ist, ist er bei Angriffswürfen und Rettungswürfen
+    im Vorteil.
+  name: 'Blutige Raserei:'
+typ: Kleiner oder mittelgroßer Humanoide, neutral
+type: Kleiner oder mittelgroßer Humanoide, neutral
 ---
 
-> [!srd-ficha] Berserker
-> *Kleiner oder mittelgroßer Humanoide, neutral*
->
-> **RK** 13 · **Initiative** +1 (11)
->
-> **TP** 67 (9W8+27)
->
-> **Bewegungsrate** 9 m
->
-> |   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | **Stä** | 16 | +3 | +3 | **Ges** | 12 | +1 | +1 | **Kon** | 17 | +3 | +3 |
-> | **Int** | 9 | −1 | −1 | **Wei** | 11 | +0 | +0 | **Cha** | 9 | −1 | −1 |
->
-> **Ausrüstung** Fellrüstung, Zweihandaxt
->
-> **Sinne** Passive Wahrnehmung 10
->
-> **Sprachen** Gemeinsprache
->
-> **HG** 2 (EP 450; ÜB +2)
+# Berserker
 
-## Merkmale
+*Kleiner oder mittelgroßer Humanoide, neutral*
 
-***Blutige Raserei:*** Wenn der Berserker blutig ist, ist er bei Angriffswürfen und Rettungswürfen im Vorteil.
+## Statistik
+
+- **RK:** 13
+- **TP:** 67 (9d8+27)
+- **Initiative:** +1
+- **Geschwindigkeit:** 9 m
+
+|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
+|--|--|-----|----|--|--|-----|----|--|--|-----|----|
+| **STÄ** | 16 | +3 | +3 | **GES** | 12 | +1 | +1 | **KON** | 17 | +3 | +3 |
+| **INT** | 9 | -1 | -1 | **WEI** | 11 | +0 | +0 | **CHA** | 9 | -1 | -1 |
+
+- **Sinne:** Passive Wahrnehmung 10
+- **Sprachen:** Gemeinsprache
+- **HG:** 2 (EP 450; ÜB +2)
+
+
+## Talente
+
+### Blutige Raserei:
+Wenn der Berserker blutig ist, ist er bei Angriffswürfen und Rettungswürfen im Vorteil.
+
 
 ## Aktionen
 
-***Zweihandaxt:*** *Nahkampfangriffswurf:* +5, Reichweite 1,5 m. *Treffer:* 9 (1W12+3) Hiebschaden.
+### Zweihandaxt:
+*Nahkampfangriffswurf:* +5, Reichweite 1,5 m. *Treffer:* 9 (1W12+3) Hiebschaden.

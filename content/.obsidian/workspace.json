@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Compendium/Kreaturen/LoZ/Remort.md",
-                "mode": "preview",
+                "file": "3-Compendium/Kreaturen/LoZ/Eisenprinz.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Remort"
+              "title": "Eisenprinz"
             }
           }
         ]
@@ -266,8 +266,7 @@
               "title": "Combatant"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -299,40 +298,40 @@
   },
   "active": "15e0170f3732c5d5",
   "lastOpenFiles": [
-    "3-Compendium/Kreaturen/LoZ/Dodongo.md",
+    "3-Compendium/Kreaturen/SRD/Azer-Wächter.md",
+    "3-Compendium/Kreaturen/SRD/Ausgewachsener roter Drache.md",
+    "3-Compendium/Kreaturen/SRD/Ausgewachsener schwarzer Drache.md",
+    "3-Compendium/Kreaturen/SRD/Baumhirte.md",
+    "3-Compendium/Kreaturen/SRD/Berserker.md",
+    "3-Compendium/Kreaturen/SRD/Blutfalke.md",
+    "3-Compendium/Kreaturen/SRD/Ausgewachsener grüner Drache.md",
+    "3-Compendium/Kreaturen/SRD/Ausgewachsener Bronzedrache.md",
+    "3-Compendium/Kreaturen/SRD/Eisteufel.md",
+    "3-Compendium/Kreaturen/SRD/Düstermantel.md",
+    "3-Compendium/Kreaturen/SRD/Drinne.md",
+    "3-Compendium/Kreaturen/SRD/Blutmücke.md",
+    "3-Compendium/Kreaturen/SRD/Ausgewachsener Kupferdrache.md",
+    "3-Compendium/Kreaturen/SRD/Atterkopp.md",
+    "3-Compendium/Kreaturen/SRD/Ausgewachsener blauer Drache.md",
+    "3-Compendium/Kreaturen/SRD/Assassine.md",
+    "3-Compendium/Kreaturen/SRD/Archelon.md",
+    "3-Compendium/Kreaturen/SRD/Ankylosaurus.md",
+    "3-Compendium/Kreaturen/SRD/Ankheg.md",
+    "3-Compendium/Kreaturen/SRD/Allosaurus.md",
+    "3-Compendium/Kreaturen/SRD/Aboleth.md",
+    "3-Compendium/Kreaturen/LoZ/Remort.md",
     "3-Compendium/Kreaturen/LoZ/Eisenprinz.md",
-    "3-Compendium/Kreaturen/Homebrew/Schwarm.md",
-    "1-Sessions/Die Götter von Morgen/2026.11.15 - Session 4.md",
-    "1-Sessions/Die Götter von Morgen/2026.10.31 - Session 3.md",
-    "3-Compendium/Lizenz.md",
-    "3-Compendium/Start.md",
-    "0-Notizen/Kampagnen Ideensammlung/Story Events.md",
-    "1-Party/1-Party.md",
-    "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
-    "0-Notizen/Template Design.md",
-    "0-Obsidian TTRPG Tutorial/Template Explained.md",
-    "z_Templates/World Builder Templates/Template-Hub.md",
-    "z_Testing/Home Embeds.md",
-    "0-Notizen/Kampagnen Ideensammlung/Story Informations.md",
+    "3-Compendium/Kreaturen/LoZ/Dodongo.md",
+    "3-Compendium/Kreaturen/SRD/Adeliger.md",
+    "1-Party/Die Götter von Morgen/Rika Blutaxt.md",
     "0-Notizen/Charakerbögen/Rika 'Blutaxt' Kornhammer - Character Sheet.pdf",
-    "0-Notizen/Random Dungeon.md",
     "0-Notizen/Charakerbögen/DnD_2024_Character-Sheet.pdf",
     "0-Notizen/Charakerbögen/Charakterbogen_2024_deutsch_inoffizielle_Übersetzung.pdf",
     "0-Notizen/Charakerbögen/Charakterbogen_2024.pdf",
     "0-Notizen/Charakerbögen/character-sheet.pdf",
-    "0-Notizen/Tokenizer.md",
     "0-Notizen/Charakerbögen",
     "0-Notizen/med.jpg",
-    "3-Compendium/Regeln/W20-Prüfungen.md",
     "0-Notizen/Nicht bestätigt 801600.crdownload",
-    "2-Kampagne/NPC/Ilvara 'Ilvy' Wavencrest.md",
-    "2-Kampagne/2-Kampagne.md",
-    "0-DM Toolkit/Hit-Dice Calculator.md",
-    "0-DM Toolkit/Kurze & Lange Rast.md",
-    "1-Party/Die Götter von Morgen/Elora.md",
-    "1-Party/Die Götter von Morgen/Rika Blutaxt.md",
-    "1-Party/Die Götter von Morgen/Velaris Elarion.md",
-    "3-Compendium/Kreaturen/Kreaturen.md",
     "0-DM Toolkit/Battle Flowchart.canvas",
     "z_Templates/Bases Templates/Bases - Recently Modified Template Content.base",
     "3-Compendium/Kreaturen/LoZ",

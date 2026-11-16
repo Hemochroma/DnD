@@ -1,70 +1,82 @@
 ---
-srd: "criatura/animated-flying-sword"
-tags:
-  - "srd/kreatur"
-source: SRD
-typ: "Kleines Konstrukt, gesinnungslos"
-gruppe: "Belebte Gegenstände"
-hg: "1/4"
-ep: 50
-rk: 17
-tp: 14
-initiative: 4
-statblock: true
-layout: "Compendio SRD 2024 (Deutsch)"
-name: "Belebtes fliegendes Schwert"
-type: "Kleines Konstrukt, gesinnungslos"
 ac: 17
-hp: 14
-hit_dice: "4d6"
-modifier: 4
-speed: "1,5 m, Fliegen 15 m (Schweben)"
-stats:
-  - 12
-  - 15
-  - 11
-  - 1
-  - 5
-  - 1
-initiative_text: "+4 (14)"
-hp_text: "14 (4W6)"
-stats_table: "|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Stä** | 12 | +1 | +1 | **Ges** | 15 | +2 | +4 | **Kon** | 11 | +0 | +0 |\n| **Int** | 1 | −5 | −5 | **Wei** | 5 | −3 | −3 | **Cha** | 1 | −5 | −5 |"
-immunities_text: "Gift, Psychisch; [[3-Compendium/Zustände/Bezaubert|Bezaubert]], Erschöpft, [[3-Compendium/Zustände/Gelähmt|Gelähmt]], [[3-Compendium/Zustände/Taub|Taub]], [[3-Compendium/Zustände/Verängstigt|Verängstigt]], [[3-Compendium/Zustände/Vergiftet|Vergiftet]], [[3-Compendium/Zustände/Versteinert|Versteinert]]"
-cr_text: "1/4 (EP 50; ÜB +2)"
-saves:
-  - Ges: 4
-damage_immunities: "Gift, Psychisch"
-condition_immunities: "Bezaubert, Erschöpft, Gelähmt, Taub, Verängstigt, Vergiftet, Versteinert"
-senses: "Blindsicht 18 m; Passive Wahrnehmung 7"
-languages: "−"
-cr: "1/4"
 actions:
-  - name: "Schlitzen:"
-    desc: "*Nahkampfangriffswurf:* +4, Reichweite 1,5 m. *Treffer:* 6 (1W8+2) Hiebschaden."
+- desc: '*Nahkampfangriffswurf:* +4, Reichweite 1,5 m. *Treffer:* 6 (1W8+2) Hiebschaden.'
+  name: 'Schlitzen:'
+condition_immunities: Bezaubert, Erschöpft, Gelähmt, Taub, Verängstigt, Vergiftet,
+  Versteinert
+cr: 1/4
+cr_text: 1/4 (EP 50; ÜB +2)
+damage_immunities: Gift, Psychisch
+ep: 50
+gruppe: Belebte Gegenstände
+hg: 1/4
+hit_dice: 4d6
+hp: 14
+hp_text: 14 (4W6)
+immunities_text: Gift, Psychisch; [[3-Compendium/Zustände/Bezaubert|Bezaubert]], Erschöpft,
+  [[3-Compendium/Zustände/Gelähmt|Gelähmt]], [[3-Compendium/Zustände/Taub|Taub]],
+  [[3-Compendium/Zustände/Verängstigt|Verängstigt]], [[3-Compendium/Zustände/Vergiftet|Vergiftet]],
+  [[3-Compendium/Zustände/Versteinert|Versteinert]]
+initiative: 4
+initiative_text: +4 (14)
+languages: −
+layout: Compendio SRD 2024 (Deutsch)
+modifier: 4
+name: Belebtes fliegendes Schwert
+rk: 17
+saves:
+- Ges: 4
+senses: Blindsicht 18 m; Passive Wahrnehmung 7
+source: SRD
+speed: 1,5 m, Fliegen 15 m (Schweben)
+srd: criatura/animated-flying-sword
+statblock: true
+stats:
+- 12
+- 15
+- 11
+- 1
+- 5
+- 1
+stats_table: '|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
+
+  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+  | **Stä** | 12 | +1 | +1 | **Ges** | 15 | +2 | +4 | **Kon** | 11 | +0 | +0 |
+
+  | **Int** | 1 | −5 | −5 | **Wei** | 5 | −3 | −3 | **Cha** | 1 | −5 | −5 |'
+tags:
+- srd/kreatur
+tp: 14
+typ: Kleines Konstrukt, gesinnungslos
+type: Kleines Konstrukt, gesinnungslos
 ---
 
-> [!srd-ficha] Belebtes fliegendes Schwert
-> *Kleines Konstrukt, gesinnungslos*
->
-> **RK** 17 · **Initiative** +4 (14)
->
-> **TP** 14 (4W6)
->
-> **Bewegungsrate** 1,5 m, Fliegen 15 m (Schweben)
->
-> |   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | **Stä** | 12 | +1 | +1 | **Ges** | 15 | +2 | +4 | **Kon** | 11 | +0 | +0 |
-> | **Int** | 1 | −5 | −5 | **Wei** | 5 | −3 | −3 | **Cha** | 1 | −5 | −5 |
->
-> **Immunitäten** Gift, Psychisch; [[Bezaubert|Bezaubert]], Erschöpft, [[Gelähmt|Gelähmt]], [[Taub|Taub]], [[Verängstigt|Verängstigt]], [[Vergiftet|Vergiftet]], [[Versteinert|Versteinert]]
->
-> **Sinne** Blindsicht 18 m; Passive Wahrnehmung 7
->
-> **Sprachen** −
->
-> **HG** 1/4 (EP 50; ÜB +2)
+# Belebtes fliegendes Schwert
+
+*Kleines Konstrukt, gesinnungslos*
+
+## Statistik
+
+- **RK:** 17
+- **TP:** 14 (4d6)
+- **Initiative:** +4
+- **Geschwindigkeit:** 1,5 m, Fliegen 15 m (Schweben)
+
+|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
+|--|--|-----|----|--|--|-----|----|--|--|-----|----|
+| **STÄ** | 12 | +1 | +1 | **GES** | 15 | +2 | +6 | **KON** | 11 | +0 | +0 |
+| **INT** | 1 | -5 | -5 | **WEI** | 5 | -3 | -3 | **CHA** | 1 | -5 | -5 |
+
+- **Immunitäten:** Gift, Psychisch
+- **Sinne:** Blindsicht 18 m; Passive Wahrnehmung 7
+- **Sprachen:** −
+- **HG:** 1/4 (EP 50; ÜB +2)
+
+
 
 ## Aktionen
 
-***Schlitzen:*** *Nahkampfangriffswurf:* +4, Reichweite 1,5 m. *Treffer:* 6 (1W8+2) Hiebschaden.
+### Schlitzen:
+*Nahkampfangriffswurf:* +4, Reichweite 1,5 m. *Treffer:* 6 (1W8+2) Hiebschaden.

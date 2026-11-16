@@ -1,75 +1,85 @@
 ---
-srd: "criatura/seahorse"
-tags:
-  - "srd/kreatur"
-source: SRD
-typ: "Winziges Tier, gesinnungslos"
-hg: "0"
-ep: 0
-rk: 12
-tp: 1
-initiative: 1
-statblock: true
-layout: "Compendio SRD 2024 (Deutsch)"
-name: "Seepferdchen"
-type: "Winziges Tier, gesinnungslos"
 ac: 12
-hp: 1
-hit_dice: "1d4-1"
-modifier: 1
-speed: "1,5 m, Schwimmen 6 m"
-stats:
-  - 1
-  - 12
-  - 8
-  - 1
-  - 10
-  - 2
-initiative_text: "+1 (11)"
-hp_text: "1 (1W4−1)"
-stats_table: "|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Stä** | 1 | −5 | −5 | **Ges** | 12 | +1 | +1 | **Kon** | 8 | −1 | −1 |\n| **Int** | 1 | −5 | −5 | **Wei** | 10 | +0 | +0 | **Cha** | 2 | −4 | −4 |"
-skills_text: "Heimlichkeit +5, Wahrnehmung +2"
-cr_text: "0 (EP 0; ÜB +2)"
-skillsaves:
-  - Heimlichkeit: 5
-  - Wahrnehmung: 2
-senses: "Passive Wahrnehmung 12"
-languages: "−"
-cr: 0
-traits:
-  - name: "Wasser atmen:"
-    desc: "Das Seepferdchen kann nur unter Wasser atmen."
 actions:
-  - name: "Blasenspurt:"
-    desc: "Solange das Seepferdchen sich unter Wasser befindet, legt es bis zu seiner Schwimmbewegungsrate zurück, ohne Gelegenheitsangriffe zu provozieren."
+- desc: Solange das Seepferdchen sich unter Wasser befindet, legt es bis zu seiner
+    Schwimmbewegungsrate zurück, ohne Gelegenheitsangriffe zu provozieren.
+  name: 'Blasenspurt:'
+cr: 0
+cr_text: 0 (EP 0; ÜB +2)
+ep: 0
+hg: '0'
+hit_dice: 1d4-1
+hp: 1
+hp_text: 1 (1W4−1)
+initiative: 1
+initiative_text: +1 (11)
+languages: −
+layout: Compendio SRD 2024 (Deutsch)
+modifier: 1
+name: Seepferdchen
+rk: 12
+senses: Passive Wahrnehmung 12
+skills_text: Heimlichkeit +5, Wahrnehmung +2
+skillsaves:
+- Heimlichkeit: 5
+- Wahrnehmung: 2
+source: SRD
+speed: 1,5 m, Schwimmen 6 m
+srd: criatura/seahorse
+statblock: true
+stats:
+- 1
+- 12
+- 8
+- 1
+- 10
+- 2
+stats_table: '|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
+
+  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+  | **Stä** | 1 | −5 | −5 | **Ges** | 12 | +1 | +1 | **Kon** | 8 | −1 | −1 |
+
+  | **Int** | 1 | −5 | −5 | **Wei** | 10 | +0 | +0 | **Cha** | 2 | −4 | −4 |'
+tags:
+- srd/kreatur
+tp: 1
+traits:
+- desc: Das Seepferdchen kann nur unter Wasser atmen.
+  name: 'Wasser atmen:'
+typ: Winziges Tier, gesinnungslos
+type: Winziges Tier, gesinnungslos
 ---
 
-> [!srd-ficha] Seepferdchen
-> *Winziges Tier, gesinnungslos*
->
-> **RK** 12 · **Initiative** +1 (11)
->
-> **TP** 1 (1W4−1)
->
-> **Bewegungsrate** 1,5 m, Schwimmen 6 m
->
-> |   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | **Stä** | 1 | −5 | −5 | **Ges** | 12 | +1 | +1 | **Kon** | 8 | −1 | −1 |
-> | **Int** | 1 | −5 | −5 | **Wei** | 10 | +0 | +0 | **Cha** | 2 | −4 | −4 |
->
-> **Fertigkeiten** Heimlichkeit +5, Wahrnehmung +2
->
-> **Sinne** Passive Wahrnehmung 12
->
-> **Sprachen** −
->
-> **HG** 0 (EP 0; ÜB +2)
+# Seepferdchen
 
-## Merkmale
+*Winziges Tier, gesinnungslos*
 
-***Wasser atmen:*** Das Seepferdchen kann nur unter Wasser atmen.
+## Statistik
+
+- **RK:** 12
+- **TP:** 1 (1d4-1)
+- **Initiative:** +1
+- **Geschwindigkeit:** 1,5 m, Schwimmen 6 m
+
+|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
+|--|--|-----|----|--|--|-----|----|--|--|-----|----|
+| **STÄ** | 1 | -5 | -5 | **GES** | 12 | +1 | +1 | **KON** | 8 | -1 | -1 |
+| **INT** | 1 | -5 | -5 | **WEI** | 10 | +0 | +0 | **CHA** | 2 | -4 | -4 |
+
+- **Rettungswürfe**: Heimlichkeit +5, Wahrnehmung +2
+- **Sinne:** Passive Wahrnehmung 12
+- **Sprachen:** −
+- **HG:** 0 (EP 0; ÜB +2)
+
+
+## Talente
+
+### Wasser atmen:
+Das Seepferdchen kann nur unter Wasser atmen.
+
 
 ## Aktionen
 
-***Blasenspurt:*** Solange das Seepferdchen sich unter Wasser befindet, legt es bis zu seiner Schwimmbewegungsrate zurück, ohne Gelegenheitsangriffe zu provozieren.
+### Blasenspurt:
+Solange das Seepferdchen sich unter Wasser befindet, legt es bis zu seiner Schwimmbewegungsrate zurück, ohne Gelegenheitsangriffe zu provozieren.

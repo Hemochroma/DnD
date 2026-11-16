@@ -1,77 +1,89 @@
 ---
-srd: "criatura/zombie"
-tags:
-  - "srd/kreatur"
-source: SRD
-typ: "Mittelgroßer Untoter, neutral böse"
-gruppe: "Zombies"
-hg: "1/4"
-ep: 50
-rk: 8
-tp: 15
-initiative: -2
-statblock: true
-layout: "Compendio SRD 2024 (Deutsch)"
-name: "Zombie"
-type: "Mittelgroßer Untoter, neutral böse"
 ac: 8
-hp: 15
-hit_dice: "2d8+6"
-modifier: -2
-speed: "6 m"
-stats:
-  - 13
-  - 6
-  - 16
-  - 3
-  - 6
-  - 5
-initiative_text: "–2 (8)"
-hp_text: "15 (2W8+6)"
-stats_table: "|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Stä** | 13 | +1 | +1 | **Ges** | 6 | −2 | −2 | **Kon** | 16 | +3 | +3 |\n| **Int** | 3 | −4 | −4 | **Wei** | 6 | −2 | +0 | **Cha** | 5 | −3 | −3 |"
-immunities_text: "Gift; Erschöpft, [[3-Compendium/Zustände/Vergiftet|Vergiftet]]"
-cr_text: "1/4 (EP 50; ÜB +2)"
-saves:
-  - Wei: 0
-damage_immunities: "Gift"
-condition_immunities: "Erschöpft, Vergiftet"
-senses: "Dunkelsicht 18 m; Passive Wahrnehmung 8"
-languages: "Versteht Gemeinsprache und eine weitere Sprache, kann jedoch nicht sprechen"
-cr: "1/4"
-traits:
-  - name: "Untote Ausdauer:"
-    desc: "Wenn seine Trefferpunkte durch Schaden auf 0 sinken, führt der Zombie einen Konstitutionsrettungswurf aus (SG 5 plus der erlittene Schaden), sofern der Schaden nicht gleißend ist oder von einem kritischen Treffer stammt. Bei einem erfolgreichen Rettungswurf behält der Zombie 1 Trefferpunkt."
 actions:
-  - name: "Hieb:"
-    desc: "*Nahkampfangriffswurf:* +3, Reichweite 1,5 m. *Treffer:* 5 (1W8+1) Wuchtschaden."
+- desc: '*Nahkampfangriffswurf:* +3, Reichweite 1,5 m. *Treffer:* 5 (1W8+1) Wuchtschaden.'
+  name: 'Hieb:'
+condition_immunities: Erschöpft, Vergiftet
+cr: 1/4
+cr_text: 1/4 (EP 50; ÜB +2)
+damage_immunities: Gift
+ep: 50
+gruppe: Zombies
+hg: 1/4
+hit_dice: 2d8+6
+hp: 15
+hp_text: 15 (2W8+6)
+immunities_text: Gift; Erschöpft, [[3-Compendium/Zustände/Vergiftet|Vergiftet]]
+initiative: -2
+initiative_text: –2 (8)
+languages: Versteht Gemeinsprache und eine weitere Sprache, kann jedoch nicht sprechen
+layout: Compendio SRD 2024 (Deutsch)
+modifier: -2
+name: Zombie
+rk: 8
+saves:
+- Wei: 0
+senses: Dunkelsicht 18 m; Passive Wahrnehmung 8
+source: SRD
+speed: 6 m
+srd: criatura/zombie
+statblock: true
+stats:
+- 13
+- 6
+- 16
+- 3
+- 6
+- 5
+stats_table: '|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
+
+  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+  | **Stä** | 13 | +1 | +1 | **Ges** | 6 | −2 | −2 | **Kon** | 16 | +3 | +3 |
+
+  | **Int** | 3 | −4 | −4 | **Wei** | 6 | −2 | +0 | **Cha** | 5 | −3 | −3 |'
+tags:
+- srd/kreatur
+tp: 15
+traits:
+- desc: Wenn seine Trefferpunkte durch Schaden auf 0 sinken, führt der Zombie einen
+    Konstitutionsrettungswurf aus (SG 5 plus der erlittene Schaden), sofern der Schaden
+    nicht gleißend ist oder von einem kritischen Treffer stammt. Bei einem erfolgreichen
+    Rettungswurf behält der Zombie 1 Trefferpunkt.
+  name: 'Untote Ausdauer:'
+typ: Mittelgroßer Untoter, neutral böse
+type: Mittelgroßer Untoter, neutral böse
 ---
 
-> [!srd-ficha] Zombie
-> *Mittelgroßer Untoter, neutral böse*
->
-> **RK** 8 · **Initiative** –2 (8)
->
-> **TP** 15 (2W8+6)
->
-> **Bewegungsrate** 6 m
->
-> |   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | **Stä** | 13 | +1 | +1 | **Ges** | 6 | −2 | −2 | **Kon** | 16 | +3 | +3 |
-> | **Int** | 3 | −4 | −4 | **Wei** | 6 | −2 | +0 | **Cha** | 5 | −3 | −3 |
->
-> **Immunitäten** Gift; Erschöpft, [[Vergiftet|Vergiftet]]
->
-> **Sinne** Dunkelsicht 18 m; Passive Wahrnehmung 8
->
-> **Sprachen** Versteht Gemeinsprache und eine weitere Sprache, kann jedoch nicht sprechen
->
-> **HG** 1/4 (EP 50; ÜB +2)
+# Zombie
 
-## Merkmale
+*Mittelgroßer Untoter, neutral böse*
 
-***Untote Ausdauer:*** Wenn seine Trefferpunkte durch Schaden auf 0 sinken, führt der Zombie einen Konstitutionsrettungswurf aus (SG 5 plus der erlittene Schaden), sofern der Schaden nicht gleißend ist oder von einem kritischen Treffer stammt. Bei einem erfolgreichen Rettungswurf behält der Zombie 1 Trefferpunkt.
+## Statistik
+
+- **RK:** 8
+- **TP:** 15 (2d8+6)
+- **Initiative:** -2
+- **Geschwindigkeit:** 6 m
+
+|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
+|--|--|-----|----|--|--|-----|----|--|--|-----|----|
+| **STÄ** | 13 | +1 | +1 | **GES** | 6 | -2 | -2 | **KON** | 16 | +3 | +3 |
+| **INT** | 3 | -4 | -4 | **WEI** | 6 | -2 | -2 | **CHA** | 5 | -3 | -3 |
+
+- **Immunitäten:** Gift
+- **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 8
+- **Sprachen:** Versteht Gemeinsprache und eine weitere Sprache, kann jedoch nicht sprechen
+- **HG:** 1/4 (EP 50; ÜB +2)
+
+
+## Talente
+
+### Untote Ausdauer:
+Wenn seine Trefferpunkte durch Schaden auf 0 sinken, führt der Zombie einen Konstitutionsrettungswurf aus (SG 5 plus der erlittene Schaden), sofern der Schaden nicht gleißend ist oder von einem kritischen Treffer stammt. Bei einem erfolgreichen Rettungswurf behält der Zombie 1 Trefferpunkt.
+
 
 ## Aktionen
 
-***Hieb:*** *Nahkampfangriffswurf:* +3, Reichweite 1,5 m. *Treffer:* 5 (1W8+1) Wuchtschaden.
+### Hieb:
+*Nahkampfangriffswurf:* +3, Reichweite 1,5 m. *Treffer:* 5 (1W8+1) Wuchtschaden.

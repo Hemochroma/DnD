@@ -1,95 +1,111 @@
 ---
-srd: "criatura/bronze-dragon-wyrmling"
-tags:
-  - "srd/kreatur"
-source: SRD
-typ: "Mittelgroßer Drache (metallisch), rechtschaffen gut"
-gruppe: "Bronzedrachen"
-hg: "2"
-ep: 450
-rk: 15
-tp: 39
-initiative: 2
-statblock: true
-layout: "Compendio SRD 2024 (Deutsch)"
-name: "Bronzedrachennestling"
-type: "Mittelgroßer Drache (metallisch), rechtschaffen gut"
 ac: 15
-hp: 39
-hit_dice: "6d8+12"
-modifier: 2
-speed: "9 m, Fliegen 18 m, Schwimmen 9 m"
-stats:
-  - 17
-  - 10
-  - 15
-  - 12
-  - 11
-  - 15
-initiative_text: "+2 (12)"
-hp_text: "39 (6W8+12)"
-stats_table: "|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Stä** | 17 | +3 | +3 | **Ges** | 10 | +0 | +2 | **Kon** | 15 | +2 | +2 |\n| **Int** | 12 | +1 | +1 | **Wei** | 11 | +0 | +2 | **Cha** | 15 | +2 | +2 |"
-skills_text: "Heimlichkeit +2, Wahrnehmung +4"
-immunities_text: "Blitz"
-cr_text: "2 (EP 450; ÜB +2)"
-saves:
-  - Ges: 2
-  - Wei: 2
-skillsaves:
-  - Heimlichkeit: 2
-  - Wahrnehmung: 4
-damage_immunities: "Blitz"
-senses: "Blindsicht 3 m, Dunkelsicht 18 m; Passive Wahrnehmung 14"
-languages: "Drakonisch"
-cr: 2
-traits:
-  - name: "Amphibisch:"
-    desc: "Der Drache kann Luft und Wasser atmen."
 actions:
-  - name: "Mehrfachangriff:"
-    desc: "Der Drache führt zwei Zerfetzen-Angriffe aus."
-  - name: "Zerfetzen:"
-    desc: "*Nahkampfangriffswurf:* +5, Reichweite 1,5 m. *Treffer:* 8 (1W10+3) Hiebschaden."
-  - name: "Blitzodem (Aufladung 5–6):"
-    desc: "*Geschicklichkeitsrettungswurf:* SG 12; jede Kreatur in einer 12 Meter langen, 1,5 Meter breiten Linie. *Misserfolg:* 16 (3W10) Blitzschaden. *Erfolg:* Halber Schaden."
-  - name: "Odem der Abstoßung:"
-    desc: "*Stärkerettungswurf:* SG 12; jede Kreatur in einem Kegel von neun Metern. *Misserfolg:* Das Ziel wird bis zu neun Meter weit in gerader Linie vom Drachen weg- und umgestoßen, sodass es den Zustand [[3-Compendium/Zustände/Liegend|Liegend]] hat."
+- desc: Der Drache führt zwei Zerfetzen-Angriffe aus.
+  name: 'Mehrfachangriff:'
+- desc: '*Nahkampfangriffswurf:* +5, Reichweite 1,5 m. *Treffer:* 8 (1W10+3) Hiebschaden.'
+  name: 'Zerfetzen:'
+- desc: '*Geschicklichkeitsrettungswurf:* SG 12; jede Kreatur in einer 12 Meter langen,
+    1,5 Meter breiten Linie. *Misserfolg:* 16 (3W10) Blitzschaden. *Erfolg:* Halber
+    Schaden.'
+  name: 'Blitzodem (Aufladung 5–6):'
+- desc: '*Stärkerettungswurf:* SG 12; jede Kreatur in einem Kegel von neun Metern.
+    *Misserfolg:* Das Ziel wird bis zu neun Meter weit in gerader Linie vom Drachen
+    weg- und umgestoßen, sodass es den Zustand [[3-Compendium/Zustände/Liegend|Liegend]]
+    hat.'
+  name: 'Odem der Abstoßung:'
+cr: 2
+cr_text: 2 (EP 450; ÜB +2)
+damage_immunities: Blitz
+ep: 450
+gruppe: Bronzedrachen
+hg: '2'
+hit_dice: 6d8+12
+hp: 39
+hp_text: 39 (6W8+12)
+immunities_text: Blitz
+initiative: 2
+initiative_text: +2 (12)
+languages: Drakonisch
+layout: Compendio SRD 2024 (Deutsch)
+modifier: 2
+name: Bronzedrachennestling
+rk: 15
+saves:
+- Ges: 2
+- Wei: 2
+senses: Blindsicht 3 m, Dunkelsicht 18 m; Passive Wahrnehmung 14
+skills_text: Heimlichkeit +2, Wahrnehmung +4
+skillsaves:
+- Heimlichkeit: 2
+- Wahrnehmung: 4
+source: SRD
+speed: 9 m, Fliegen 18 m, Schwimmen 9 m
+srd: criatura/bronze-dragon-wyrmling
+statblock: true
+stats:
+- 17
+- 10
+- 15
+- 12
+- 11
+- 15
+stats_table: '|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
+
+  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+  | **Stä** | 17 | +3 | +3 | **Ges** | 10 | +0 | +2 | **Kon** | 15 | +2 | +2 |
+
+  | **Int** | 12 | +1 | +1 | **Wei** | 11 | +0 | +2 | **Cha** | 15 | +2 | +2 |'
+tags:
+- srd/kreatur
+tp: 39
+traits:
+- desc: Der Drache kann Luft und Wasser atmen.
+  name: 'Amphibisch:'
+typ: Mittelgroßer Drache (metallisch), rechtschaffen gut
+type: Mittelgroßer Drache (metallisch), rechtschaffen gut
 ---
 
-> [!srd-ficha] Bronzedrachennestling
-> *Mittelgroßer Drache (metallisch), rechtschaffen gut*
->
-> **RK** 15 · **Initiative** +2 (12)
->
-> **TP** 39 (6W8+12)
->
-> **Bewegungsrate** 9 m, Fliegen 18 m, Schwimmen 9 m
->
-> |   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | **Stä** | 17 | +3 | +3 | **Ges** | 10 | +0 | +2 | **Kon** | 15 | +2 | +2 |
-> | **Int** | 12 | +1 | +1 | **Wei** | 11 | +0 | +2 | **Cha** | 15 | +2 | +2 |
->
-> **Fertigkeiten** Heimlichkeit +2, Wahrnehmung +4
->
-> **Immunitäten** Blitz
->
-> **Sinne** Blindsicht 3 m, Dunkelsicht 18 m; Passive Wahrnehmung 14
->
-> **Sprachen** Drakonisch
->
-> **HG** 2 (EP 450; ÜB +2)
+# Bronzedrachennestling
 
-## Merkmale
+*Mittelgroßer Drache (metallisch), rechtschaffen gut*
 
-***Amphibisch:*** Der Drache kann Luft und Wasser atmen.
+## Statistik
+
+- **RK:** 15
+- **TP:** 39 (6d8+12)
+- **Initiative:** +2
+- **Geschwindigkeit:** 9 m, Fliegen 18 m, Schwimmen 9 m
+
+|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
+|--|--|-----|----|--|--|-----|----|--|--|-----|----|
+| **STÄ** | 17 | +3 | +3 | **GES** | 10 | +0 | +2 | **KON** | 15 | +2 | +2 |
+| **INT** | 12 | +1 | +1 | **WEI** | 11 | +0 | +2 | **CHA** | 15 | +2 | +2 |
+
+- **Rettungswürfe**: Heimlichkeit +2, Wahrnehmung +4
+- **Immunitäten:** Blitz
+- **Sinne:** Blindsicht 3 m, Dunkelsicht 18 m; Passive Wahrnehmung 14
+- **Sprachen:** Drakonisch
+- **HG:** 2 (EP 450; ÜB +2)
+
+
+## Talente
+
+### Amphibisch:
+Der Drache kann Luft und Wasser atmen.
+
 
 ## Aktionen
 
-***Mehrfachangriff:*** Der Drache führt zwei Zerfetzen-Angriffe aus.
+### Mehrfachangriff:
+Der Drache führt zwei Zerfetzen-Angriffe aus.
 
-***Zerfetzen:*** *Nahkampfangriffswurf:* +5, Reichweite 1,5 m. *Treffer:* 8 (1W10+3) Hiebschaden.
+### Zerfetzen:
+*Nahkampfangriffswurf:* +5, Reichweite 1,5 m. *Treffer:* 8 (1W10+3) Hiebschaden.
 
-***Blitzodem (Aufladung 5–6):*** *Geschicklichkeitsrettungswurf:* SG 12; jede Kreatur in einer 12 Meter langen, 1,5 Meter breiten Linie. *Misserfolg:* 16 (3W10) Blitzschaden. *Erfolg:* Halber Schaden.
+### Blitzodem (Aufladung 5–6):
+*Geschicklichkeitsrettungswurf:* SG 12; jede Kreatur in einer 12 Meter langen, 1,5 Meter breiten Linie. *Misserfolg:* 16 (3W10) Blitzschaden. *Erfolg:* Halber Schaden.
 
-***Odem der Abstoßung:*** *Stärkerettungswurf:* SG 12; jede Kreatur in einem Kegel von neun Metern. *Misserfolg:* Das Ziel wird bis zu neun Meter weit in gerader Linie vom Drachen weg- und umgestoßen, sodass es den Zustand [[Liegend|Liegend]] hat.
+### Odem der Abstoßung:
+*Stärkerettungswurf:* SG 12; jede Kreatur in einem Kegel von neun Metern. *Misserfolg:* Das Ziel wird bis zu neun Meter weit in gerader Linie vom Drachen weg- und umgestoßen, sodass es den Zustand [[3-Compendium/Zustände/Liegend|Liegend]] hat.

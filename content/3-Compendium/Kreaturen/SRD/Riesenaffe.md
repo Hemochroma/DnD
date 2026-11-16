@@ -1,84 +1,102 @@
 ---
-srd: "criatura/giant-ape"
-tags:
-  - "srd/kreatur"
-source: SRD
-typ: "Riesiges Tier, gesinnungslos"
-hg: "7"
-ep: 2900
-rk: 12
-tp: 168
-initiative: 5
-statblock: true
-layout: "Compendio SRD 2024 (Deutsch)"
-name: "Riesenaffe"
-type: "Riesiges Tier, gesinnungslos"
 ac: 12
-hp: 168
-hit_dice: "16d12+64"
-modifier: 5
-speed: "12 m, Klettern 12 m"
-stats:
-  - 23
-  - 14
-  - 18
-  - 5
-  - 12
-  - 7
-initiative_text: "+5 (15)"
-hp_text: "168 (16W12+64)"
-stats_table: "|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Stä** | 23 | +6 | +6 | **Ges** | 14 | +2 | +2 | **Kon** | 18 | +4 | +4 |\n| **Int** | 5 | −3 | −3 | **Wei** | 12 | +1 | +1 | **Cha** | 7 | −2 | −2 |"
-skills_text: "Athletik +9, Überlebenskunst +4, Wahrnehmung +4"
-cr_text: "7 (EP 2.900; ÜB +3)"
-skillsaves:
-  - Athletik: 9
-  - Überlebenskunst: 4
-  - Wahrnehmung: 4
-senses: "Passive Wahrnehmung 14"
-languages: "−"
-cr: 7
 actions:
-  - name: "Mehrfachangriff:"
-    desc: "Der Riesenaffe führt zwei Faustangriffe aus."
-  - name: "Faust:"
-    desc: "*Nahkampfangriffswurf:* +9, Reichweite 3 m. *Treffer:* 22 (3W10+6) Wuchtschaden."
-  - name: "Felsbrockenwurf (Aufladung 6):"
-    desc: "Der Riesenaffe schleudert einen Felsbrocken auf einen Punkt im Abstand von bis zu 27 Metern, den er sehen kann. *Geschicklichkeitsrettungswurf:* SG 17; jede Kreatur in einer Kugel mit einem Radius von 1,5 Metern um diesen Punkt. *Misserfolg:* 24 (7W6) Wuchtschaden. Wenn das Ziel eine Kreatur von höchstens großer Größe ist, wird es umgestoßen und hat den Zustand [[3-Compendium/Zustände/Liegend|Liegend]]. *Erfolg:* Nur halber Schaden."
+- desc: Der Riesenaffe führt zwei Faustangriffe aus.
+  name: 'Mehrfachangriff:'
+- desc: '*Nahkampfangriffswurf:* +9, Reichweite 3 m. *Treffer:* 22 (3W10+6) Wuchtschaden.'
+  name: 'Faust:'
+- desc: Der Riesenaffe schleudert einen Felsbrocken auf einen Punkt im Abstand von
+    bis zu 27 Metern, den er sehen kann. *Geschicklichkeitsrettungswurf:* SG 17; jede
+    Kreatur in einer Kugel mit einem Radius von 1,5 Metern um diesen Punkt. *Misserfolg:*
+    24 (7W6) Wuchtschaden. Wenn das Ziel eine Kreatur von höchstens großer Größe ist,
+    wird es umgestoßen und hat den Zustand [[3-Compendium/Zustände/Liegend|Liegend]].
+    *Erfolg:* Nur halber Schaden.
+  name: 'Felsbrockenwurf (Aufladung 6):'
 bonus_actions:
-  - name: "Sprung:"
-    desc: "Der Riesenaffe springt bis zu neun Meter weit und verbraucht dabei nur drei Meter Bewegung."
+- desc: Der Riesenaffe springt bis zu neun Meter weit und verbraucht dabei nur drei
+    Meter Bewegung.
+  name: 'Sprung:'
+cr: 7
+cr_text: 7 (EP 2.900; ÜB +3)
+ep: 2900
+hg: '7'
+hit_dice: 16d12+64
+hp: 168
+hp_text: 168 (16W12+64)
+initiative: 5
+initiative_text: +5 (15)
+languages: −
+layout: Compendio SRD 2024 (Deutsch)
+modifier: 5
+name: Riesenaffe
+rk: 12
+senses: Passive Wahrnehmung 14
+skills_text: Athletik +9, Überlebenskunst +4, Wahrnehmung +4
+skillsaves:
+- Athletik: 9
+- Überlebenskunst: 4
+- Wahrnehmung: 4
+source: SRD
+speed: 12 m, Klettern 12 m
+srd: criatura/giant-ape
+statblock: true
+stats:
+- 23
+- 14
+- 18
+- 5
+- 12
+- 7
+stats_table: '|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
+
+  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+  | **Stä** | 23 | +6 | +6 | **Ges** | 14 | +2 | +2 | **Kon** | 18 | +4 | +4 |
+
+  | **Int** | 5 | −3 | −3 | **Wei** | 12 | +1 | +1 | **Cha** | 7 | −2 | −2 |'
+tags:
+- srd/kreatur
+tp: 168
+typ: Riesiges Tier, gesinnungslos
+type: Riesiges Tier, gesinnungslos
 ---
 
-> [!srd-ficha] Riesenaffe
-> *Riesiges Tier, gesinnungslos*
->
-> **RK** 12 · **Initiative** +5 (15)
->
-> **TP** 168 (16W12+64)
->
-> **Bewegungsrate** 12 m, Klettern 12 m
->
-> |   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | **Stä** | 23 | +6 | +6 | **Ges** | 14 | +2 | +2 | **Kon** | 18 | +4 | +4 |
-> | **Int** | 5 | −3 | −3 | **Wei** | 12 | +1 | +1 | **Cha** | 7 | −2 | −2 |
->
-> **Fertigkeiten** Athletik +9, Überlebenskunst +4, Wahrnehmung +4
->
-> **Sinne** Passive Wahrnehmung 14
->
-> **Sprachen** −
->
-> **HG** 7 (EP 2.900; ÜB +3)
+# Riesenaffe
+
+*Riesiges Tier, gesinnungslos*
+
+## Statistik
+
+- **RK:** 12
+- **TP:** 168 (16d12+64)
+- **Initiative:** +5
+- **Geschwindigkeit:** 12 m, Klettern 12 m
+
+|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
+|--|--|-----|----|--|--|-----|----|--|--|-----|----|
+| **STÄ** | 23 | +6 | +6 | **GES** | 14 | +2 | +2 | **KON** | 18 | +4 | +4 |
+| **INT** | 5 | -3 | -3 | **WEI** | 12 | +1 | +1 | **CHA** | 7 | -2 | -2 |
+
+- **Rettungswürfe**: Athletik +9, Überlebenskunst +4, Wahrnehmung +4
+- **Sinne:** Passive Wahrnehmung 14
+- **Sprachen:** −
+- **HG:** 7 (EP 2.900; ÜB +3)
+
+
 
 ## Aktionen
 
-***Mehrfachangriff:*** Der Riesenaffe führt zwei Faustangriffe aus.
+### Mehrfachangriff:
+Der Riesenaffe führt zwei Faustangriffe aus.
 
-***Faust:*** *Nahkampfangriffswurf:* +9, Reichweite 3 m. *Treffer:* 22 (3W10+6) Wuchtschaden.
+### Faust:
+*Nahkampfangriffswurf:* +9, Reichweite 3 m. *Treffer:* 22 (3W10+6) Wuchtschaden.
 
-***Felsbrockenwurf (Aufladung 6):*** Der Riesenaffe schleudert einen Felsbrocken auf einen Punkt im Abstand von bis zu 27 Metern, den er sehen kann. *Geschicklichkeitsrettungswurf:* SG 17; jede Kreatur in einer Kugel mit einem Radius von 1,5 Metern um diesen Punkt. *Misserfolg:* 24 (7W6) Wuchtschaden. Wenn das Ziel eine Kreatur von höchstens großer Größe ist, wird es umgestoßen und hat den Zustand [[Liegend|Liegend]]. *Erfolg:* Nur halber Schaden.
+### Felsbrockenwurf (Aufladung 6):
+Der Riesenaffe schleudert einen Felsbrocken auf einen Punkt im Abstand von bis zu 27 Metern, den er sehen kann. *Geschicklichkeitsrettungswurf:* SG 17; jede Kreatur in einer Kugel mit einem Radius von 1,5 Metern um diesen Punkt. *Misserfolg:* 24 (7W6) Wuchtschaden. Wenn das Ziel eine Kreatur von höchstens großer Größe ist, wird es umgestoßen und hat den Zustand [[3-Compendium/Zustände/Liegend|Liegend]]. *Erfolg:* Nur halber Schaden.
+
 
 ## Bonusaktionen
 
-***Sprung:*** Der Riesenaffe springt bis zu neun Meter weit und verbraucht dabei nur drei Meter Bewegung.
+### Sprung:
+Der Riesenaffe springt bis zu neun Meter weit und verbraucht dabei nur drei Meter Bewegung.

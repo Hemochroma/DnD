@@ -1,76 +1,87 @@
 ---
-srd: "criatura/giant-rat"
-tags:
-  - "srd/kreatur"
-source: SRD
-typ: "Kleines Tier, gesinnungslos"
-hg: "1/8"
-ep: 25
-rk: 13
-tp: 7
-initiative: 3
-statblock: true
-layout: "Compendio SRD 2024 (Deutsch)"
-name: "Riesenratte"
-type: "Kleines Tier, gesinnungslos"
 ac: 13
-hp: 7
-hit_dice: "2d6"
-modifier: 3
-speed: "9 m, Klettern 9 m"
-stats:
-  - 7
-  - 16
-  - 11
-  - 2
-  - 10
-  - 4
-initiative_text: "+3 (13)"
-hp_text: "7 (2W6)"
-stats_table: "|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Stä** | 7 | −2 | −2 | **Ges** | 16 | +3 | +5 | **Kon** | 11 | +0 | +0 |\n| **Int** | 2 | −4 | −4 | **Wei** | 10 | +0 | +0 | **Cha** | 4 | −3 | −3 |"
-skills_text: "Wahrnehmung +2"
-cr_text: "1/8 (EP 25, ÜB +2)"
-saves:
-  - Ges: 5
-skillsaves:
-  - Wahrnehmung: 2
-senses: "Dunkelsicht 18 m; Passive Wahrnehmung 12"
-languages: "−"
-cr: "1/8"
-traits:
-  - name: "Rudeltaktik:"
-    desc: "Die Ratte ist beim Angriffswurf gegen eine Kreatur im Vorteil, wenn sich mindestens ein Verbündeter der Ratte, der nicht [[3-Compendium/Zustände/Kampfunfähig|kampfunfähig]] ist, im Abstand von bis zu 1,5 Metern von der Kreatur befindet."
 actions:
-  - name: "Biss:"
-    desc: "*Nahkampfangriffswurf:* +5, Reichweite 1,5 m. *Treffer:* 5 (1W4+3) Stichschaden."
+- desc: '*Nahkampfangriffswurf:* +5, Reichweite 1,5 m. *Treffer:* 5 (1W4+3) Stichschaden.'
+  name: 'Biss:'
+cr: 1/8
+cr_text: 1/8 (EP 25, ÜB +2)
+ep: 25
+hg: 1/8
+hit_dice: 2d6
+hp: 7
+hp_text: 7 (2W6)
+initiative: 3
+initiative_text: +3 (13)
+languages: −
+layout: Compendio SRD 2024 (Deutsch)
+modifier: 3
+name: Riesenratte
+rk: 13
+saves:
+- Ges: 5
+senses: Dunkelsicht 18 m; Passive Wahrnehmung 12
+skills_text: Wahrnehmung +2
+skillsaves:
+- Wahrnehmung: 2
+source: SRD
+speed: 9 m, Klettern 9 m
+srd: criatura/giant-rat
+statblock: true
+stats:
+- 7
+- 16
+- 11
+- 2
+- 10
+- 4
+stats_table: '|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
+
+  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+  | **Stä** | 7 | −2 | −2 | **Ges** | 16 | +3 | +5 | **Kon** | 11 | +0 | +0 |
+
+  | **Int** | 2 | −4 | −4 | **Wei** | 10 | +0 | +0 | **Cha** | 4 | −3 | −3 |'
+tags:
+- srd/kreatur
+tp: 7
+traits:
+- desc: Die Ratte ist beim Angriffswurf gegen eine Kreatur im Vorteil, wenn sich mindestens
+    ein Verbündeter der Ratte, der nicht [[3-Compendium/Zustände/Kampfunfähig|kampfunfähig]]
+    ist, im Abstand von bis zu 1,5 Metern von der Kreatur befindet.
+  name: 'Rudeltaktik:'
+typ: Kleines Tier, gesinnungslos
+type: Kleines Tier, gesinnungslos
 ---
 
-> [!srd-ficha] Riesenratte
-> *Kleines Tier, gesinnungslos*
->
-> **RK** 13 · **Initiative** +3 (13)
->
-> **TP** 7 (2W6)
->
-> **Bewegungsrate** 9 m, Klettern 9 m
->
-> |   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | **Stä** | 7 | −2 | −2 | **Ges** | 16 | +3 | +5 | **Kon** | 11 | +0 | +0 |
-> | **Int** | 2 | −4 | −4 | **Wei** | 10 | +0 | +0 | **Cha** | 4 | −3 | −3 |
->
-> **Fertigkeiten** Wahrnehmung +2
->
-> **Sinne** Dunkelsicht 18 m; Passive Wahrnehmung 12
->
-> **Sprachen** −
->
-> **HG** 1/8 (EP 25, ÜB +2)
+# Riesenratte
 
-## Merkmale
+*Kleines Tier, gesinnungslos*
 
-***Rudeltaktik:*** Die Ratte ist beim Angriffswurf gegen eine Kreatur im Vorteil, wenn sich mindestens ein Verbündeter der Ratte, der nicht [[Kampfunfähig|kampfunfähig]] ist, im Abstand von bis zu 1,5 Metern von der Kreatur befindet.
+## Statistik
+
+- **RK:** 13
+- **TP:** 7 (2d6)
+- **Initiative:** +3
+- **Geschwindigkeit:** 9 m, Klettern 9 m
+
+|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
+|--|--|-----|----|--|--|-----|----|--|--|-----|----|
+| **STÄ** | 7 | -2 | -2 | **GES** | 16 | +3 | +8 | **KON** | 11 | +0 | +0 |
+| **INT** | 2 | -4 | -4 | **WEI** | 10 | +0 | +0 | **CHA** | 4 | -3 | -3 |
+
+- **Rettungswürfe**: Wahrnehmung +2
+- **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 12
+- **Sprachen:** −
+- **HG:** 1/8 (EP 25, ÜB +2)
+
+
+## Talente
+
+### Rudeltaktik:
+Die Ratte ist beim Angriffswurf gegen eine Kreatur im Vorteil, wenn sich mindestens ein Verbündeter der Ratte, der nicht [[3-Compendium/Zustände/Kampfunfähig|kampfunfähig]] ist, im Abstand von bis zu 1,5 Metern von der Kreatur befindet.
+
 
 ## Aktionen
 
-***Biss:*** *Nahkampfangriffswurf:* +5, Reichweite 1,5 m. *Treffer:* 5 (1W4+3) Stichschaden.
+### Biss:
+*Nahkampfangriffswurf:* +5, Reichweite 1,5 m. *Treffer:* 5 (1W4+3) Stichschaden.

@@ -1,70 +1,79 @@
 ---
-srd: "criatura/ogre"
-tags:
-  - "srd/kreatur"
-source: SRD
-typ: "Großer Riese, chaotisch böse"
-gruppe: "Oger"
-hg: "2"
-ep: 450
-rk: 11
-tp: 68
-initiative: -1
-statblock: true
-layout: "Compendio SRD 2024 (Deutsch)"
-name: "Oger"
-type: "Großer Riese, chaotisch böse"
 ac: 11
-hp: 68
-hit_dice: "8d10+24"
-modifier: -1
-speed: "12 m"
-stats:
-  - 19
-  - 8
-  - 16
-  - 5
-  - 7
-  - 7
-initiative_text: "−1 (9)"
-hp_text: "68 (8W10+24)"
-stats_table: "|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Stä** | 19 | +4 | +4 | **Ges** | 8 | −1 | −1 | **Kon** | 16 | +3 | +3 |\n| **Int** | 5 | −3 | −3 | **Wei** | 7 | −2 | −2 | **Cha** | 7 | −2 | −2 |"
-gear: "Wurfspeere (3), Zweihandknüppel"
-cr_text: "2 (EP 450; ÜB +2)"
-senses: "Dunkelsicht 18 m; Passive Wahrnehmung 8"
-languages: "Gemeinsprache, Riesisch"
-cr: 2
 actions:
-  - name: "Wurfspeer:"
-    desc: "*Nah- oder Fernkampfangriffswurf:* +6, Reichweite 1,5 m oder Reichweite 9/36 m. *Treffer:* 11 (2W6+4) Stichschaden."
-  - name: "Zweihandknüppel:"
-    desc: "*Nahkampfangriffswurf:* +6, Reichweite 1,5 m. *Treffer:* 13 (2W8+4) Wuchtschaden."
+- desc: '*Nah- oder Fernkampfangriffswurf:* +6, Reichweite 1,5 m oder Reichweite 9/36
+    m. *Treffer:* 11 (2W6+4) Stichschaden.'
+  name: 'Wurfspeer:'
+- desc: '*Nahkampfangriffswurf:* +6, Reichweite 1,5 m. *Treffer:* 13 (2W8+4) Wuchtschaden.'
+  name: 'Zweihandknüppel:'
+cr: 2
+cr_text: 2 (EP 450; ÜB +2)
+ep: 450
+gear: Wurfspeere (3), Zweihandknüppel
+gruppe: Oger
+hg: '2'
+hit_dice: 8d10+24
+hp: 68
+hp_text: 68 (8W10+24)
+initiative: -1
+initiative_text: −1 (9)
+languages: Gemeinsprache, Riesisch
+layout: Compendio SRD 2024 (Deutsch)
+modifier: -1
+name: Oger
+rk: 11
+senses: Dunkelsicht 18 m; Passive Wahrnehmung 8
+source: SRD
+speed: 12 m
+srd: criatura/ogre
+statblock: true
+stats:
+- 19
+- 8
+- 16
+- 5
+- 7
+- 7
+stats_table: '|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
+
+  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+  | **Stä** | 19 | +4 | +4 | **Ges** | 8 | −1 | −1 | **Kon** | 16 | +3 | +3 |
+
+  | **Int** | 5 | −3 | −3 | **Wei** | 7 | −2 | −2 | **Cha** | 7 | −2 | −2 |'
+tags:
+- srd/kreatur
+tp: 68
+typ: Großer Riese, chaotisch böse
+type: Großer Riese, chaotisch böse
 ---
 
-> [!srd-ficha] Oger
-> *Großer Riese, chaotisch böse*
->
-> **RK** 11 · **Initiative** −1 (9)
->
-> **TP** 68 (8W10+24)
->
-> **Bewegungsrate** 12 m
->
-> |   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | **Stä** | 19 | +4 | +4 | **Ges** | 8 | −1 | −1 | **Kon** | 16 | +3 | +3 |
-> | **Int** | 5 | −3 | −3 | **Wei** | 7 | −2 | −2 | **Cha** | 7 | −2 | −2 |
->
-> **Ausrüstung** Wurfspeere (3), Zweihandknüppel
->
-> **Sinne** Dunkelsicht 18 m; Passive Wahrnehmung 8
->
-> **Sprachen** Gemeinsprache, Riesisch
->
-> **HG** 2 (EP 450; ÜB +2)
+# Oger
+
+*Großer Riese, chaotisch böse*
+
+## Statistik
+
+- **RK:** 11
+- **TP:** 68 (8d10+24)
+- **Initiative:** -1
+- **Geschwindigkeit:** 12 m
+
+|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
+|--|--|-----|----|--|--|-----|----|--|--|-----|----|
+| **STÄ** | 19 | +4 | +4 | **GES** | 8 | -1 | -1 | **KON** | 16 | +3 | +3 |
+| **INT** | 5 | -3 | -3 | **WEI** | 7 | -2 | -2 | **CHA** | 7 | -2 | -2 |
+
+- **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 8
+- **Sprachen:** Gemeinsprache, Riesisch
+- **HG:** 2 (EP 450; ÜB +2)
+
+
 
 ## Aktionen
 
-***Wurfspeer:*** *Nah- oder Fernkampfangriffswurf:* +6, Reichweite 1,5 m oder Reichweite 9/36 m. *Treffer:* 11 (2W6+4) Stichschaden.
+### Wurfspeer:
+*Nah- oder Fernkampfangriffswurf:* +6, Reichweite 1,5 m oder Reichweite 9/36 m. *Treffer:* 11 (2W6+4) Stichschaden.
 
-***Zweihandknüppel:*** *Nahkampfangriffswurf:* +6, Reichweite 1,5 m. *Treffer:* 13 (2W8+4) Wuchtschaden.
+### Zweihandknüppel:
+*Nahkampfangriffswurf:* +6, Reichweite 1,5 m. *Treffer:* 13 (2W8+4) Wuchtschaden.

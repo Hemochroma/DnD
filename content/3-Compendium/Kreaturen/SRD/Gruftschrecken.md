@@ -1,101 +1,121 @@
 ---
-srd: "criatura/wight"
-tags:
-  - "srd/kreatur"
-source: SRD
-typ: "Mittelgroßer Untoter, neutral böse"
-gruppe: "Gruftschrecken"
-hg: "3"
-ep: 700
-rk: 14
-tp: 82
-initiative: 4
-statblock: true
-layout: "Compendio SRD 2024 (Deutsch)"
-name: "Gruftschrecken"
-type: "Mittelgroßer Untoter, neutral böse"
 ac: 14
-hp: 82
-hit_dice: "11d8+33"
-modifier: 4
-speed: "9 m"
-stats:
-  - 15
-  - 14
-  - 16
-  - 10
-  - 13
-  - 15
-initiative_text: "+4 (14)"
-hp_text: "82 (11W8+33)"
-stats_table: "|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Stä** | 15 | +2 | +2 | **Ges** | 14 | +2 | +2 | **Kon** | 16 | +3 | +3 |\n| **Int** | 10 | +0 | +0 | **Wei** | 13 | +1 | +1 | **Cha** | 15 | +2 | +2 |"
-skills_text: "Heimlichkeit +4, Wahrnehmung +3"
-immunities_text: "Gift; Erschöpft, [[3-Compendium/Zustände/Vergiftet|Vergiftet]]"
-gear: "Beschlagene Lederrüstung"
-cr_text: "3 (EP 700; ÜB +2)"
-skillsaves:
-  - Heimlichkeit: 4
-  - Wahrnehmung: 3
-damage_resistances: "Nekrotisch"
-damage_immunities: "Gift"
-condition_immunities: "Erschöpft, Vergiftet"
-senses: "Dunkelsicht 18 m; Passive Wahrnehmung 13"
-languages: "Gemeinsprache und eine weitere Sprache"
-cr: 3
-traits:
-  - name: "Empfindlich gegenüber Sonnenlicht:"
-    desc: "Im Sonnenlicht ist der Gruftschrecken bei Angriffs- und Attributswürfen im Nachteil."
 actions:
-  - name: "Mehrfachangriff:"
-    desc: "Der Gruftschrecken führt zwei Angriffe mit Nekrotisches Schwert oder Nekrotischer Bogen in beliebiger Kombination aus. Er kann einen Angriff durch einen Einsatz von Lebensentzug ersetzen."
-  - name: "Nekrotisches Schwert:"
-    desc: "*Nahkampfangriffswurf:* +4, Reichweite 1,5 m. *Treffer:* 6 (1W8+2) Hiebschaden plus 4 (1W8) nekrotischer Schaden."
-  - name: "Nekrotischer Bogen:"
-    desc: "*Fernkampfangriffswurf:* +4, Reichweite 45/180 m. *Treffer:* 6 (1W8+2) Stichschaden plus 4 (1W8) nekrotischer Schaden."
-  - name: "Lebensentzug:"
-    desc: "*Konstitutionsrettungswurf:* SG 13; eine Kreatur im Abstand von bis zu 1,5 Metern. *Misserfolg:* 6 (1W8+2) nekrotischer Schaden, und das Trefferpunktemaximum des Ziels wird um eine Anzahl in Höhe des erlittenen Schadens verringert.\n\nHumanoide, die durch diesen Angriff getötet werden, erheben sich 24 Stunden später als **[[3-Compendium/Kreaturen/Zombie|Zombies]]** unter Kontrolle des Gruftschrecken, sofern sie nicht zuvor wiederbelebt oder ihre Leichen zerstört werden. Der Gruftschrecken kann höchstens zwölf Zombies zugleich unter seiner Kontrolle haben."
+- desc: Der Gruftschrecken führt zwei Angriffe mit Nekrotisches Schwert oder Nekrotischer
+    Bogen in beliebiger Kombination aus. Er kann einen Angriff durch einen Einsatz
+    von Lebensentzug ersetzen.
+  name: 'Mehrfachangriff:'
+- desc: '*Nahkampfangriffswurf:* +4, Reichweite 1,5 m. *Treffer:* 6 (1W8+2) Hiebschaden
+    plus 4 (1W8) nekrotischer Schaden.'
+  name: 'Nekrotisches Schwert:'
+- desc: '*Fernkampfangriffswurf:* +4, Reichweite 45/180 m. *Treffer:* 6 (1W8+2) Stichschaden
+    plus 4 (1W8) nekrotischer Schaden.'
+  name: 'Nekrotischer Bogen:'
+- desc: '*Konstitutionsrettungswurf:* SG 13; eine Kreatur im Abstand von bis zu 1,5
+    Metern. *Misserfolg:* 6 (1W8+2) nekrotischer Schaden, und das Trefferpunktemaximum
+    des Ziels wird um eine Anzahl in Höhe des erlittenen Schadens verringert.
+
+
+    Humanoide, die durch diesen Angriff getötet werden, erheben sich 24 Stunden später
+    als **[[3-Compendium/Kreaturen/Zombie|Zombies]]** unter Kontrolle des Gruftschrecken,
+    sofern sie nicht zuvor wiederbelebt oder ihre Leichen zerstört werden. Der Gruftschrecken
+    kann höchstens zwölf Zombies zugleich unter seiner Kontrolle haben.'
+  name: 'Lebensentzug:'
+condition_immunities: Erschöpft, Vergiftet
+cr: 3
+cr_text: 3 (EP 700; ÜB +2)
+damage_immunities: Gift
+damage_resistances: Nekrotisch
+ep: 700
+gear: Beschlagene Lederrüstung
+gruppe: Gruftschrecken
+hg: '3'
+hit_dice: 11d8+33
+hp: 82
+hp_text: 82 (11W8+33)
+immunities_text: Gift; Erschöpft, [[3-Compendium/Zustände/Vergiftet|Vergiftet]]
+initiative: 4
+initiative_text: +4 (14)
+languages: Gemeinsprache und eine weitere Sprache
+layout: Compendio SRD 2024 (Deutsch)
+modifier: 4
+name: Gruftschrecken
+rk: 14
+senses: Dunkelsicht 18 m; Passive Wahrnehmung 13
+skills_text: Heimlichkeit +4, Wahrnehmung +3
+skillsaves:
+- Heimlichkeit: 4
+- Wahrnehmung: 3
+source: SRD
+speed: 9 m
+srd: criatura/wight
+statblock: true
+stats:
+- 15
+- 14
+- 16
+- 10
+- 13
+- 15
+stats_table: '|   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
+
+  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+  | **Stä** | 15 | +2 | +2 | **Ges** | 14 | +2 | +2 | **Kon** | 16 | +3 | +3 |
+
+  | **Int** | 10 | +0 | +0 | **Wei** | 13 | +1 | +1 | **Cha** | 15 | +2 | +2 |'
+tags:
+- srd/kreatur
+tp: 82
+traits:
+- desc: Im Sonnenlicht ist der Gruftschrecken bei Angriffs- und Attributswürfen im
+    Nachteil.
+  name: 'Empfindlich gegenüber Sonnenlicht:'
+typ: Mittelgroßer Untoter, neutral böse
+type: Mittelgroßer Untoter, neutral böse
 ---
 
-> [!srd-ficha] Gruftschrecken
-> *Mittelgroßer Untoter, neutral böse*
->
-> **RK** 14 · **Initiative** +4 (14)
->
-> **TP** 82 (11W8+33)
->
-> **Bewegungsrate** 9 m
->
-> |   |   | MOD | RW |   |   | MOD | RW |   |   | MOD | RW |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | **Stä** | 15 | +2 | +2 | **Ges** | 14 | +2 | +2 | **Kon** | 16 | +3 | +3 |
-> | **Int** | 10 | +0 | +0 | **Wei** | 13 | +1 | +1 | **Cha** | 15 | +2 | +2 |
->
-> **Fertigkeiten** Heimlichkeit +4, Wahrnehmung +3
->
-> **Resistenzen** Nekrotisch
->
-> **Immunitäten** Gift; Erschöpft, [[Vergiftet|Vergiftet]]
->
-> **Ausrüstung** Beschlagene Lederrüstung
->
-> **Sinne** Dunkelsicht 18 m; Passive Wahrnehmung 13
->
-> **Sprachen** Gemeinsprache und eine weitere Sprache
->
-> **HG** 3 (EP 700; ÜB +2)
+# Gruftschrecken
 
-## Merkmale
+*Mittelgroßer Untoter, neutral böse*
 
-***Empfindlich gegenüber Sonnenlicht:*** Im Sonnenlicht ist der Gruftschrecken bei Angriffs- und Attributswürfen im Nachteil.
+## Statistik
+
+- **RK:** 14
+- **TP:** 82 (11d8+33)
+- **Initiative:** +4
+- **Geschwindigkeit:** 9 m
+
+|  |  | Mod | RW |  |  | Mod | RW |  |  | Mod | RW |
+|--|--|-----|----|--|--|-----|----|--|--|-----|----|
+| **STÄ** | 15 | +2 | +2 | **GES** | 14 | +2 | +2 | **KON** | 16 | +3 | +3 |
+| **INT** | 10 | +0 | +0 | **WEI** | 13 | +1 | +1 | **CHA** | 15 | +2 | +2 |
+
+- **Rettungswürfe**: Heimlichkeit +4, Wahrnehmung +3
+- **Immunitäten:** Gift
+- **Sinne:** Dunkelsicht 18 m; Passive Wahrnehmung 13
+- **Sprachen:** Gemeinsprache und eine weitere Sprache
+- **HG:** 3 (EP 700; ÜB +2)
+
+
+## Talente
+
+### Empfindlich gegenüber Sonnenlicht:
+Im Sonnenlicht ist der Gruftschrecken bei Angriffs- und Attributswürfen im Nachteil.
+
 
 ## Aktionen
 
-***Mehrfachangriff:*** Der Gruftschrecken führt zwei Angriffe mit Nekrotisches Schwert oder Nekrotischer Bogen in beliebiger Kombination aus. Er kann einen Angriff durch einen Einsatz von Lebensentzug ersetzen.
+### Mehrfachangriff:
+Der Gruftschrecken führt zwei Angriffe mit Nekrotisches Schwert oder Nekrotischer Bogen in beliebiger Kombination aus. Er kann einen Angriff durch einen Einsatz von Lebensentzug ersetzen.
 
-***Nekrotisches Schwert:*** *Nahkampfangriffswurf:* +4, Reichweite 1,5 m. *Treffer:* 6 (1W8+2) Hiebschaden plus 4 (1W8) nekrotischer Schaden.
+### Nekrotisches Schwert:
+*Nahkampfangriffswurf:* +4, Reichweite 1,5 m. *Treffer:* 6 (1W8+2) Hiebschaden plus 4 (1W8) nekrotischer Schaden.
 
-***Nekrotischer Bogen:*** *Fernkampfangriffswurf:* +4, Reichweite 45/180 m. *Treffer:* 6 (1W8+2) Stichschaden plus 4 (1W8) nekrotischer Schaden.
+### Nekrotischer Bogen:
+*Fernkampfangriffswurf:* +4, Reichweite 45/180 m. *Treffer:* 6 (1W8+2) Stichschaden plus 4 (1W8) nekrotischer Schaden.
 
-***Lebensentzug:*** *Konstitutionsrettungswurf:* SG 13; eine Kreatur im Abstand von bis zu 1,5 Metern. *Misserfolg:* 6 (1W8+2) nekrotischer Schaden, und das Trefferpunktemaximum des Ziels wird um eine Anzahl in Höhe des erlittenen Schadens verringert.
+### Lebensentzug:
+*Konstitutionsrettungswurf:* SG 13; eine Kreatur im Abstand von bis zu 1,5 Metern. *Misserfolg:* 6 (1W8+2) nekrotischer Schaden, und das Trefferpunktemaximum des Ziels wird um eine Anzahl in Höhe des erlittenen Schadens verringert.
 
-Humanoide, die durch diesen Angriff getötet werden, erheben sich 24 Stunden später als **[[Zombie|Zombies]]** unter Kontrolle des Gruftschrecken, sofern sie nicht zuvor wiederbelebt oder ihre Leichen zerstört werden. Der Gruftschrecken kann höchstens zwölf Zombies zugleich unter seiner Kontrolle haben.
+Humanoide, die durch diesen Angriff getötet werden, erheben sich 24 Stunden später als **[[3-Compendium/Kreaturen/Zombie|Zombies]]** unter Kontrolle des Gruftschrecken, sofern sie nicht zuvor wiederbelebt oder ihre Leichen zerstört werden. Der Gruftschrecken kann höchstens zwölf Zombies zugleich unter seiner Kontrolle haben.
